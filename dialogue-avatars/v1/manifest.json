@@ -1,0 +1,892 @@
+{
+  "version": "1.0.0",
+  "created": "2026-10-19",
+  "repository": "lix14031-arch/TypeMoon",
+  "remoteDirectory": "dialogue-avatars/v1",
+  "emotionOrder": [
+    "happy",
+    "angry",
+    "sad",
+    "laugh",
+    "neutral",
+    "confused"
+  ],
+  "emotionLabels": [
+    "喜",
+    "怒",
+    "哀",
+    "乐",
+    "平静",
+    "迷惑"
+  ],
+  "portraitCell": {
+    "width": 512,
+    "height": 384
+  },
+  "avatarCell": {
+    "width": 128,
+    "height": 128
+  },
+  "characters": [
+    {
+      "name": "玛修",
+      "slug": "mash",
+      "collectionNo": 1,
+      "svtId": 800100,
+      "assetId": 8002100,
+      "ascension": null,
+      "costume": "常夏の水着Ver.03",
+      "costumeId": 800210,
+      "source": "https://static.atlasacademy.io/JP/CharaFigure/8002100/8002100_merged.png",
+      "metadata": "https://api.atlasacademy.io/raw/JP/svtScript?charaId=8002100",
+      "releaseSource": "https://news.fate-go.jp/2026/08/0812nico/",
+      "bodyRect": {
+        "left": 0,
+        "top": 0,
+        "width": 1024,
+        "height": 768
+      },
+      "faceX": 387,
+      "faceY": 139,
+      "faceSize": [
+        256,
+        256
+      ],
+      "avatars": "characters/mash/avatars.webp",
+      "portraits": "characters/mash/portraits.webp",
+      "avatarsSha256": "2367a618514738617ba3ee9e9d4931a770ec7f39ee38ec445dc734823ba2bc1c",
+      "portraitsSha256": "2800c6bf27eb8b5170d70218272477c562a9ac866d66ed02472ffbd95112ae29",
+      "bytes": 169418,
+      "expressions": [
+        {
+          "key": "happy",
+          "label": "喜",
+          "faceId": 14,
+          "approximate": false,
+          "note": "闭眼、嘴角上扬的微笑，与张口大笑区分。",
+          "position": "0%",
+          "avatarSha256": "cb1c83c72f81118fde04ef9226ab5db42eae8673d9808adfedd388d55e5aa461"
+        },
+        {
+          "key": "angry",
+          "label": "怒",
+          "faceId": 5,
+          "approximate": false,
+          "note": "眉眼紧绷、张口斥责。",
+          "position": "20%",
+          "avatarSha256": "f0d634753056414fafc120603c4e46bf29ee21210607b5c99e4e0884121d86fe"
+        },
+        {
+          "key": "sad",
+          "label": "哀",
+          "faceId": 15,
+          "approximate": true,
+          "note": "目光低垂、嘴角下落，接近低落或失望；原素材没有明确哭泣表情。",
+          "position": "40%",
+          "avatarSha256": "af1c8a664467dd39eabe082165228bb5a864c0d298243f2d30e4d8277e000024"
+        },
+        {
+          "key": "laugh",
+          "label": "乐",
+          "faceId": 18,
+          "approximate": false,
+          "note": "闭眼张口笑、轻微脸红，比喜更明显。",
+          "position": "60%",
+          "avatarSha256": "f7407aa358ed63f8c36c18f632a153b3dfefc78dfefcc4b24b21fe0204b54f64"
+        },
+        {
+          "key": "neutral",
+          "label": "平静",
+          "faceId": 1,
+          "approximate": false,
+          "note": "睁眼平和浅笑，作为默认日常状态。",
+          "position": "80%",
+          "avatarSha256": "6db1b987ba760a818fb1d35d2f07bd3f16aa78d49d450ec22961c92656988139"
+        },
+        {
+          "key": "confused",
+          "label": "迷惑",
+          "faceId": 8,
+          "approximate": true,
+          "note": "眉头略抬、嘴微张，接近疑惑或轻微惊讶；采用近似语义。",
+          "position": "100%",
+          "avatarSha256": "6586ed7fffe98307857849543ec33d2c1650b32a7155dcbd2cd9513d53da645b"
+        }
+      ]
+    },
+    {
+      "name": "阿尔托莉雅·潘德拉贡（Saber）",
+      "slug": "altria-saber",
+      "collectionNo": 2,
+      "svtId": 100100,
+      "assetId": 1001000,
+      "ascension": 1,
+      "costume": null,
+      "costumeId": null,
+      "source": "https://static.atlasacademy.io/JP/CharaFigure/1001000/1001000_merged.png",
+      "metadata": "https://api.atlasacademy.io/raw/JP/svtScript?charaId=1001000",
+      "releaseSource": null,
+      "bodyRect": {
+        "left": 0,
+        "top": 0,
+        "width": 1024,
+        "height": 768
+      },
+      "faceX": 384,
+      "faceY": 149,
+      "faceSize": [
+        256,
+        256
+      ],
+      "avatars": "characters/altria-saber/avatars.webp",
+      "portraits": "characters/altria-saber/portraits.webp",
+      "avatarsSha256": "b2b65fd06bb34f6256040834bef19a18acee9124bba32d40eec3222dd083d7ce",
+      "portraitsSha256": "4d656464068ef6e0fdba110ab9b1bc790448c40d22925917a796a9a1306b2dcd",
+      "bytes": 225194,
+      "expressions": [
+        {
+          "key": "happy",
+          "label": "喜",
+          "faceId": 1,
+          "approximate": false,
+          "note": "嘴角上扬的清晰微笑。",
+          "position": "0%",
+          "avatarSha256": "7ae06ae9bfcf729b610e55fecb24f756002b669687903e559fec3359609675cb"
+        },
+        {
+          "key": "angry",
+          "label": "怒",
+          "faceId": 2,
+          "approximate": false,
+          "note": "扬眉睁眼、张嘴高声斥责。",
+          "position": "20%",
+          "avatarSha256": "1b5e032d0be274596486c40c8acd5c48f4e03d5007a9bad0dfba8a0dcfb72529"
+        },
+        {
+          "key": "sad",
+          "label": "哀",
+          "faceId": 4,
+          "approximate": true,
+          "note": "嘴角下压、神态不安；原图无明确哭泣或悲伤差分，取低落近似。",
+          "position": "40%",
+          "avatarSha256": "89a8540a8984a517c726de17397848de631a4741840287edd0cd784dd0d6b22a"
+        },
+        {
+          "key": "laugh",
+          "label": "乐",
+          "faceId": 3,
+          "approximate": true,
+          "note": "柔和的浅笑；原图没有开怀大笑，不能视作严格的乐表情。",
+          "position": "60%",
+          "avatarSha256": "eba7f95c08b86bdbe2e6b3cf3211f700c9f9adf2d16c98b9d15594136aff2c28"
+        },
+        {
+          "key": "neutral",
+          "label": "平静",
+          "faceId": 0,
+          "approximate": false,
+          "note": "主体原始表情，闭口平静。",
+          "position": "80%",
+          "avatarSha256": "e7612835f4bb0cd909cec5ccc12c28b79cb2fffcb297fa2fe011862380984327"
+        },
+        {
+          "key": "confused",
+          "label": "迷惑",
+          "faceId": 5,
+          "approximate": true,
+          "note": "张嘴、眉头蹙起的疑问或抗议神态；取疑惑近似。",
+          "position": "100%",
+          "avatarSha256": "315769b19d35ee4e1afe88e994ecdd21d79257fab7199dd8441f17c343f84914"
+        }
+      ]
+    },
+    {
+      "name": "卫宫（Archer）",
+      "slug": "emiya-archer",
+      "collectionNo": 11,
+      "svtId": 200100,
+      "assetId": 2001000,
+      "ascension": 1,
+      "costume": null,
+      "costumeId": null,
+      "source": "https://static.atlasacademy.io/JP/CharaFigure/2001000/2001000_merged.png",
+      "metadata": "https://api.atlasacademy.io/raw/JP/svtScript?charaId=2001000",
+      "releaseSource": null,
+      "bodyRect": {
+        "left": 0,
+        "top": 0,
+        "width": 1024,
+        "height": 768
+      },
+      "faceX": 351,
+      "faceY": 139,
+      "faceSize": [
+        256,
+        256
+      ],
+      "avatars": "characters/emiya-archer/avatars.webp",
+      "portraits": "characters/emiya-archer/portraits.webp",
+      "avatarsSha256": "dc44622f0986a9795ca9de9310e941fa09af592c3fdd50e9c8e9a1ca833ce097",
+      "portraitsSha256": "ab1e504de9fc784652d0da8dd2faf49ab2ad21d81a1aaaa4d4b8edb825fb38c1",
+      "bytes": 151290,
+      "expressions": [
+        {
+          "key": "happy",
+          "label": "喜",
+          "faceId": 1,
+          "approximate": false,
+          "note": "闭口微笑、嘴角轻扬。",
+          "position": "0%",
+          "avatarSha256": "f18ea64634e0445c836fa1caa9cda6f94a3b2ec29c3a20b32edd6a319d8821dc"
+        },
+        {
+          "key": "angry",
+          "label": "怒",
+          "faceId": 2,
+          "approximate": false,
+          "note": "眉眼严厉、张口怒喝。",
+          "position": "20%",
+          "avatarSha256": "c934d34826f1960c13bfc500ef75b1cd3503b5eb3fdc8930699c0efa61a3fad3"
+        },
+        {
+          "key": "sad",
+          "label": "哀",
+          "faceId": 4,
+          "approximate": true,
+          "note": "闭口严肃、嘴角下压；无明确悲伤差分，取低沉近似。",
+          "position": "40%",
+          "avatarSha256": "589cd1ffdc7f2d1b576a7544c1d9e763c569229792204f5153fd0291b353a7c5"
+        },
+        {
+          "key": "laugh",
+          "label": "乐",
+          "faceId": 6,
+          "approximate": true,
+          "note": "闭眼舒展的笑容；喜悦明显，但并非张口开怀大笑。",
+          "position": "60%",
+          "avatarSha256": "dfa0204617f994787067fa187d15924c020ce3c32651352b4e0b792867505ced"
+        },
+        {
+          "key": "neutral",
+          "label": "平静",
+          "faceId": 0,
+          "approximate": false,
+          "note": "主体原始表情，平静严肃。",
+          "position": "80%",
+          "avatarSha256": "aa62b6c06762dcbf2da2c547f1da2a1391302e3a09e6e3a5658bb0ba985cab25"
+        },
+        {
+          "key": "confused",
+          "label": "迷惑",
+          "faceId": 5,
+          "approximate": true,
+          "note": "蹙眉侧目、微张口，接近质疑或困惑。",
+          "position": "100%",
+          "avatarSha256": "39e7b175e495f9db77436d1743ae1faed94ef6b5578176254327d800ac9ee934"
+        }
+      ]
+    },
+    {
+      "name": "库·丘林（Lancer）",
+      "slug": "cu-chulainn-lancer",
+      "collectionNo": 17,
+      "svtId": 300100,
+      "assetId": 3001000,
+      "ascension": 1,
+      "costume": null,
+      "costumeId": null,
+      "source": "https://static.atlasacademy.io/JP/CharaFigure/3001000/3001000_merged.png",
+      "metadata": "https://api.atlasacademy.io/raw/JP/svtScript?charaId=3001000",
+      "releaseSource": null,
+      "bodyRect": {
+        "left": 0,
+        "top": 0,
+        "width": 1024,
+        "height": 768
+      },
+      "faceX": 378,
+      "faceY": 155,
+      "faceSize": [
+        256,
+        256
+      ],
+      "avatars": "characters/cu-chulainn-lancer/avatars.webp",
+      "portraits": "characters/cu-chulainn-lancer/portraits.webp",
+      "avatarsSha256": "ec8b9dca9a7fa69240185b391e17b40be2854c09b73b5b21ca0c493995a2587f",
+      "portraitsSha256": "1c89bae656bc827c3dbd5a33da2f981163d9d9e5738e4bf7ad80e6c1b76cd554",
+      "bytes": 194670,
+      "expressions": [
+        {
+          "key": "happy",
+          "label": "喜",
+          "faceId": 1,
+          "approximate": false,
+          "note": "嘴角轻扬的轻松笑容。",
+          "position": "0%",
+          "avatarSha256": "d69a03ce1ee2989206fe54e294fb3d39ae4d16020346f9a8178bb39dd1fe4423"
+        },
+        {
+          "key": "angry",
+          "label": "怒",
+          "faceId": 2,
+          "approximate": false,
+          "note": "睁眼张口怒喝。",
+          "position": "20%",
+          "avatarSha256": "7fbf5b556365fc578c7ecf8935438dfe00a225f8ac839d8a3f86b2c3afcc90c1"
+        },
+        {
+          "key": "sad",
+          "label": "哀",
+          "faceId": 4,
+          "approximate": true,
+          "note": "眉头紧皱、嘴角下压；无明确哀伤差分，取忧虑近似。",
+          "position": "40%",
+          "avatarSha256": "e1fc51d98130eabd468afab1f973bbe0242c05f5554a8fe5c06344c2cde096d1"
+        },
+        {
+          "key": "laugh",
+          "label": "乐",
+          "faceId": 5,
+          "approximate": true,
+          "note": "睁大双眼、露齿咧笑；较接近兴奋或挑衅，并非纯粹开怀笑。",
+          "position": "60%",
+          "avatarSha256": "d635951ee74ab7c9939b55f865f6e63df943f8d87158c799968c9b9394d36cc9"
+        },
+        {
+          "key": "neutral",
+          "label": "平静",
+          "faceId": 0,
+          "approximate": false,
+          "note": "主体原始表情，闭口平静。",
+          "position": "80%",
+          "avatarSha256": "a1d0cb1d03f3bb0d87afde3dec9f5276281beaa24e90366c547daba5fe3971ff"
+        },
+        {
+          "key": "confused",
+          "label": "迷惑",
+          "faceId": 3,
+          "approximate": true,
+          "note": "轻微张口、眉眼有疑问感，取疑惑近似。",
+          "position": "100%",
+          "avatarSha256": "82c51754d7b6eeed5e2411a9a9d063177ab7c3e730ff9a172892ffd7a89159c1"
+        }
+      ]
+    },
+    {
+      "name": "吉尔伽美什（Archer）",
+      "slug": "gilgamesh-archer",
+      "collectionNo": 12,
+      "svtId": 200200,
+      "assetId": 2002000,
+      "ascension": 1,
+      "costume": null,
+      "costumeId": null,
+      "source": "https://static.atlasacademy.io/JP/CharaFigure/2002000/2002000_merged.png",
+      "metadata": "https://api.atlasacademy.io/raw/JP/svtScript?charaId=2002000",
+      "releaseSource": null,
+      "bodyRect": {
+        "left": 0,
+        "top": 0,
+        "width": 1024,
+        "height": 768
+      },
+      "faceX": 384,
+      "faceY": 149,
+      "faceSize": [
+        256,
+        256
+      ],
+      "avatars": "characters/gilgamesh-archer/avatars.webp",
+      "portraits": "characters/gilgamesh-archer/portraits.webp",
+      "avatarsSha256": "72d8c0b61f920bc8d33aa6fe597e2cce58683aa035fe48d578bef09a7e15c398",
+      "portraitsSha256": "fa748e713fa4db02d7cb96cf1c12d8456a553ca247a8a2599dcb4521d953e11e",
+      "bytes": 172540,
+      "expressions": [
+        {
+          "key": "happy",
+          "label": "喜",
+          "faceId": 1,
+          "approximate": false,
+          "note": "嘴角上扬、露齿自信微笑。",
+          "position": "0%",
+          "avatarSha256": "54c6ccd65addff44fdaf231b778c429576094b14b97a75458edf6d7ff04dacad"
+        },
+        {
+          "key": "angry",
+          "label": "怒",
+          "faceId": 8,
+          "approximate": false,
+          "note": "眉头紧锁、张嘴怒斥。",
+          "position": "20%",
+          "avatarSha256": "a607a0b7e4bcfd3236dd5819f9dd8893f11eb089a806fab1b9dadefcbba156db"
+        },
+        {
+          "key": "sad",
+          "label": "哀",
+          "faceId": 3,
+          "approximate": true,
+          "note": "闭目、嘴角下压，接近失望或不悦；无明确悲伤差分。",
+          "position": "40%",
+          "avatarSha256": "076646201516029adf039631799992b9536bea8c364e3c01652732d031ec2052"
+        },
+        {
+          "key": "laugh",
+          "label": "乐",
+          "faceId": 6,
+          "approximate": false,
+          "note": "双眼闭起、张口开怀大笑。",
+          "position": "60%",
+          "avatarSha256": "09067430505a535a0d775e59fb3176074258e912d49ea99bdec2e2dcf45b1514"
+        },
+        {
+          "key": "neutral",
+          "label": "平静",
+          "faceId": 0,
+          "approximate": false,
+          "note": "主体原始表情，闭口沉静。",
+          "position": "80%",
+          "avatarSha256": "ad93691c10b771673be7100191b25bcc8a455d11dfe01248a9c60e382a90ac05"
+        },
+        {
+          "key": "confused",
+          "label": "迷惑",
+          "faceId": 5,
+          "approximate": true,
+          "note": "眼睛睁大、闭口凝视，接近意外或困惑。",
+          "position": "100%",
+          "avatarSha256": "cbc15e83871f74dea2f2d8c72bdc9a03c686cd385d5b9d0577b319fe27e332d2"
+        }
+      ]
+    },
+    {
+      "name": "贞德",
+      "slug": "jeanne-ruler",
+      "collectionNo": 59,
+      "svtId": 900100,
+      "assetId": 9001000,
+      "ascension": 1,
+      "costume": null,
+      "costumeId": null,
+      "source": "https://static.atlasacademy.io/JP/CharaFigure/9001000/9001000_merged.png",
+      "metadata": "https://api.atlasacademy.io/raw/JP/svtScript?charaId=9001000",
+      "releaseSource": null,
+      "bodyRect": {
+        "left": 0,
+        "top": 0,
+        "width": 1024,
+        "height": 768
+      },
+      "faceX": 394,
+      "faceY": 163,
+      "faceSize": [
+        256,
+        256
+      ],
+      "avatars": "characters/jeanne-ruler/avatars.webp",
+      "portraits": "characters/jeanne-ruler/portraits.webp",
+      "avatarsSha256": "ad8a5b8aeebae610cba88d0678bfedcf65d8145bdc2657c2494f96f5058b181c",
+      "portraitsSha256": "3e6772eabaea50c552d29962407e4a91bedcb189498f6d592f92e5bb15ef99f5",
+      "bytes": 297888,
+      "expressions": [
+        {
+          "key": "happy",
+          "label": "喜",
+          "faceId": 7,
+          "approximate": false,
+          "note": "嘴角轻扬、目光柔和，含蓄的欣喜微笑。",
+          "position": "0%",
+          "avatarSha256": "deead48d3db517c8761ad0a32466c2ffe860ae4bcd30166ff3f8c3f6c16ba751"
+        },
+        {
+          "key": "angry",
+          "label": "怒",
+          "faceId": 2,
+          "approximate": false,
+          "note": "眉眼收紧、张口呼喊，适合愤怒或强烈斥责。",
+          "position": "20%",
+          "avatarSha256": "a765457267dbd49065134d0292e01d066fa21a5bbba2771e097c4723d029a4f5"
+        },
+        {
+          "key": "sad",
+          "label": "哀",
+          "faceId": 4,
+          "approximate": true,
+          "note": "嘴角向下、神情收敛，作为低落近似；原图没有明显哭泣或强烈悲伤。",
+          "position": "40%",
+          "avatarSha256": "2a2824d83e1a311452cd062a31dbf18ae23013079650c04158ff2c9213bfada6"
+        },
+        {
+          "key": "laugh",
+          "label": "乐",
+          "faceId": 1,
+          "approximate": true,
+          "note": "张嘴微笑，比默认笑容更明显；本形态没有闭眼大笑，作为开怀笑的最近似。",
+          "position": "60%",
+          "avatarSha256": "bebfa001137d7d84d3fcba7436fda750fb1154f1bd6b4e0ba2d93e85b12087f3"
+        },
+        {
+          "key": "neutral",
+          "label": "平静",
+          "faceId": 0,
+          "approximate": false,
+          "note": "原主体表情，平和的轻微笑容。",
+          "position": "80%",
+          "avatarSha256": "ea53796e8318330ed2a52e540b42385e1af6fbb996af0993627cb7ad5b2f1651"
+        },
+        {
+          "key": "confused",
+          "label": "迷惑",
+          "faceId": 6,
+          "approximate": true,
+          "note": "张口、眉眼带疑问或惊讶，作为迷惑近似。",
+          "position": "100%",
+          "avatarSha256": "e6a5f241ba89860680442db30b3d5d795d60f9c28bc85ae0c8e9594ae7ef0f10"
+        }
+      ]
+    },
+    {
+      "name": "玉藻前",
+      "slug": "tamamo-caster",
+      "collectionNo": 62,
+      "svtId": 500300,
+      "assetId": 5003000,
+      "ascension": 1,
+      "costume": null,
+      "costumeId": null,
+      "source": "https://static.atlasacademy.io/JP/CharaFigure/5003000/5003000_merged.png",
+      "metadata": "https://api.atlasacademy.io/raw/JP/svtScript?charaId=5003000",
+      "releaseSource": null,
+      "bodyRect": {
+        "left": 0,
+        "top": 0,
+        "width": 1024,
+        "height": 768
+      },
+      "faceX": 386,
+      "faceY": 152,
+      "faceSize": [
+        256,
+        256
+      ],
+      "avatars": "characters/tamamo-caster/avatars.webp",
+      "portraits": "characters/tamamo-caster/portraits.webp",
+      "avatarsSha256": "1d3f32b0f6687d2546347ad5dc9939ff20ea1faf4b187c66192c5c582cc7a501",
+      "portraitsSha256": "92eb21eae5943386abd390e9e7dfa8c4590fb111b24297d69aaeb7f2656d21c5",
+      "bytes": 259840,
+      "expressions": [
+        {
+          "key": "happy",
+          "label": "喜",
+          "faceId": 3,
+          "approximate": false,
+          "note": "面颊泛红、嘴角上扬，适合欣喜。",
+          "position": "0%",
+          "avatarSha256": "fdcdbd737e8f948e05c965d83dd11e5a171c814c48c74185b6e5cf39a3218c2d"
+        },
+        {
+          "key": "angry",
+          "label": "怒",
+          "faceId": 2,
+          "approximate": false,
+          "note": "皱眉张口、露出尖牙，明显不满或发怒。",
+          "position": "20%",
+          "avatarSha256": "5b75471517ea96e3f22db1d35b17e126db78aca96e8fb86dafc62aa1b004ec85"
+        },
+        {
+          "key": "sad",
+          "label": "哀",
+          "faceId": 4,
+          "approximate": true,
+          "note": "嘴角下垂、神情沉下，作为低落近似；没有明确哭泣差分。",
+          "position": "40%",
+          "avatarSha256": "7c2f841e0bbf5b013b3710732ae4bed3b13686c9178b080324c63fe8b3f423ec"
+        },
+        {
+          "key": "laugh",
+          "label": "乐",
+          "faceId": 1,
+          "approximate": true,
+          "note": "微张嘴笑，比原主体笑容更活泼；没有更夸张的开怀笑。",
+          "position": "60%",
+          "avatarSha256": "bad680e4d29cbf07781eadcb3a98866f611a037d13864daa82c1c4613d71529c"
+        },
+        {
+          "key": "neutral",
+          "label": "平静",
+          "faceId": 0,
+          "approximate": false,
+          "note": "原主体表情，平静的日常微笑。",
+          "position": "80%",
+          "avatarSha256": "3a66f108b13aac0857ce203f8186f467ed95fdf490e9521f26e764a31a2edddf"
+        },
+        {
+          "key": "confused",
+          "label": "迷惑",
+          "faceId": 5,
+          "approximate": true,
+          "note": "眉头拧起、闭口迟疑，更接近不解或不满；没有明确疑问差分。",
+          "position": "100%",
+          "avatarSha256": "64e1cd380c4b71274b1b5625655dc79cddaf435038e31ae61ab3c0b559929076"
+        }
+      ]
+    },
+    {
+      "name": "尼禄",
+      "slug": "nero-saber",
+      "collectionNo": 5,
+      "svtId": 100500,
+      "assetId": 1005000,
+      "ascension": 1,
+      "costume": null,
+      "costumeId": null,
+      "source": "https://static.atlasacademy.io/JP/CharaFigure/1005000/1005000_merged.png",
+      "metadata": "https://api.atlasacademy.io/raw/JP/svtScript?charaId=1005000",
+      "releaseSource": null,
+      "bodyRect": {
+        "left": 0,
+        "top": 0,
+        "width": 1024,
+        "height": 768
+      },
+      "faceX": 384,
+      "faceY": 149,
+      "faceSize": [
+        256,
+        256
+      ],
+      "avatars": "characters/nero-saber/avatars.webp",
+      "portraits": "characters/nero-saber/portraits.webp",
+      "avatarsSha256": "20cce53d93de7d3dfb42848d21cdc0ae7b269523771e9ab201c2088f26f9e566",
+      "portraitsSha256": "af672d52a3c985088cfc9f6cf98fe46070153bd71ccf550228b85237b26ae6ef",
+      "bytes": 243944,
+      "expressions": [
+        {
+          "key": "happy",
+          "label": "喜",
+          "faceId": 1,
+          "approximate": false,
+          "note": "嘴角明显上扬，目光有神的得意微笑。",
+          "position": "0%",
+          "avatarSha256": "228e1dbbe09c244717f7e8bd4c16d0c9832a6801b2ff3b2f0ed4e1fbbf0d3b8c"
+        },
+        {
+          "key": "angry",
+          "label": "怒",
+          "faceId": 2,
+          "approximate": false,
+          "note": "眉眼收紧、张口喊话，适合愤怒斥责。",
+          "position": "20%",
+          "avatarSha256": "0e9c83fd4990443acacb6938356cdcc1708896db507ba01a95863a160efda825"
+        },
+        {
+          "key": "sad",
+          "label": "哀",
+          "faceId": 4,
+          "approximate": true,
+          "note": "眉尾下落、嘴角收敛，作为低落悲伤近似。",
+          "position": "40%",
+          "avatarSha256": "1b583c7c60077eb0a051aefd20f4c1e005f869a10211bf84fbc8035bd409ff6a"
+        },
+        {
+          "key": "laugh",
+          "label": "乐",
+          "faceId": 7,
+          "approximate": false,
+          "note": "闭眼、张大嘴开怀大笑，区别于欣喜微笑。",
+          "position": "60%",
+          "avatarSha256": "06b77dc13288eaa67b8abb6146e969dce4d818e2aabd5d5b8d172720897d4216"
+        },
+        {
+          "key": "neutral",
+          "label": "平静",
+          "faceId": 0,
+          "approximate": false,
+          "note": "原主体表情，平静、轻微笑意。",
+          "position": "80%",
+          "avatarSha256": "e49facf97246d68ced8fbf26360303dddcf16cc2351cd67a96b7a4a272d26c46"
+        },
+        {
+          "key": "confused",
+          "label": "迷惑",
+          "faceId": 5,
+          "approximate": true,
+          "note": "眉眼疑问、张口反问，作为迷惑或质疑近似，也可能显得不满。",
+          "position": "100%",
+          "avatarSha256": "98e1fa2497fe3714a31312d8e5b366ff9cc60b0daa94cc6a5f2872ff85c17b6b"
+        }
+      ]
+    },
+    {
+      "name": "冲田总司",
+      "slug": "okita-saber",
+      "collectionNo": 68,
+      "svtId": 102700,
+      "assetId": 1027000,
+      "ascension": 1,
+      "costume": null,
+      "costumeId": null,
+      "source": "https://static.atlasacademy.io/JP/CharaFigure/1027000/1027000_merged.png",
+      "metadata": "https://api.atlasacademy.io/raw/JP/svtScript?charaId=1027000",
+      "releaseSource": null,
+      "bodyRect": {
+        "left": 0,
+        "top": 0,
+        "width": 1024,
+        "height": 768
+      },
+      "faceX": 388,
+      "faceY": 179,
+      "faceSize": [
+        256,
+        256
+      ],
+      "avatars": "characters/okita-saber/avatars.webp",
+      "portraits": "characters/okita-saber/portraits.webp",
+      "avatarsSha256": "c2f48d1e5d30dc199978b8c8526bd4440f0be754139f8e9918050306929338f3",
+      "portraitsSha256": "ea68be84cf098de19c8ce1feee33f074beebb0eb48d9393d5f86f049143f5933",
+      "bytes": 183424,
+      "expressions": [
+        {
+          "key": "happy",
+          "label": "喜",
+          "faceId": 10,
+          "approximate": false,
+          "note": "闭眼微笑、嘴巴闭合，温和欣喜。",
+          "position": "0%",
+          "avatarSha256": "13e95e47b40a51cdfdf2a007fd704b05644de3d6a2b7a57e47dbd70f3cc57302"
+        },
+        {
+          "key": "angry",
+          "label": "怒",
+          "faceId": 2,
+          "approximate": false,
+          "note": "眉头下压、张口斥责，明显愤怒。",
+          "position": "20%",
+          "avatarSha256": "b1f4cfbd571dc319ab27ab230d8e293245e3948f19c4b0ceca54afd1a523d292"
+        },
+        {
+          "key": "sad",
+          "label": "哀",
+          "faceId": 4,
+          "approximate": true,
+          "note": "眉眼下落、嘴角向下，轻度失落；避免使用咳血等病痛差分代替悲伤。",
+          "position": "40%",
+          "avatarSha256": "1e5153eaad2d7d695c89571679180083b15bbb65eb3981c4b52f9509fe08f5c3"
+        },
+        {
+          "key": "laugh",
+          "label": "乐",
+          "faceId": 11,
+          "approximate": false,
+          "note": "闭眼张嘴欢笑，较欣喜微笑更开朗。",
+          "position": "60%",
+          "avatarSha256": "d22675a95ce53db594a88de79879910b8be25dbf6279c1efd514ed9bd3789456"
+        },
+        {
+          "key": "neutral",
+          "label": "平静",
+          "faceId": 0,
+          "approximate": false,
+          "note": "原主体表情，平和微笑。",
+          "position": "80%",
+          "avatarSha256": "7db3995ce210f34aeb78180cf8b96e894b03d77e4f37380e31de3a92da478687"
+        },
+        {
+          "key": "confused",
+          "label": "迷惑",
+          "faceId": 8,
+          "approximate": false,
+          "note": "睁眼、嘴巴小幅张开，疑问或不解。",
+          "position": "100%",
+          "avatarSha256": "067517d57a824345989f1cd74298653b6b03c877588cac5c702fcdeb2c807470"
+        }
+      ]
+    },
+    {
+      "name": "伊什塔尔",
+      "slug": "ishtar",
+      "collectionNo": 142,
+      "svtId": 202000,
+      "assetId": 2020000,
+      "ascension": 1,
+      "costume": null,
+      "costumeId": null,
+      "source": "https://static.atlasacademy.io/JP/CharaFigure/2020000/2020000_merged.png",
+      "metadata": "https://api.atlasacademy.io/raw/JP/svtScript?charaId=2020000",
+      "releaseSource": null,
+      "bodyRect": {
+        "left": 0,
+        "top": 0,
+        "width": 1024,
+        "height": 768
+      },
+      "faceX": 327,
+      "faceY": 165,
+      "faceSize": [
+        256,
+        256
+      ],
+      "avatars": "characters/ishtar/avatars.webp",
+      "portraits": "characters/ishtar/portraits.webp",
+      "avatarsSha256": "0925659a83b0062e7b2a2ca129f2807da966827369759ca4ec9cda26cda25686",
+      "portraitsSha256": "c7db778e8a41b53b19367264be516541c0f5c700d7dba17f2f481f17c8caafba",
+      "bytes": 460888,
+      "expressions": [
+        {
+          "key": "happy",
+          "label": "喜",
+          "faceId": 7,
+          "approximate": false,
+          "note": "睁眼微笑，嘴角上扬，与闭眼张口的乐区分。",
+          "position": "0%",
+          "avatarSha256": "278f3209fd599603b73499ab584be88352bbf15fa60da63c4987755d7729a4ea"
+        },
+        {
+          "key": "angry",
+          "label": "怒",
+          "faceId": 10,
+          "approximate": false,
+          "note": "明显蹙眉、张口斥责。",
+          "position": "20%",
+          "avatarSha256": "507989a18163270689145e89caf84269b0e61d79e47f3e369db4978c6c29309e"
+        },
+        {
+          "key": "sad",
+          "label": "哀",
+          "faceId": 11,
+          "approximate": true,
+          "note": "闭眼叹气、嘴角下落，接近低落或无奈；不是明确哭泣。",
+          "position": "40%",
+          "avatarSha256": "de4bc8526651b917c917e225c18a5972b584a38b8a25bd1983f13403d9df9d32"
+        },
+        {
+          "key": "laugh",
+          "label": "乐",
+          "faceId": 1,
+          "approximate": false,
+          "note": "闭眼张口笑，明显愉快。",
+          "position": "60%",
+          "avatarSha256": "fdacb982eb734ff8b4c4421435f8acc4b5366e2bb7a470d8a207d5ed4a3e2388"
+        },
+        {
+          "key": "neutral",
+          "label": "平静",
+          "faceId": 8,
+          "approximate": false,
+          "note": "平视闭口，作为日常默认表情。",
+          "position": "80%",
+          "avatarSha256": "b22b7c8f1cda5a90ccd4af67202d51b244d56ab53608d7a6ebc836d18b971ad0"
+        },
+        {
+          "key": "confused",
+          "label": "迷惑",
+          "faceId": 15,
+          "approximate": true,
+          "note": "额头与脸颊有汗、嘴微张，接近困惑或窘迫慌张。",
+          "position": "100%",
+          "avatarSha256": "d9c58097906c6b6710215bd5d39df9ed03df1a5adb1b658dda9e721694c5284f"
+        }
+      ]
+    }
+  ]
+}
