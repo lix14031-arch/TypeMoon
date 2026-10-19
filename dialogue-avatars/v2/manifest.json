@@ -1,0 +1,2358 @@
+{
+  "version": "2.0.0-phase-accepted",
+  "title": "V2-阶段验收",
+  "scope": "原有33套保持原字节，加用户明确验收的5套FZ；不是FZ全量完成版",
+  "baseline": "20261020-022028",
+  "repository": "lix14031-arch/TypeMoon",
+  "assetRef": "6d804a2ac13fec2b6943d8e5224de0ac9c64c574",
+  "pinned": true,
+  "status": "local-build-pinned-to-image-commit",
+  "characterCount": 38,
+  "expressionCount": 228,
+  "imageFileCount": 106,
+  "newImageFileCount": 40,
+  "legacyImageFileCount": 66,
+  "workCounts": {
+    "FGO": 10,
+    "TSUKI-R": 23,
+    "FZ": 5,
+    "FSN": 0
+  },
+  "emotionOrder": [
+    "happy",
+    "angry",
+    "sad",
+    "laugh",
+    "neutral",
+    "confused"
+  ],
+  "untrustedWhitelist": [],
+  "stateOnlyCharacters": [],
+  "characters": [
+    {
+      "key": "玛修-FGO",
+      "name": "玛修",
+      "work": "FGO",
+      "kind": "preserved-baseline",
+      "sourceWork": "FGO",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E7%8E%9B%E4%BF%AE-FGO/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E7%8E%9B%E4%BF%AE-FGO/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/玛修-FGO/avatars.webp",
+          "sha256": "2367a618514738617ba3ee9e9d4931a770ec7f39ee38ec445dc734823ba2bc1c",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/玛修-FGO/portraits.webp",
+          "sha256": "2800c6bf27eb8b5170d70218272477c562a9ac866d66ed02472ffbd95112ae29",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "阿尔托莉雅·潘德拉贡（Saber）-FGO",
+      "name": "阿尔托莉雅·潘德拉贡（Saber）",
+      "work": "FGO",
+      "kind": "preserved-baseline",
+      "sourceWork": "FGO",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1%EF%BC%88Saber%EF%BC%89-FGO/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1%EF%BC%88Saber%EF%BC%89-FGO/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/阿尔托莉雅·潘德拉贡（Saber）-FGO/avatars.webp",
+          "sha256": "b2b65fd06bb34f6256040834bef19a18acee9124bba32d40eec3222dd083d7ce",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/阿尔托莉雅·潘德拉贡（Saber）-FGO/portraits.webp",
+          "sha256": "4d656464068ef6e0fdba110ab9b1bc790448c40d22925917a796a9a1306b2dcd",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "卫宫（Archer）-FGO",
+      "name": "卫宫（Archer）",
+      "work": "FGO",
+      "kind": "preserved-baseline",
+      "sourceWork": "FGO",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E5%8D%AB%E5%AE%AB%EF%BC%88Archer%EF%BC%89-FGO/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E5%8D%AB%E5%AE%AB%EF%BC%88Archer%EF%BC%89-FGO/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/卫宫（Archer）-FGO/avatars.webp",
+          "sha256": "dc44622f0986a9795ca9de9310e941fa09af592c3fdd50e9c8e9a1ca833ce097",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/卫宫（Archer）-FGO/portraits.webp",
+          "sha256": "ab1e504de9fc784652d0da8dd2faf49ab2ad21d81a1aaaa4d4b8edb825fb38c1",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "库·丘林（Lancer）-FGO",
+      "name": "库·丘林（Lancer）",
+      "work": "FGO",
+      "kind": "preserved-baseline",
+      "sourceWork": "FGO",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E5%BA%93%C2%B7%E4%B8%98%E6%9E%97%EF%BC%88Lancer%EF%BC%89-FGO/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E5%BA%93%C2%B7%E4%B8%98%E6%9E%97%EF%BC%88Lancer%EF%BC%89-FGO/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/库·丘林（Lancer）-FGO/avatars.webp",
+          "sha256": "ec8b9dca9a7fa69240185b391e17b40be2854c09b73b5b21ca0c493995a2587f",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/库·丘林（Lancer）-FGO/portraits.webp",
+          "sha256": "1c89bae656bc827c3dbd5a33da2f981163d9d9e5738e4bf7ad80e6c1b76cd554",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "吉尔伽美什（Archer）-FGO",
+      "name": "吉尔伽美什（Archer）",
+      "work": "FGO",
+      "kind": "preserved-baseline",
+      "sourceWork": "FGO",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80%EF%BC%88Archer%EF%BC%89-FGO/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80%EF%BC%88Archer%EF%BC%89-FGO/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/吉尔伽美什（Archer）-FGO/avatars.webp",
+          "sha256": "72d8c0b61f920bc8d33aa6fe597e2cce58683aa035fe48d578bef09a7e15c398",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/吉尔伽美什（Archer）-FGO/portraits.webp",
+          "sha256": "fa748e713fa4db02d7cb96cf1c12d8456a553ca247a8a2599dcb4521d953e11e",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "贞德-FGO",
+      "name": "贞德",
+      "work": "FGO",
+      "kind": "preserved-baseline",
+      "sourceWork": "FGO",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E8%B4%9E%E5%BE%B7-FGO/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E8%B4%9E%E5%BE%B7-FGO/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/贞德-FGO/avatars.webp",
+          "sha256": "ad8a5b8aeebae610cba88d0678bfedcf65d8145bdc2657c2494f96f5058b181c",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/贞德-FGO/portraits.webp",
+          "sha256": "3e6772eabaea50c552d29962407e4a91bedcb189498f6d592f92e5bb15ef99f5",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "玉藻前-FGO",
+      "name": "玉藻前",
+      "work": "FGO",
+      "kind": "preserved-baseline",
+      "sourceWork": "FGO",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E7%8E%89%E8%97%BB%E5%89%8D-FGO/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E7%8E%89%E8%97%BB%E5%89%8D-FGO/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/玉藻前-FGO/avatars.webp",
+          "sha256": "1d3f32b0f6687d2546347ad5dc9939ff20ea1faf4b187c66192c5c582cc7a501",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/玉藻前-FGO/portraits.webp",
+          "sha256": "92eb21eae5943386abd390e9e7dfa8c4590fb111b24297d69aaeb7f2656d21c5",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "尼禄-FGO",
+      "name": "尼禄",
+      "work": "FGO",
+      "kind": "preserved-baseline",
+      "sourceWork": "FGO",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E5%B0%BC%E7%A6%84-FGO/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E5%B0%BC%E7%A6%84-FGO/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/尼禄-FGO/avatars.webp",
+          "sha256": "20cce53d93de7d3dfb42848d21cdc0ae7b269523771e9ab201c2088f26f9e566",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/尼禄-FGO/portraits.webp",
+          "sha256": "af672d52a3c985088cfc9f6cf98fe46070153bd71ccf550228b85237b26ae6ef",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "冲田总司-FGO",
+      "name": "冲田总司",
+      "work": "FGO",
+      "kind": "preserved-baseline",
+      "sourceWork": "FGO",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E5%86%B2%E7%94%B0%E6%80%BB%E5%8F%B8-FGO/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E5%86%B2%E7%94%B0%E6%80%BB%E5%8F%B8-FGO/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/冲田总司-FGO/avatars.webp",
+          "sha256": "c2f48d1e5d30dc199978b8c8526bd4440f0be754139f8e9918050306929338f3",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/冲田总司-FGO/portraits.webp",
+          "sha256": "ea68be84cf098de19c8ce1feee33f074beebb0eb48d9393d5f86f049143f5933",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "伊什塔尔-FGO",
+      "name": "伊什塔尔",
+      "work": "FGO",
+      "kind": "preserved-baseline",
+      "sourceWork": "FGO",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E4%BC%8A%E4%BB%80%E5%A1%94%E5%B0%94-FGO/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E4%BC%8A%E4%BB%80%E5%A1%94%E5%B0%94-FGO/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/伊什塔尔-FGO/avatars.webp",
+          "sha256": "0925659a83b0062e7b2a2ca129f2807da966827369759ca4ec9cda26cda25686",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/伊什塔尔-FGO/portraits.webp",
+          "sha256": "c7db778e8a41b53b19367264be516541c0f5c700d7dba17f2f481f17c8caafba",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "远野志贵-TSUKI-R",
+      "name": "远野志贵",
+      "work": "TSUKI-R",
+      "kind": "preserved-baseline",
+      "sourceWork": "TSUKI-R",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E8%BF%9C%E9%87%8E%E5%BF%97%E8%B4%B5-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E8%BF%9C%E9%87%8E%E5%BF%97%E8%B4%B5-TSUKI-R/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/远野志贵-TSUKI-R/avatars.webp",
+          "sha256": "0809fbd1bd3c7f09dc87c0014250302a16f8a4bc22a2fca12db94f7f47979535",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/远野志贵-TSUKI-R/portraits.webp",
+          "sha256": "a9f9e1922c7ef7750fe7bef3fde0b92905f13757aff1a710befae346637501d4",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "爱尔奎特（日常）-TSUKI-R",
+      "name": "爱尔奎特（日常）",
+      "work": "TSUKI-R",
+      "kind": "preserved-baseline",
+      "sourceWork": "TSUKI-R",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E7%88%B1%E5%B0%94%E5%A5%8E%E7%89%B9%EF%BC%88%E6%97%A5%E5%B8%B8%EF%BC%89-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E7%88%B1%E5%B0%94%E5%A5%8E%E7%89%B9%EF%BC%88%E6%97%A5%E5%B8%B8%EF%BC%89-TSUKI-R/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/爱尔奎特（日常）-TSUKI-R/avatars.webp",
+          "sha256": "6b2aff937405caaf86446e622599c250e4c82cce33baadb1c5804ce9542b353f",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/爱尔奎特（日常）-TSUKI-R/portraits.webp",
+          "sha256": "47bec3ccc0d4127197a447d129a3981e6e6af3c7cf6ad36f473d513b1202d8a6",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "爱尔奎特（真祖公主）-TSUKI-R",
+      "name": "爱尔奎特（真祖公主）",
+      "work": "TSUKI-R",
+      "kind": "preserved-baseline",
+      "sourceWork": "FGO",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E7%88%B1%E5%B0%94%E5%A5%8E%E7%89%B9%EF%BC%88%E7%9C%9F%E7%A5%96%E5%85%AC%E4%B8%BB%EF%BC%89-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E7%88%B1%E5%B0%94%E5%A5%8E%E7%89%B9%EF%BC%88%E7%9C%9F%E7%A5%96%E5%85%AC%E4%B8%BB%EF%BC%89-TSUKI-R/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/爱尔奎特（真祖公主）-TSUKI-R/avatars.webp",
+          "sha256": "acdf6a7b4a7cbe8b0480893733223b1f08be546943645e7b4a6e398126423fb4",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/爱尔奎特（真祖公主）-TSUKI-R/portraits.webp",
+          "sha256": "04cde8855c39c32a2dd1da7654a5de535036904b09fcc3c31d5738cd22e0f0da",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "希耶尔-TSUKI-R",
+      "name": "希耶尔",
+      "work": "TSUKI-R",
+      "kind": "preserved-baseline",
+      "sourceWork": "TSUKI-R",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E5%B8%8C%E8%80%B6%E5%B0%94-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E5%B8%8C%E8%80%B6%E5%B0%94-TSUKI-R/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/希耶尔-TSUKI-R/avatars.webp",
+          "sha256": "72bb6feae33cb41e37b6d2f33550e43ffe7ac8bb6fedce9cf49542c7ca6ff77d",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/希耶尔-TSUKI-R/portraits.webp",
+          "sha256": "642a08082e34142d2c10d7a4073e6d854f3b224b8d29d97595908ac289407b4f",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "远野秋叶-TSUKI-R",
+      "name": "远野秋叶",
+      "work": "TSUKI-R",
+      "kind": "preserved-baseline",
+      "sourceWork": "TSUKI-R",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E8%BF%9C%E9%87%8E%E7%A7%8B%E5%8F%B6-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E8%BF%9C%E9%87%8E%E7%A7%8B%E5%8F%B6-TSUKI-R/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/远野秋叶-TSUKI-R/avatars.webp",
+          "sha256": "12d38c5d9447dbe1447d13954e30197e3470c70c5dc4d89751efb56f5c3c92ac",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/远野秋叶-TSUKI-R/portraits.webp",
+          "sha256": "09470349eeed14f62c25884ba6561f9051f79234d6939ac4f105d0e83f77b8cc",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "翡翠-TSUKI-R",
+      "name": "翡翠",
+      "work": "TSUKI-R",
+      "kind": "preserved-baseline",
+      "sourceWork": "TSUKI-R",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E7%BF%A1%E7%BF%A0-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E7%BF%A1%E7%BF%A0-TSUKI-R/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/翡翠-TSUKI-R/avatars.webp",
+          "sha256": "da56f6f497d9e128f818799b4f5ae39c7c456ebdb22df6c0b365db99b0af4414",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/翡翠-TSUKI-R/portraits.webp",
+          "sha256": "0ba2764f88f6ac5555370286698781901569a6b9c84ccbf829f21ec4dbdd3cb3",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "琥珀-TSUKI-R",
+      "name": "琥珀",
+      "work": "TSUKI-R",
+      "kind": "preserved-baseline",
+      "sourceWork": "TSUKI-R",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E7%90%A5%E7%8F%80-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E7%90%A5%E7%8F%80-TSUKI-R/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/琥珀-TSUKI-R/avatars.webp",
+          "sha256": "f7d298e2762087ce3ec0a060aee7e6624889b18ea7ed5ebc733bef54fa14d617",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/琥珀-TSUKI-R/portraits.webp",
+          "sha256": "113d8e2ef8991bf068503011ac7fa3c94f58a7661f5d5d8be19200f6678ac70f",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "弓冢五月-TSUKI-R",
+      "name": "弓冢五月",
+      "work": "TSUKI-R",
+      "kind": "preserved-baseline",
+      "sourceWork": "TSUKI-R",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E5%BC%93%E5%86%A2%E4%BA%94%E6%9C%88-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E5%BC%93%E5%86%A2%E4%BA%94%E6%9C%88-TSUKI-R/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/弓冢五月-TSUKI-R/avatars.webp",
+          "sha256": "df7b36163560b4379b9415e9c00392c56fc65ae257d2bc2407d98b879fc10621",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/弓冢五月-TSUKI-R/portraits.webp",
+          "sha256": "85cac99b2ec5c7446501b44fa45f1faec11e5d06b9a1274d55b5c0765efabd84",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "乾有彦-TSUKI-R",
+      "name": "乾有彦",
+      "work": "TSUKI-R",
+      "kind": "preserved-baseline",
+      "sourceWork": "TSUKI-R",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E4%B9%BE%E6%9C%89%E5%BD%A6-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E4%B9%BE%E6%9C%89%E5%BD%A6-TSUKI-R/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/乾有彦-TSUKI-R/avatars.webp",
+          "sha256": "4c22b9be9089688da5d33dc7098a50c917aa8e84cb5077ac88e437413f9ab18e",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/乾有彦-TSUKI-R/portraits.webp",
+          "sha256": "6b20ec461b671026b732ed6e84b016190c67e4a568b487f6dcea097b0d87bae2",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "尼禄·卡欧斯-TSUKI-R",
+      "name": "尼禄·卡欧斯",
+      "work": "TSUKI-R",
+      "kind": "preserved-baseline",
+      "sourceWork": "TSUKI",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E5%B0%BC%E7%A6%84%C2%B7%E5%8D%A1%E6%AC%A7%E6%96%AF-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E5%B0%BC%E7%A6%84%C2%B7%E5%8D%A1%E6%AC%A7%E6%96%AF-TSUKI-R/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/尼禄·卡欧斯-TSUKI-R/avatars.webp",
+          "sha256": "283d6d3c87805d8a8f4a55eb1cb8d6897eeda4c0042205f94cade4942545c11d",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/尼禄·卡欧斯-TSUKI-R/portraits.webp",
+          "sha256": "e9fc631cc8ca4ba6b80e678a1eaa91f88d3d3ed5767edf8f9419ccdf29b6c2a5",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "远野四季-TSUKI-R",
+      "name": "远野四季",
+      "work": "TSUKI-R",
+      "kind": "preserved-baseline",
+      "sourceWork": "TSUKI",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E8%BF%9C%E9%87%8E%E5%9B%9B%E5%AD%A3-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E8%BF%9C%E9%87%8E%E5%9B%9B%E5%AD%A3-TSUKI-R/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/远野四季-TSUKI-R/avatars.webp",
+          "sha256": "8567d62ab730dbfbe05d5ad3e183cf5cdba5c7e9163616b5b1300a1cc5a8a165",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/远野四季-TSUKI-R/portraits.webp",
+          "sha256": "fda6a8c527a38ffff0363e8241467cef4fcc85e9bd46e81ecd062694230ea1e9",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "罗亚-TSUKI-R",
+      "name": "罗亚",
+      "work": "TSUKI-R",
+      "kind": "preserved-baseline",
+      "sourceWork": "TSUKI-R",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E7%BD%97%E4%BA%9A-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E7%BD%97%E4%BA%9A-TSUKI-R/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/罗亚-TSUKI-R/avatars.webp",
+          "sha256": "681afd12217959051eca64123db60110f779b4ee99e445937304f471b0ba271b",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/罗亚-TSUKI-R/portraits.webp",
+          "sha256": "cd38734fd032f5f45237f783f67b76472f74cc47f5b3ed390b8c95b015612066",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "苍崎青子-TSUKI-R",
+      "name": "苍崎青子",
+      "work": "TSUKI-R",
+      "kind": "preserved-baseline",
+      "sourceWork": "TSUKI-R",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E8%8B%8D%E5%B4%8E%E9%9D%92%E5%AD%90-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E8%8B%8D%E5%B4%8E%E9%9D%92%E5%AD%90-TSUKI-R/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/苍崎青子-TSUKI-R/avatars.webp",
+          "sha256": "ef60d723afc8c0eeb8e92f32d1934ce7dcd04753c41d30a38ee129ffe71f57f5",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/苍崎青子-TSUKI-R/portraits.webp",
+          "sha256": "1d45ed48da89fe35182c386def9cb1a0586ae37d83b6ac0a49f67095b46c5bb9",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "诺艾尔-TSUKI-R",
+      "name": "诺艾尔",
+      "work": "TSUKI-R",
+      "kind": "preserved-baseline",
+      "sourceWork": "TSUKI-R",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E8%AF%BA%E8%89%BE%E5%B0%94-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E8%AF%BA%E8%89%BE%E5%B0%94-TSUKI-R/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/诺艾尔-TSUKI-R/avatars.webp",
+          "sha256": "f67c3e17091845d63790d6e8974038b36a35d78145b2a3bde73ec02aa41be215",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/诺艾尔-TSUKI-R/portraits.webp",
+          "sha256": "443e87256c7db05e33e54b6046d1423acbe55cf1f754ee67bbba8c80bce86b4d",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "马里奥-TSUKI-R",
+      "name": "马里奥",
+      "work": "TSUKI-R",
+      "kind": "preserved-baseline",
+      "sourceWork": "TSUKI-R",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E9%A9%AC%E9%87%8C%E5%A5%A5-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E9%A9%AC%E9%87%8C%E5%A5%A5-TSUKI-R/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/马里奥-TSUKI-R/avatars.webp",
+          "sha256": "a4bc7c7d3a71f5d51aeffbb905fc9f49372226006e0f2f24318395021010eacb",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/马里奥-TSUKI-R/portraits.webp",
+          "sha256": "a2a2e7cb9f19d5a91fce62aea5eaa073623321899fafbe9aed3e621cc472d273",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "弗洛夫-TSUKI-R",
+      "name": "弗洛夫",
+      "work": "TSUKI-R",
+      "kind": "preserved-baseline",
+      "sourceWork": "TSUKI-R",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E5%BC%97%E6%B4%9B%E5%A4%AB-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E5%BC%97%E6%B4%9B%E5%A4%AB-TSUKI-R/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/弗洛夫-TSUKI-R/avatars.webp",
+          "sha256": "40245e80c73c5c981ece49c7035eb3c0bafd238282f393c8155610afa4da281a",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/弗洛夫-TSUKI-R/portraits.webp",
+          "sha256": "86362dcb601280618327cf131c1de6b2bc5f5210382eb0c8b90c6cdd27028dea",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "阿良句博士-TSUKI-R",
+      "name": "阿良句博士",
+      "work": "TSUKI-R",
+      "kind": "preserved-baseline",
+      "sourceWork": "TSUKI-R",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E9%98%BF%E8%89%AF%E5%8F%A5%E5%8D%9A%E5%A3%AB-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E9%98%BF%E8%89%AF%E5%8F%A5%E5%8D%9A%E5%A3%AB-TSUKI-R/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/阿良句博士-TSUKI-R/avatars.webp",
+          "sha256": "bfb76067e92a547c715b8860c1a3ad44f7e93be1498fc76f349560236258d0ec",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/阿良句博士-TSUKI-R/portraits.webp",
+          "sha256": "c34d7d5e32a05420baedf13fce33bfd35f929fd96737d72ca303c5cec913b88f",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "斋木业人-TSUKI-R",
+      "name": "斋木业人",
+      "work": "TSUKI-R",
+      "kind": "preserved-baseline",
+      "sourceWork": "TSUKI-R",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E6%96%8B%E6%9C%A8%E4%B8%9A%E4%BA%BA-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E6%96%8B%E6%9C%A8%E4%B8%9A%E4%BA%BA-TSUKI-R/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/斋木业人-TSUKI-R/avatars.webp",
+          "sha256": "d38aded2c5c0083c4120e9d26bc87eafaedc2a9fc8a9eb72ece712fd8cc11e38",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/斋木业人-TSUKI-R/portraits.webp",
+          "sha256": "7009f354b17ecf42392998e3c4b5f950ec2db961359b67d822a1c797bd2819ce",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "斋木澪-TSUKI-R",
+      "name": "斋木澪",
+      "work": "TSUKI-R",
+      "kind": "preserved-baseline",
+      "sourceWork": "TSUKI-R",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E6%96%8B%E6%9C%A8%E6%BE%AA-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E6%96%8B%E6%9C%A8%E6%BE%AA-TSUKI-R/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/斋木澪-TSUKI-R/avatars.webp",
+          "sha256": "0699647e83e8f7d50fcd68ebbd7658a16071502cfd962f3b42f60d3a7dd9c76f",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/斋木澪-TSUKI-R/portraits.webp",
+          "sha256": "48432efc23632716f42f541c6f5377bd8aa7600c16943b698014a80a912207b6",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "安藤裕吾-TSUKI-R",
+      "name": "安藤裕吾",
+      "work": "TSUKI-R",
+      "kind": "preserved-baseline",
+      "sourceWork": "TSUKI-R",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E5%AE%89%E8%97%A4%E8%A3%95%E5%90%BE-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E5%AE%89%E8%97%A4%E8%A3%95%E5%90%BE-TSUKI-R/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/安藤裕吾-TSUKI-R/avatars.webp",
+          "sha256": "1297a1f2d9cc0859e36297f1bc9a62d33c2428170f22b205bb2ad6ffd230ee1a",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/安藤裕吾-TSUKI-R/portraits.webp",
+          "sha256": "dc982c3d740b8e4097818cacfd468539ca29f64cebb8c38f5b11e9bfb665619e",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "卡利乌斯-TSUKI-R",
+      "name": "卡利乌斯",
+      "work": "TSUKI-R",
+      "kind": "preserved-baseline",
+      "sourceWork": "TSUKI-R",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E5%8D%A1%E5%88%A9%E4%B9%8C%E6%96%AF-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E5%8D%A1%E5%88%A9%E4%B9%8C%E6%96%AF-TSUKI-R/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/卡利乌斯-TSUKI-R/avatars.webp",
+          "sha256": "8078c8c5f6b3317230e6e858a693ed46f83b35da62921b5f34512f6b15e8ce0e",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/卡利乌斯-TSUKI-R/portraits.webp",
+          "sha256": "f8cce2e42957f24e0c6ca3611f97b267dd92de7f07ec9e33a3bc7b3e759339c4",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "远野槙久-TSUKI-R",
+      "name": "远野槙久",
+      "work": "TSUKI-R",
+      "kind": "preserved-baseline",
+      "sourceWork": "TSUKI",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E8%BF%9C%E9%87%8E%E6%A7%99%E4%B9%85-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E8%BF%9C%E9%87%8E%E6%A7%99%E4%B9%85-TSUKI-R/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/远野槙久-TSUKI-R/avatars.webp",
+          "sha256": "c0c4f1ce9777de6ad01b405f3b496703880c24d41789959fc6125dbbe207e61f",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/远野槙久-TSUKI-R/portraits.webp",
+          "sha256": "0680691d57e08efb0fe66ecfc6cd0a50a59bdbdbaf815a793acc29da952e121c",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "猫姬-TSUKI-R",
+      "name": "猫姬",
+      "work": "TSUKI-R",
+      "kind": "preserved-baseline",
+      "sourceWork": "MBTL",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E7%8C%AB%E5%A7%AC-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E7%8C%AB%E5%A7%AC-TSUKI-R/portraits.webp",
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/猫姬-TSUKI-R/avatars.webp",
+          "sha256": "47755ff7f532f5ed0cc5656411e359c1e74a24800fa3b4efe69aecfbaa5fa006",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/猫姬-TSUKI-R/portraits.webp",
+          "sha256": "40f4c26e2c021e3594abc56eaba0e734e498be803e8f1c1eada73d537ccd2755",
+          "width": 3072,
+          "height": 384
+        }
+      ]
+    },
+    {
+      "key": "远坂时臣-FZ",
+      "name": "远坂时臣",
+      "work": "FZ",
+      "kind": "user-accepted-anime-reference",
+      "sourceWork": "FZ",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E8%BF%9C%E5%9D%82%E6%97%B6%E8%87%A3-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E8%BF%9C%E5%9D%82%E6%97%B6%E8%87%A3-FZ/portraits.webp",
+      "acceptance": {
+        "status": "explicitly-accepted-by-user",
+        "date": "2026-10-20",
+        "sourceSheetSHA256": "d3ab778cc5558811d1148c89bbc46d802f50c1cd35e3f040636d2392d0ec1825"
+      },
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%",
+          "file": "characters/远坂时臣-FZ/happy.png"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%",
+          "file": "characters/远坂时臣-FZ/angry.png"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%",
+          "file": "characters/远坂时臣-FZ/sad.png"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%",
+          "file": "characters/远坂时臣-FZ/laugh.png"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%",
+          "file": "characters/远坂时臣-FZ/neutral.png"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%",
+          "file": "characters/远坂时臣-FZ/confused.png"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/远坂时臣-FZ/avatars.webp",
+          "sha256": "7c1d8bbb92660f5817621db2210d04386760bf0887e7f126c56c2c2ed6dd0ad2",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/远坂时臣-FZ/portraits.webp",
+          "sha256": "2818cd1521fc5a7fe5c4d32b6d8239912a4c954fa63025b138b58828bfc00123",
+          "width": 3072,
+          "height": 384
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/远坂时臣-FZ/happy.png",
+          "sha256": "434dddd3972bdf233c22918d437d4a3569536cb717cfce861dbfcd8792673eb5",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/远坂时臣-FZ/angry.png",
+          "sha256": "0f9b2d35cdb68d6e5e8c17641a928da5686408ca605a3613a52153e540dd01db",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/远坂时臣-FZ/sad.png",
+          "sha256": "871a1183cbe6b395c4af5303b28b9dd61070104ef7f1cfda125c274e0d84c803",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/远坂时臣-FZ/laugh.png",
+          "sha256": "ab0bd6466ffab9d39d249819d14a888b7e77de934ea1b67bbe301723c7dd9d88",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/远坂时臣-FZ/neutral.png",
+          "sha256": "b19abea6e1f08c2fb2e475179711d0c8c29cd61dcc1765c24f764bcf8f7b6fdf",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/远坂时臣-FZ/confused.png",
+          "sha256": "625387350da40fcb03938b5a03c38c4a89de31baa82c47e420fcbc9e98885b22",
+          "width": 512,
+          "height": 512
+        }
+      ]
+    },
+    {
+      "key": "吉尔伽美什-FZ",
+      "name": "吉尔伽美什",
+      "work": "FZ",
+      "kind": "user-accepted-anime-reference",
+      "sourceWork": "FZ",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FZ/portraits.webp",
+      "acceptance": {
+        "status": "explicitly-accepted-by-user",
+        "date": "2026-10-20",
+        "sourceSheetSHA256": "4eca9d15a19ae8d491b872db2bce36e88d409aec045564f444be5803344da343"
+      },
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%",
+          "file": "characters/吉尔伽美什-FZ/happy.png"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%",
+          "file": "characters/吉尔伽美什-FZ/angry.png"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%",
+          "file": "characters/吉尔伽美什-FZ/sad.png"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%",
+          "file": "characters/吉尔伽美什-FZ/laugh.png"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%",
+          "file": "characters/吉尔伽美什-FZ/neutral.png"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%",
+          "file": "characters/吉尔伽美什-FZ/confused.png"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/吉尔伽美什-FZ/avatars.webp",
+          "sha256": "6af529a7e46e36edfc8e7034ee6b52f6b3abd0fcc6967b3a95b3ace76dd21a27",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/吉尔伽美什-FZ/portraits.webp",
+          "sha256": "8ecad331526e2bb17c124ed243305210ee90ca64f928eaa32811a1f6c343b6db",
+          "width": 3072,
+          "height": 384
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/吉尔伽美什-FZ/happy.png",
+          "sha256": "18f370944ada10e0c4847e7158324a116a37c3ec0ab636945826678f912bc0f4",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/吉尔伽美什-FZ/angry.png",
+          "sha256": "637cacfe45e6b6eb2fb567c6ca3940537b4f50919557821be48b8568c44f0ea6",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/吉尔伽美什-FZ/sad.png",
+          "sha256": "1a985f41ef816f161cdb2a383adc36aaa80565c81c1f3910a7c1fc4be10e97ec",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/吉尔伽美什-FZ/laugh.png",
+          "sha256": "7c92ee796ec25dc2af0175d62cf2589c8e729f1fae3ec60ca70e1ac82ca8da84",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/吉尔伽美什-FZ/neutral.png",
+          "sha256": "f5f7c6379846485c0f3bc65742fab4067d1e7a3768b15809b791ccfa6d59b21f",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/吉尔伽美什-FZ/confused.png",
+          "sha256": "cdf6b4d1a37cea68f4e3981089e12f5364580ab776db1d473458586ca0b3d921",
+          "width": 512,
+          "height": 512
+        }
+      ]
+    },
+    {
+      "key": "卫宫切嗣-FZ",
+      "name": "卫宫切嗣",
+      "work": "FZ",
+      "kind": "user-accepted-anime-reference",
+      "sourceWork": "FZ",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E5%8D%AB%E5%AE%AB%E5%88%87%E5%97%A3-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E5%8D%AB%E5%AE%AB%E5%88%87%E5%97%A3-FZ/portraits.webp",
+      "acceptance": {
+        "status": "explicitly-accepted-by-user",
+        "date": "2026-10-20",
+        "sourceSheetSHA256": "c7d1af40e52d537a3a863481d9d85817991b3ff85b0d7b843512b3750f7e8e77"
+      },
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%",
+          "file": "characters/卫宫切嗣-FZ/happy.png"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%",
+          "file": "characters/卫宫切嗣-FZ/angry.png"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%",
+          "file": "characters/卫宫切嗣-FZ/sad.png"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%",
+          "file": "characters/卫宫切嗣-FZ/laugh.png"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%",
+          "file": "characters/卫宫切嗣-FZ/neutral.png"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%",
+          "file": "characters/卫宫切嗣-FZ/confused.png"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/卫宫切嗣-FZ/avatars.webp",
+          "sha256": "c4c52596bd6e7bc32a6485304e7694ca7c84ca570e0474a14285689a8f47b228",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/卫宫切嗣-FZ/portraits.webp",
+          "sha256": "ffd7f44134d7ee7dc003fd3e4f2b50c938d868bf3d6304ad2353e28f017f423b",
+          "width": 3072,
+          "height": 384
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/卫宫切嗣-FZ/happy.png",
+          "sha256": "dba89c494865de140f72487d6f60f1145662d6a7a49e54633b3eb5091d88823f",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/卫宫切嗣-FZ/angry.png",
+          "sha256": "ed6bed1da53edb7bd93375b36008d6cebefe5dc2e8502e63c84cae5d0ed1d44c",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/卫宫切嗣-FZ/sad.png",
+          "sha256": "76c02c095353197542aa16ffbc5cd0ce430c6059e9f61a7fbf998de20381d188",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/卫宫切嗣-FZ/laugh.png",
+          "sha256": "832267a05f62c2bf63665f88ea0517e9c19c3054be4fb55eb8d89567d2359ac8",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/卫宫切嗣-FZ/neutral.png",
+          "sha256": "7d971f63f47ea9081a136cdb131a748aea02bb6a797d8148ddc45904b57bdceb",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/卫宫切嗣-FZ/confused.png",
+          "sha256": "98c002355a37c51074eb5ed41c7ff6de9c8d365edf9955a26569c0423c441f85",
+          "width": 512,
+          "height": 512
+        }
+      ]
+    },
+    {
+      "key": "间桐樱-FZ",
+      "name": "间桐樱",
+      "work": "FZ",
+      "kind": "user-accepted-anime-reference",
+      "sourceWork": "FZ",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E6%A8%B1-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E6%A8%B1-FZ/portraits.webp",
+      "acceptance": {
+        "status": "explicitly-accepted-by-user",
+        "date": "2026-10-20",
+        "sourceSheetSHA256": "82e6b4919d197be129ea6cc19f090bb54050f8332ca090188d1d716b5af7975c"
+      },
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%",
+          "file": "characters/间桐樱-FZ/happy.png"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%",
+          "file": "characters/间桐樱-FZ/angry.png"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%",
+          "file": "characters/间桐樱-FZ/sad.png"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%",
+          "file": "characters/间桐樱-FZ/laugh.png"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%",
+          "file": "characters/间桐樱-FZ/neutral.png"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%",
+          "file": "characters/间桐樱-FZ/confused.png"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/间桐樱-FZ/avatars.webp",
+          "sha256": "d9e2cc646463521fc728d1e3fb264dd87a8f7dc1bb504f35b9d583efb97b628a",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐樱-FZ/portraits.webp",
+          "sha256": "9f94685d971b464cb5d0fbdaa024f7e362f97901ef81ff6fa33ab083e37dc884",
+          "width": 3072,
+          "height": 384
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐樱-FZ/happy.png",
+          "sha256": "3bbe13192fdc6fd1fa5f1d1c12940799a05713db285ba20cc2d26107db6c3f52",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐樱-FZ/angry.png",
+          "sha256": "bdede360c8efaf127bd9f648d16b8571367643d9f6ad6f28e9a2b43ba93565e9",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐樱-FZ/sad.png",
+          "sha256": "0058bbe4e74fe7fbec9d2e1b19f48e8181bb820e0d68674f906a2a4d61824e62",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐樱-FZ/laugh.png",
+          "sha256": "362b447409ad65598b985f7cb25e48ae9a1fa70025701429ca0117dad5b6d731",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐樱-FZ/neutral.png",
+          "sha256": "85f005a84e979e07651e958c757e48b5d3d25093eafb3d974f5647f80d88c3bb",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐樱-FZ/confused.png",
+          "sha256": "1537efee31c9f42b568206a218ed9b8b6a985639480cf70b2c7bd77a223e10da",
+          "width": 512,
+          "height": 512
+        }
+      ]
+    },
+    {
+      "key": "间桐脏砚-FZ",
+      "name": "间桐脏砚",
+      "work": "FZ",
+      "kind": "user-accepted-anime-reference",
+      "sourceWork": "FZ",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/6d804a2ac13fec2b6943d8e5224de0ac9c64c574/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FZ/portraits.webp",
+      "acceptance": {
+        "status": "explicitly-accepted-by-user",
+        "date": "2026-10-20",
+        "sourceSheetSHA256": "491615f2b402d914a8ef0fc47a759e9153d8875cdca2f4cf467299bbf2fa7298"
+      },
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%",
+          "file": "characters/间桐脏砚-FZ/happy.png"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%",
+          "file": "characters/间桐脏砚-FZ/angry.png"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%",
+          "file": "characters/间桐脏砚-FZ/sad.png"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%",
+          "file": "characters/间桐脏砚-FZ/laugh.png"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%",
+          "file": "characters/间桐脏砚-FZ/neutral.png"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%",
+          "file": "characters/间桐脏砚-FZ/confused.png"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/间桐脏砚-FZ/avatars.webp",
+          "sha256": "f70f0ca21447a70289945d095adc814df71434e8b856eec222302b123c0be55f",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐脏砚-FZ/portraits.webp",
+          "sha256": "7d9052e9c48b747a82810b0b662bc14711d93a705848e34546feb2c423b24782",
+          "width": 3072,
+          "height": 384
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐脏砚-FZ/happy.png",
+          "sha256": "63fee3588383aa4bff1692be085175d9e30114648da48d51d26f64dc350076fa",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐脏砚-FZ/angry.png",
+          "sha256": "f27aec613cedb8746f7a51d282b6a8cd3785485fec43221e73472e04ddbbaf85",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐脏砚-FZ/sad.png",
+          "sha256": "14caa534eb0c259b459c972bd2e730b19b94cdef7892274e3afc1802f57294a7",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐脏砚-FZ/laugh.png",
+          "sha256": "cfe0a9a928b865bb7863d8817d070dbe829129c182d99540a5872fc8f64539d2",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐脏砚-FZ/neutral.png",
+          "sha256": "e08a7e93e7908d85847ca08d40dcc2cc2da1a9626bf842e6e43a08e963898670",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐脏砚-FZ/confused.png",
+          "sha256": "5ea7b248c43195e84ac00b117df3fa7c4f6a86ffe3e6860d0f627c0096340a70",
+          "width": 512,
+          "height": 512
+        }
+      ]
+    }
+  ]
+}
