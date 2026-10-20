@@ -1,27 +1,27 @@
 {
   "version": "3.0.0-phase-accepted",
   "title": "V3-阶段验收",
-  "scope": "原有33套保持原字节；FZ含用户明确验收6套、用户委托复审通过15套，委托复审项待最终总览验收；不是FZ全量完成版",
+  "scope": "原有33套保持原字节；FZ含用户明确验收6套、用户委托复审通过16套，委托复审项待最终总览验收；不是FZ全量完成版",
   "acceptanceCounts": {
     "explicitUser": 6,
-    "delegatedReview": 15
+    "delegatedReview": 16
   },
   "baseline": "20261020-022028",
   "repository": "lix14031-arch/TypeMoon",
-  "assetRef": "8c99f7e92d9359830519135cc381c8463f032c86",
+  "assetRef": "73c4b721a43e670dead5f0391ec62de44535c0fe",
   "pinned": true,
   "status": "local-build-pinned-to-image-commit",
-  "characterCount": 54,
-  "ordinaryExpressionCount": 324,
+  "characterCount": 55,
+  "ordinaryExpressionCount": 330,
   "additionalStateCount": 1,
-  "expressionCount": 325,
-  "imageFileCount": 237,
-  "newImageFileCount": 171,
+  "expressionCount": 331,
+  "imageFileCount": 245,
+  "newImageFileCount": 179,
   "legacyImageFileCount": 66,
   "workCounts": {
     "FGO": 10,
     "TSUKI-R": 23,
-    "FZ": 21,
+    "FZ": 22,
     "FSN": 0
   },
   "emotionOrder": [
@@ -43,8 +43,8 @@
       "work": "FGO",
       "kind": "preserved-baseline",
       "sourceWork": "FGO",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E7%8E%9B%E4%BF%AE-FGO/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E7%8E%9B%E4%BF%AE-FGO/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E7%8E%9B%E4%BF%AE-FGO/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E7%8E%9B%E4%BF%AE-FGO/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -98,8 +98,8 @@
       "work": "FGO",
       "kind": "preserved-baseline",
       "sourceWork": "FGO",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1%EF%BC%88Saber%EF%BC%89-FGO/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1%EF%BC%88Saber%EF%BC%89-FGO/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1%EF%BC%88Saber%EF%BC%89-FGO/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1%EF%BC%88Saber%EF%BC%89-FGO/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -153,8 +153,8 @@
       "work": "FGO",
       "kind": "preserved-baseline",
       "sourceWork": "FGO",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%8D%AB%E5%AE%AB%EF%BC%88Archer%EF%BC%89-FGO/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%8D%AB%E5%AE%AB%EF%BC%88Archer%EF%BC%89-FGO/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%8D%AB%E5%AE%AB%EF%BC%88Archer%EF%BC%89-FGO/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%8D%AB%E5%AE%AB%EF%BC%88Archer%EF%BC%89-FGO/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -208,8 +208,8 @@
       "work": "FGO",
       "kind": "preserved-baseline",
       "sourceWork": "FGO",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%BA%93%C2%B7%E4%B8%98%E6%9E%97%EF%BC%88Lancer%EF%BC%89-FGO/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%BA%93%C2%B7%E4%B8%98%E6%9E%97%EF%BC%88Lancer%EF%BC%89-FGO/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%BA%93%C2%B7%E4%B8%98%E6%9E%97%EF%BC%88Lancer%EF%BC%89-FGO/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%BA%93%C2%B7%E4%B8%98%E6%9E%97%EF%BC%88Lancer%EF%BC%89-FGO/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -263,8 +263,8 @@
       "work": "FGO",
       "kind": "preserved-baseline",
       "sourceWork": "FGO",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80%EF%BC%88Archer%EF%BC%89-FGO/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80%EF%BC%88Archer%EF%BC%89-FGO/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80%EF%BC%88Archer%EF%BC%89-FGO/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80%EF%BC%88Archer%EF%BC%89-FGO/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -318,8 +318,8 @@
       "work": "FGO",
       "kind": "preserved-baseline",
       "sourceWork": "FGO",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E8%B4%9E%E5%BE%B7-FGO/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E8%B4%9E%E5%BE%B7-FGO/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E8%B4%9E%E5%BE%B7-FGO/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E8%B4%9E%E5%BE%B7-FGO/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -373,8 +373,8 @@
       "work": "FGO",
       "kind": "preserved-baseline",
       "sourceWork": "FGO",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E7%8E%89%E8%97%BB%E5%89%8D-FGO/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E7%8E%89%E8%97%BB%E5%89%8D-FGO/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E7%8E%89%E8%97%BB%E5%89%8D-FGO/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E7%8E%89%E8%97%BB%E5%89%8D-FGO/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -428,8 +428,8 @@
       "work": "FGO",
       "kind": "preserved-baseline",
       "sourceWork": "FGO",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%B0%BC%E7%A6%84-FGO/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%B0%BC%E7%A6%84-FGO/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%B0%BC%E7%A6%84-FGO/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%B0%BC%E7%A6%84-FGO/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -483,8 +483,8 @@
       "work": "FGO",
       "kind": "preserved-baseline",
       "sourceWork": "FGO",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%86%B2%E7%94%B0%E6%80%BB%E5%8F%B8-FGO/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%86%B2%E7%94%B0%E6%80%BB%E5%8F%B8-FGO/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%86%B2%E7%94%B0%E6%80%BB%E5%8F%B8-FGO/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%86%B2%E7%94%B0%E6%80%BB%E5%8F%B8-FGO/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -538,8 +538,8 @@
       "work": "FGO",
       "kind": "preserved-baseline",
       "sourceWork": "FGO",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E4%BC%8A%E4%BB%80%E5%A1%94%E5%B0%94-FGO/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E4%BC%8A%E4%BB%80%E5%A1%94%E5%B0%94-FGO/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E4%BC%8A%E4%BB%80%E5%A1%94%E5%B0%94-FGO/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E4%BC%8A%E4%BB%80%E5%A1%94%E5%B0%94-FGO/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -593,8 +593,8 @@
       "work": "TSUKI-R",
       "kind": "preserved-baseline",
       "sourceWork": "TSUKI-R",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E8%BF%9C%E9%87%8E%E5%BF%97%E8%B4%B5-TSUKI-R/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E8%BF%9C%E9%87%8E%E5%BF%97%E8%B4%B5-TSUKI-R/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E8%BF%9C%E9%87%8E%E5%BF%97%E8%B4%B5-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E8%BF%9C%E9%87%8E%E5%BF%97%E8%B4%B5-TSUKI-R/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -648,8 +648,8 @@
       "work": "TSUKI-R",
       "kind": "preserved-baseline",
       "sourceWork": "TSUKI-R",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E7%88%B1%E5%B0%94%E5%A5%8E%E7%89%B9%EF%BC%88%E6%97%A5%E5%B8%B8%EF%BC%89-TSUKI-R/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E7%88%B1%E5%B0%94%E5%A5%8E%E7%89%B9%EF%BC%88%E6%97%A5%E5%B8%B8%EF%BC%89-TSUKI-R/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E7%88%B1%E5%B0%94%E5%A5%8E%E7%89%B9%EF%BC%88%E6%97%A5%E5%B8%B8%EF%BC%89-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E7%88%B1%E5%B0%94%E5%A5%8E%E7%89%B9%EF%BC%88%E6%97%A5%E5%B8%B8%EF%BC%89-TSUKI-R/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -703,8 +703,8 @@
       "work": "TSUKI-R",
       "kind": "preserved-baseline",
       "sourceWork": "FGO",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E7%88%B1%E5%B0%94%E5%A5%8E%E7%89%B9%EF%BC%88%E7%9C%9F%E7%A5%96%E5%85%AC%E4%B8%BB%EF%BC%89-TSUKI-R/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E7%88%B1%E5%B0%94%E5%A5%8E%E7%89%B9%EF%BC%88%E7%9C%9F%E7%A5%96%E5%85%AC%E4%B8%BB%EF%BC%89-TSUKI-R/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E7%88%B1%E5%B0%94%E5%A5%8E%E7%89%B9%EF%BC%88%E7%9C%9F%E7%A5%96%E5%85%AC%E4%B8%BB%EF%BC%89-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E7%88%B1%E5%B0%94%E5%A5%8E%E7%89%B9%EF%BC%88%E7%9C%9F%E7%A5%96%E5%85%AC%E4%B8%BB%EF%BC%89-TSUKI-R/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -758,8 +758,8 @@
       "work": "TSUKI-R",
       "kind": "preserved-baseline",
       "sourceWork": "TSUKI-R",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%B8%8C%E8%80%B6%E5%B0%94-TSUKI-R/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%B8%8C%E8%80%B6%E5%B0%94-TSUKI-R/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%B8%8C%E8%80%B6%E5%B0%94-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%B8%8C%E8%80%B6%E5%B0%94-TSUKI-R/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -813,8 +813,8 @@
       "work": "TSUKI-R",
       "kind": "preserved-baseline",
       "sourceWork": "TSUKI-R",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E8%BF%9C%E9%87%8E%E7%A7%8B%E5%8F%B6-TSUKI-R/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E8%BF%9C%E9%87%8E%E7%A7%8B%E5%8F%B6-TSUKI-R/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E8%BF%9C%E9%87%8E%E7%A7%8B%E5%8F%B6-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E8%BF%9C%E9%87%8E%E7%A7%8B%E5%8F%B6-TSUKI-R/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -868,8 +868,8 @@
       "work": "TSUKI-R",
       "kind": "preserved-baseline",
       "sourceWork": "TSUKI-R",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E7%BF%A1%E7%BF%A0-TSUKI-R/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E7%BF%A1%E7%BF%A0-TSUKI-R/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E7%BF%A1%E7%BF%A0-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E7%BF%A1%E7%BF%A0-TSUKI-R/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -923,8 +923,8 @@
       "work": "TSUKI-R",
       "kind": "preserved-baseline",
       "sourceWork": "TSUKI-R",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E7%90%A5%E7%8F%80-TSUKI-R/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E7%90%A5%E7%8F%80-TSUKI-R/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E7%90%A5%E7%8F%80-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E7%90%A5%E7%8F%80-TSUKI-R/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -978,8 +978,8 @@
       "work": "TSUKI-R",
       "kind": "preserved-baseline",
       "sourceWork": "TSUKI-R",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%BC%93%E5%86%A2%E4%BA%94%E6%9C%88-TSUKI-R/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%BC%93%E5%86%A2%E4%BA%94%E6%9C%88-TSUKI-R/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%BC%93%E5%86%A2%E4%BA%94%E6%9C%88-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%BC%93%E5%86%A2%E4%BA%94%E6%9C%88-TSUKI-R/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -1033,8 +1033,8 @@
       "work": "TSUKI-R",
       "kind": "preserved-baseline",
       "sourceWork": "TSUKI-R",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E4%B9%BE%E6%9C%89%E5%BD%A6-TSUKI-R/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E4%B9%BE%E6%9C%89%E5%BD%A6-TSUKI-R/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E4%B9%BE%E6%9C%89%E5%BD%A6-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E4%B9%BE%E6%9C%89%E5%BD%A6-TSUKI-R/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -1088,8 +1088,8 @@
       "work": "TSUKI-R",
       "kind": "preserved-baseline",
       "sourceWork": "TSUKI",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%B0%BC%E7%A6%84%C2%B7%E5%8D%A1%E6%AC%A7%E6%96%AF-TSUKI-R/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%B0%BC%E7%A6%84%C2%B7%E5%8D%A1%E6%AC%A7%E6%96%AF-TSUKI-R/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%B0%BC%E7%A6%84%C2%B7%E5%8D%A1%E6%AC%A7%E6%96%AF-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%B0%BC%E7%A6%84%C2%B7%E5%8D%A1%E6%AC%A7%E6%96%AF-TSUKI-R/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -1143,8 +1143,8 @@
       "work": "TSUKI-R",
       "kind": "preserved-baseline",
       "sourceWork": "TSUKI",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E8%BF%9C%E9%87%8E%E5%9B%9B%E5%AD%A3-TSUKI-R/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E8%BF%9C%E9%87%8E%E5%9B%9B%E5%AD%A3-TSUKI-R/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E8%BF%9C%E9%87%8E%E5%9B%9B%E5%AD%A3-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E8%BF%9C%E9%87%8E%E5%9B%9B%E5%AD%A3-TSUKI-R/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -1198,8 +1198,8 @@
       "work": "TSUKI-R",
       "kind": "preserved-baseline",
       "sourceWork": "TSUKI-R",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E7%BD%97%E4%BA%9A-TSUKI-R/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E7%BD%97%E4%BA%9A-TSUKI-R/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E7%BD%97%E4%BA%9A-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E7%BD%97%E4%BA%9A-TSUKI-R/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -1253,8 +1253,8 @@
       "work": "TSUKI-R",
       "kind": "preserved-baseline",
       "sourceWork": "TSUKI-R",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E8%8B%8D%E5%B4%8E%E9%9D%92%E5%AD%90-TSUKI-R/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E8%8B%8D%E5%B4%8E%E9%9D%92%E5%AD%90-TSUKI-R/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E8%8B%8D%E5%B4%8E%E9%9D%92%E5%AD%90-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E8%8B%8D%E5%B4%8E%E9%9D%92%E5%AD%90-TSUKI-R/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -1308,8 +1308,8 @@
       "work": "TSUKI-R",
       "kind": "preserved-baseline",
       "sourceWork": "TSUKI-R",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E8%AF%BA%E8%89%BE%E5%B0%94-TSUKI-R/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E8%AF%BA%E8%89%BE%E5%B0%94-TSUKI-R/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E8%AF%BA%E8%89%BE%E5%B0%94-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E8%AF%BA%E8%89%BE%E5%B0%94-TSUKI-R/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -1363,8 +1363,8 @@
       "work": "TSUKI-R",
       "kind": "preserved-baseline",
       "sourceWork": "TSUKI-R",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E9%A9%AC%E9%87%8C%E5%A5%A5-TSUKI-R/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E9%A9%AC%E9%87%8C%E5%A5%A5-TSUKI-R/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E9%A9%AC%E9%87%8C%E5%A5%A5-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E9%A9%AC%E9%87%8C%E5%A5%A5-TSUKI-R/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -1418,8 +1418,8 @@
       "work": "TSUKI-R",
       "kind": "preserved-baseline",
       "sourceWork": "TSUKI-R",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%BC%97%E6%B4%9B%E5%A4%AB-TSUKI-R/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%BC%97%E6%B4%9B%E5%A4%AB-TSUKI-R/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%BC%97%E6%B4%9B%E5%A4%AB-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%BC%97%E6%B4%9B%E5%A4%AB-TSUKI-R/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -1473,8 +1473,8 @@
       "work": "TSUKI-R",
       "kind": "preserved-baseline",
       "sourceWork": "TSUKI-R",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E9%98%BF%E8%89%AF%E5%8F%A5%E5%8D%9A%E5%A3%AB-TSUKI-R/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E9%98%BF%E8%89%AF%E5%8F%A5%E5%8D%9A%E5%A3%AB-TSUKI-R/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E9%98%BF%E8%89%AF%E5%8F%A5%E5%8D%9A%E5%A3%AB-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E9%98%BF%E8%89%AF%E5%8F%A5%E5%8D%9A%E5%A3%AB-TSUKI-R/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -1528,8 +1528,8 @@
       "work": "TSUKI-R",
       "kind": "preserved-baseline",
       "sourceWork": "TSUKI-R",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E6%96%8B%E6%9C%A8%E4%B8%9A%E4%BA%BA-TSUKI-R/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E6%96%8B%E6%9C%A8%E4%B8%9A%E4%BA%BA-TSUKI-R/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E6%96%8B%E6%9C%A8%E4%B8%9A%E4%BA%BA-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E6%96%8B%E6%9C%A8%E4%B8%9A%E4%BA%BA-TSUKI-R/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -1583,8 +1583,8 @@
       "work": "TSUKI-R",
       "kind": "preserved-baseline",
       "sourceWork": "TSUKI-R",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E6%96%8B%E6%9C%A8%E6%BE%AA-TSUKI-R/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E6%96%8B%E6%9C%A8%E6%BE%AA-TSUKI-R/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E6%96%8B%E6%9C%A8%E6%BE%AA-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E6%96%8B%E6%9C%A8%E6%BE%AA-TSUKI-R/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -1638,8 +1638,8 @@
       "work": "TSUKI-R",
       "kind": "preserved-baseline",
       "sourceWork": "TSUKI-R",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%AE%89%E8%97%A4%E8%A3%95%E5%90%BE-TSUKI-R/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%AE%89%E8%97%A4%E8%A3%95%E5%90%BE-TSUKI-R/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%AE%89%E8%97%A4%E8%A3%95%E5%90%BE-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%AE%89%E8%97%A4%E8%A3%95%E5%90%BE-TSUKI-R/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -1693,8 +1693,8 @@
       "work": "TSUKI-R",
       "kind": "preserved-baseline",
       "sourceWork": "TSUKI-R",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%8D%A1%E5%88%A9%E4%B9%8C%E6%96%AF-TSUKI-R/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%8D%A1%E5%88%A9%E4%B9%8C%E6%96%AF-TSUKI-R/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%8D%A1%E5%88%A9%E4%B9%8C%E6%96%AF-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%8D%A1%E5%88%A9%E4%B9%8C%E6%96%AF-TSUKI-R/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -1748,8 +1748,8 @@
       "work": "TSUKI-R",
       "kind": "preserved-baseline",
       "sourceWork": "TSUKI",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E8%BF%9C%E9%87%8E%E6%A7%99%E4%B9%85-TSUKI-R/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E8%BF%9C%E9%87%8E%E6%A7%99%E4%B9%85-TSUKI-R/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E8%BF%9C%E9%87%8E%E6%A7%99%E4%B9%85-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E8%BF%9C%E9%87%8E%E6%A7%99%E4%B9%85-TSUKI-R/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -1803,8 +1803,8 @@
       "work": "TSUKI-R",
       "kind": "preserved-baseline",
       "sourceWork": "MBTL",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E7%8C%AB%E5%A7%AC-TSUKI-R/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E7%8C%AB%E5%A7%AC-TSUKI-R/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E7%8C%AB%E5%A7%AC-TSUKI-R/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E7%8C%AB%E5%A7%AC-TSUKI-R/portraits.webp",
       "expressions": [
         {
           "name": "happy",
@@ -1858,8 +1858,8 @@
       "work": "FZ",
       "kind": "user-accepted-anime-reference",
       "sourceWork": "FZ",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E8%BF%9C%E5%9D%82%E6%97%B6%E8%87%A3-FZ/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E8%BF%9C%E5%9D%82%E6%97%B6%E8%87%A3-FZ/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E8%BF%9C%E5%9D%82%E6%97%B6%E8%87%A3-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E8%BF%9C%E5%9D%82%E6%97%B6%E8%87%A3-FZ/portraits.webp",
       "acceptance": {
         "status": "explicitly-accepted-by-user",
         "date": "2026-10-20",
@@ -1960,8 +1960,8 @@
       "work": "FZ",
       "kind": "user-accepted-anime-reference",
       "sourceWork": "FZ",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FZ/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FZ/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FZ/portraits.webp",
       "acceptance": {
         "status": "explicitly-accepted-by-user",
         "date": "2026-10-20",
@@ -2062,8 +2062,8 @@
       "work": "FZ",
       "kind": "user-accepted-anime-reference",
       "sourceWork": "FZ",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%8D%AB%E5%AE%AB%E5%88%87%E5%97%A3-FZ/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%8D%AB%E5%AE%AB%E5%88%87%E5%97%A3-FZ/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%8D%AB%E5%AE%AB%E5%88%87%E5%97%A3-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%8D%AB%E5%AE%AB%E5%88%87%E5%97%A3-FZ/portraits.webp",
       "acceptance": {
         "status": "explicitly-accepted-by-user",
         "date": "2026-10-20",
@@ -2164,8 +2164,8 @@
       "work": "FZ",
       "kind": "user-accepted-anime-reference",
       "sourceWork": "FZ",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E6%A8%B1-FZ/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E6%A8%B1-FZ/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E6%A8%B1-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E6%A8%B1-FZ/portraits.webp",
       "acceptance": {
         "status": "explicitly-accepted-by-user",
         "date": "2026-10-20",
@@ -2266,8 +2266,8 @@
       "work": "FZ",
       "kind": "user-accepted-anime-reference",
       "sourceWork": "FZ",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FZ/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FZ/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FZ/portraits.webp",
       "acceptance": {
         "status": "explicitly-accepted-by-user",
         "date": "2026-10-20",
@@ -2368,8 +2368,8 @@
       "work": "FZ",
       "kind": "user-accepted-anime-reference",
       "sourceWork": "FZ",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E9%9B%81%E5%A4%9C-FZ/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E9%9B%81%E5%A4%9C-FZ/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E9%9B%81%E5%A4%9C-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E9%9B%81%E5%A4%9C-FZ/portraits.webp",
       "acceptance": {
         "status": "explicitly-accepted-by-user",
         "date": "2026-10-20",
@@ -2470,8 +2470,8 @@
       "work": "FZ",
       "kind": "user-delegated-reviewed-anime-reference",
       "sourceWork": "FZ",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%A8%9C%E5%A1%94%E8%8E%89%E4%BA%9A%C2%B7%E5%8D%A1%E6%98%8E%E6%96%AF%E5%9F%BA-FZ/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%A8%9C%E5%A1%94%E8%8E%89%E4%BA%9A%C2%B7%E5%8D%A1%E6%98%8E%E6%96%AF%E5%9F%BA-FZ/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%A8%9C%E5%A1%94%E8%8E%89%E4%BA%9A%C2%B7%E5%8D%A1%E6%98%8E%E6%96%AF%E5%9F%BA-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%A8%9C%E5%A1%94%E8%8E%89%E4%BA%9A%C2%B7%E5%8D%A1%E6%98%8E%E6%96%AF%E5%9F%BA-FZ/portraits.webp",
       "acceptance": {
         "status": "accepted-under-user-delegated-review",
         "date": "2026-10-20",
@@ -2574,8 +2574,8 @@
       "work": "FZ",
       "kind": "user-delegated-reviewed-anime-reference",
       "sourceWork": "FZ",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%85%B0%E6%96%AF%E6%B4%9B%E7%89%B9-FZ/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%85%B0%E6%96%AF%E6%B4%9B%E7%89%B9-FZ/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%85%B0%E6%96%AF%E6%B4%9B%E7%89%B9-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%85%B0%E6%96%AF%E6%B4%9B%E7%89%B9-FZ/portraits.webp",
       "acceptance": {
         "status": "accepted-under-user-delegated-review",
         "date": "2026-10-20",
@@ -2588,8 +2588,8 @@
         "file": "characters/兰斯洛特-FZ/untrusted.png",
         "frame": 4,
         "position": "80%",
-        "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%85%B0%E6%96%AF%E6%B4%9B%E7%89%B9-FZ/untrusted-avatars.webp",
-        "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%85%B0%E6%96%AF%E6%B4%9B%E7%89%B9-FZ/untrusted-portraits.webp"
+        "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%85%B0%E6%96%AF%E6%B4%9B%E7%89%B9-FZ/untrusted-avatars.webp",
+        "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%85%B0%E6%96%AF%E6%B4%9B%E7%89%B9-FZ/untrusted-portraits.webp"
       },
       "expressions": [
         {
@@ -2704,8 +2704,8 @@
       "work": "FZ",
       "kind": "user-delegated-reviewed-anime-reference",
       "sourceWork": "FZ",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E4%BC%8A%E6%96%AF%E5%9D%8E%E8%BE%BE%E5%B0%94-FZ/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E4%BC%8A%E6%96%AF%E5%9D%8E%E8%BE%BE%E5%B0%94-FZ/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E4%BC%8A%E6%96%AF%E5%9D%8E%E8%BE%BE%E5%B0%94-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E4%BC%8A%E6%96%AF%E5%9D%8E%E8%BE%BE%E5%B0%94-FZ/portraits.webp",
       "acceptance": {
         "status": "accepted-under-user-delegated-review",
         "date": "2026-10-20",
@@ -2808,8 +2808,8 @@
       "work": "FZ",
       "kind": "user-delegated-reviewed-anime-reference",
       "sourceWork": "FZ",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E8%BF%9C%E5%9D%82%E8%91%B5-FZ/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E8%BF%9C%E5%9D%82%E8%91%B5-FZ/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E8%BF%9C%E5%9D%82%E8%91%B5-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E8%BF%9C%E5%9D%82%E8%91%B5-FZ/portraits.webp",
       "acceptance": {
         "status": "accepted-under-user-delegated-review",
         "date": "2026-10-21",
@@ -2912,8 +2912,8 @@
       "work": "FZ",
       "kind": "user-delegated-reviewed-anime-reference",
       "sourceWork": "FZ",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E7%B4%A2%E6%8B%89%C2%B7%E5%A8%9C%E6%B3%BD%E8%8E%B1%C2%B7%E7%B4%A2%E8%8F%B2%E4%BA%9A%E8%8E%89-FZ/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E7%B4%A2%E6%8B%89%C2%B7%E5%A8%9C%E6%B3%BD%E8%8E%B1%C2%B7%E7%B4%A2%E8%8F%B2%E4%BA%9A%E8%8E%89-FZ/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E7%B4%A2%E6%8B%89%C2%B7%E5%A8%9C%E6%B3%BD%E8%8E%B1%C2%B7%E7%B4%A2%E8%8F%B2%E4%BA%9A%E8%8E%89-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E7%B4%A2%E6%8B%89%C2%B7%E5%A8%9C%E6%B3%BD%E8%8E%B1%C2%B7%E7%B4%A2%E8%8F%B2%E4%BA%9A%E8%8E%89-FZ/portraits.webp",
       "acceptance": {
         "status": "accepted-under-user-delegated-review",
         "date": "2026-10-21",
@@ -3016,8 +3016,8 @@
       "work": "FZ",
       "kind": "user-delegated-reviewed-anime-reference",
       "sourceWork": "FZ",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1-FZ/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1-FZ/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1-FZ/portraits.webp",
       "acceptance": {
         "status": "accepted-under-user-delegated-review",
         "date": "2026-10-21",
@@ -3120,8 +3120,8 @@
       "work": "FZ",
       "kind": "user-delegated-reviewed-anime-reference",
       "sourceWork": "FZ",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E7%88%B1%E4%B8%BD%E4%B8%9D%E8%8F%B2%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6-FZ/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E7%88%B1%E4%B8%BD%E4%B8%9D%E8%8F%B2%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6-FZ/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E7%88%B1%E4%B8%BD%E4%B8%9D%E8%8F%B2%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E7%88%B1%E4%B8%BD%E4%B8%9D%E8%8F%B2%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6-FZ/portraits.webp",
       "acceptance": {
         "status": "accepted-under-user-delegated-review",
         "date": "2026-10-21",
@@ -3224,8 +3224,8 @@
       "work": "FZ",
       "kind": "user-delegated-reviewed-anime-reference",
       "sourceWork": "FZ",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E4%B9%85%E5%AE%87%E8%88%9E%E5%BC%A5-FZ/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E4%B9%85%E5%AE%87%E8%88%9E%E5%BC%A5-FZ/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E4%B9%85%E5%AE%87%E8%88%9E%E5%BC%A5-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E4%B9%85%E5%AE%87%E8%88%9E%E5%BC%A5-FZ/portraits.webp",
       "acceptance": {
         "status": "accepted-under-user-delegated-review",
         "date": "2026-10-21",
@@ -3328,8 +3328,8 @@
       "work": "FZ",
       "kind": "user-delegated-reviewed-anime-reference",
       "sourceWork": "FZ",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E4%BC%8A%E8%8E%89%E9%9B%85%E4%B8%9D%E8%8F%B2%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6-FZ/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E4%BC%8A%E8%8E%89%E9%9B%85%E4%B8%9D%E8%8F%B2%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6-FZ/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E4%BC%8A%E8%8E%89%E9%9B%85%E4%B8%9D%E8%8F%B2%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E4%BC%8A%E8%8E%89%E9%9B%85%E4%B8%9D%E8%8F%B2%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6-FZ/portraits.webp",
       "acceptance": {
         "status": "accepted-under-user-delegated-review",
         "date": "2026-10-21",
@@ -3432,8 +3432,8 @@
       "work": "FZ",
       "kind": "user-delegated-reviewed-anime-reference",
       "sourceWork": "FZ",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E8%BF%9C%E5%9D%82%E5%87%9B-FZ/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E8%BF%9C%E5%9D%82%E5%87%9B-FZ/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E8%BF%9C%E5%9D%82%E5%87%9B-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E8%BF%9C%E5%9D%82%E5%87%9B-FZ/portraits.webp",
       "acceptance": {
         "status": "accepted-under-user-delegated-review",
         "date": "2026-10-21",
@@ -3536,8 +3536,8 @@
       "work": "FZ",
       "kind": "user-delegated-reviewed-anime-reference",
       "sourceWork": "FZ",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E9%9F%A6%E4%BC%AF%C2%B7%E7%BB%B4%E5%B0%94%E7%BB%B4%E7%89%B9-FZ/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E9%9F%A6%E4%BC%AF%C2%B7%E7%BB%B4%E5%B0%94%E7%BB%B4%E7%89%B9-FZ/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E9%9F%A6%E4%BC%AF%C2%B7%E7%BB%B4%E5%B0%94%E7%BB%B4%E7%89%B9-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E9%9F%A6%E4%BC%AF%C2%B7%E7%BB%B4%E5%B0%94%E7%BB%B4%E7%89%B9-FZ/portraits.webp",
       "acceptance": {
         "status": "accepted-under-user-delegated-review",
         "date": "2026-10-21",
@@ -3640,8 +3640,8 @@
       "work": "FZ",
       "kind": "user-delegated-reviewed-anime-reference",
       "sourceWork": "FZ",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E9%9B%A8%E7%94%9F%E9%BE%99%E4%B9%8B%E4%BB%8B-FZ/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E9%9B%A8%E7%94%9F%E9%BE%99%E4%B9%8B%E4%BB%8B-FZ/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E9%9B%A8%E7%94%9F%E9%BE%99%E4%B9%8B%E4%BB%8B-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E9%9B%A8%E7%94%9F%E9%BE%99%E4%B9%8B%E4%BB%8B-FZ/portraits.webp",
       "acceptance": {
         "status": "accepted-under-user-delegated-review",
         "date": "2026-10-21",
@@ -3744,8 +3744,8 @@
       "work": "FZ",
       "kind": "user-delegated-reviewed-anime-reference",
       "sourceWork": "FZ",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%C2%B7%E5%BE%B7%C2%B7%E9%9B%B7-FZ/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%C2%B7%E5%BE%B7%C2%B7%E9%9B%B7-FZ/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%C2%B7%E5%BE%B7%C2%B7%E9%9B%B7-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%C2%B7%E5%BE%B7%C2%B7%E9%9B%B7-FZ/portraits.webp",
       "acceptance": {
         "status": "accepted-under-user-delegated-review",
         "date": "2026-10-21",
@@ -3848,8 +3848,8 @@
       "work": "FZ",
       "kind": "user-delegated-reviewed-anime-reference",
       "sourceWork": "FZ",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E8%82%AF%E5%B0%BC%E6%96%AF%C2%B7%E5%9F%83%E5%B0%94%E6%A2%85%E7%BD%97%C2%B7%E9%98%BF%E5%A5%87%E5%8D%9A%E5%B0%94%E5%BE%B7-FZ/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E8%82%AF%E5%B0%BC%E6%96%AF%C2%B7%E5%9F%83%E5%B0%94%E6%A2%85%E7%BD%97%C2%B7%E9%98%BF%E5%A5%87%E5%8D%9A%E5%B0%94%E5%BE%B7-FZ/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E8%82%AF%E5%B0%BC%E6%96%AF%C2%B7%E5%9F%83%E5%B0%94%E6%A2%85%E7%BD%97%C2%B7%E9%98%BF%E5%A5%87%E5%8D%9A%E5%B0%94%E5%BE%B7-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E8%82%AF%E5%B0%BC%E6%96%AF%C2%B7%E5%9F%83%E5%B0%94%E6%A2%85%E7%BD%97%C2%B7%E9%98%BF%E5%A5%87%E5%8D%9A%E5%B0%94%E5%BE%B7-FZ/portraits.webp",
       "acceptance": {
         "status": "accepted-under-user-delegated-review",
         "date": "2026-10-21",
@@ -3952,8 +3952,8 @@
       "work": "FZ",
       "kind": "user-delegated-reviewed-anime-reference",
       "sourceWork": "FZ",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E8%BF%AA%E5%B0%94%E5%A7%86%E5%BE%B7%C2%B7%E5%A5%A5%E8%BF%AA%E9%82%A3-FZ/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/8c99f7e92d9359830519135cc381c8463f032c86/dialogue-avatars/v2/characters/%E8%BF%AA%E5%B0%94%E5%A7%86%E5%BE%B7%C2%B7%E5%A5%A5%E8%BF%AA%E9%82%A3-FZ/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E8%BF%AA%E5%B0%94%E5%A7%86%E5%BE%B7%C2%B7%E5%A5%A5%E8%BF%AA%E9%82%A3-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E8%BF%AA%E5%B0%94%E5%A7%86%E5%BE%B7%C2%B7%E5%A5%A5%E8%BF%AA%E9%82%A3-FZ/portraits.webp",
       "acceptance": {
         "status": "accepted-under-user-delegated-review",
         "date": "2026-10-21",
@@ -4045,6 +4045,110 @@
         {
           "path": "dialogue-avatars/v2/characters/迪尔姆德·奥迪那-FZ/confused.png",
           "sha256": "a78588239c6b5b8cf3419b30c79e4b8fa6d483edead9f7778a337e8096dd8b33",
+          "width": 512,
+          "height": 512
+        }
+      ]
+    },
+    {
+      "key": "言峰绮礼-FZ",
+      "name": "言峰绮礼",
+      "work": "FZ",
+      "kind": "user-delegated-reviewed-anime-reference",
+      "sourceWork": "FZ",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E8%A8%80%E5%B3%B0%E7%BB%AE%E7%A4%BC-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/73c4b721a43e670dead5f0391ec62de44535c0fe/dialogue-avatars/v2/characters/%E8%A8%80%E5%B3%B0%E7%BB%AE%E7%A4%BC-FZ/portraits.webp",
+      "acceptance": {
+        "status": "accepted-under-user-delegated-review",
+        "date": "2026-10-21",
+        "sourceSheetSHA256": "0fba404eaab19ad53f4929e213c7201b3ab68a0dea4acf207dde4b212709f99c",
+        "finalUserOverviewPending": true,
+        "rootAndIndependentReviewPassed": true
+      },
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%",
+          "file": "characters/言峰绮礼-FZ/happy.png"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%",
+          "file": "characters/言峰绮礼-FZ/angry.png"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%",
+          "file": "characters/言峰绮礼-FZ/sad.png"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%",
+          "file": "characters/言峰绮礼-FZ/laugh.png"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%",
+          "file": "characters/言峰绮礼-FZ/neutral.png"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%",
+          "file": "characters/言峰绮礼-FZ/confused.png"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/言峰绮礼-FZ/avatars.webp",
+          "sha256": "a5766ef53f233d332d2f1b1d5da7e9c21483f9e1835c72a67aa725d1ab8a6ceb",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/言峰绮礼-FZ/portraits.webp",
+          "sha256": "af84f0c0b65cd3e372e89a21765c11e2d09d8acbeebc825f625970659a270381",
+          "width": 3072,
+          "height": 384
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/言峰绮礼-FZ/happy.png",
+          "sha256": "17db1168025a4ebe6b46ad9c456704423b57ef9a63dd4ec54fbb3c43a95a4829",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/言峰绮礼-FZ/angry.png",
+          "sha256": "00a1dbded09ccd9197c64ac5f296803c3b7fdc65f344eb9061bd305112f09fe8",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/言峰绮礼-FZ/sad.png",
+          "sha256": "4426c49e996d783fc50cf2ad3f2d823bc94a8ffa9e2a0da1e6b945488f53d851",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/言峰绮礼-FZ/laugh.png",
+          "sha256": "a1ffd9ccb9cddb6e4e4daf381e7fe5445c751af50b9ee21aa0d9ff9e7585ded9",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/言峰绮礼-FZ/neutral.png",
+          "sha256": "bbe69202604108c8344d729cd07d9f29604e6af02bd1e4e06e0b7bbb5a9f13d2",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/言峰绮礼-FZ/confused.png",
+          "sha256": "66d2ef1d99279b9afed73dc5d6f8a9832749d49391b921b3632c7307c82b32e8",
           "width": 512,
           "height": 512
         }
