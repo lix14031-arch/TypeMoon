@@ -6,14 +6,16 @@ FZ 中用户明确验收 6 套；另有 27 套按用户委托完成主审及独�
 
 完整作品 JSON、正文设定和输出提示词仅保留在本地，不在此仓库发布。V2已冻结；后续已审角色的映射写入本地V3。既有图片目录保持稳定。
 
-- 角色共 66 套：FGO 10、TSUKI-R 23、FZ 33。
-- 图片共 333 个文件：原有 WebP 66 个字节不变；FZ 每角色六张 PNG 和两个 WebP，另有 1 个 untrusted 状态各追加三文件，共 267 个 FZ 文件。
+- 普通六表情角色共 66 套：FGO 10、TSUKI-R 23、FZ 33；另有 1 个仅含 untrusted 的登记键，全部登记键共 67 个。
+- 图片共 336 个文件：原有 WebP 66 个字节不变；FZ 每角色六张 PNG 和两个 WebP，1 个 FZ untrusted 状态各追加三文件；独立单态资源 3 个文件。
 - 六帧顺序为 happy、angry、sad、laugh、neutral、confused。
-- avatars.webp 为 768×128；portraits.webp 为 3072×384；新增 PNG 为 512×512，保留透明通道。
+- avatars.webp 为 768×128；portraits.webp 为 3072×384；FZ 表情 PNG 为 512×512；独立单态 PNG 保留锁定的原生尺寸，均保留透明通道。
 - data-portrait 使用 manifest.json 的完整角色键。
-- untrusted（未获得基础信任）仅登记：兰斯洛特-FZ。仅面具/头盔遮面角色可用，眼罩不单独作为理由；六个常规表情露出面容。专用 WebP 重复同一帧六次，沿用原样式默认80%位置。
+- untrusted（未获得基础信任）仅登记：兰斯洛特-FZ、莫德雷德-FGO。仅面具/头盔遮面角色可用，眼罩不单独作为理由；六个常规表情露出面容。专用 WebP 重复同一帧六次，沿用原样式默认80%位置。
+- 单态登记只提供 untrusted，不表示六个常规表情已经制作；获得基础信任或使用常规表情时 data-portrait 留空。
+- 莫德雷德-FGO：FGO Fandom Wiki sprite gallery; actual downloaded source（https://fategrandorder.fandom.com/wiki/Sub:Mordred/Gallery）；https://static.wikia.nocookie.net/fategrandorder/images/7/76/S076_Sheet_Stage1.webp/revision/latest；Mooncell identity and Stage1 appearance cross-check only; not source of this downloaded sprite（https://fgo.wiki/w/莫德雷德）
 
-图片链接引用 a0621e7f26c98092bb198a0110b24a44cf677cbb。
+图片链接引用 e6c3fbc1ef4f2b668d602b49bf864dc795f4a8af。
 
 |副本|角色登记键|验收状态|
 |---|---|---|
@@ -83,3 +85,4 @@ FZ 中用户明确验收 6 套；另有 27 套按用户委托完成主审及独�
 |FZ|间桐鹤野-FZ|用户委托复审通过，待总览验收|
 |FZ|尤布斯塔库哈依德·冯·爱因兹贝伦-FZ|用户委托复审通过，待总览验收|
 |FZ|西蒙神父-FZ|用户委托复审通过，待总览验收|
+|FGO|莫德雷德-FGO|仅 untrusted 单态；用户委托复审通过，待总览验收|
