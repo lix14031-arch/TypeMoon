@@ -1,16 +1,16 @@
 # TypeMoon V2-阶段验收
 
-本次只发布原有 33 套保留素材和用户明确验收的 5 套 Fate/Zero 角色，不代表 Fate/Zero 或 Fate/stay night 全部完成。
+本次只发布原有 33 套保留素材和用户明确验收的 6 套 Fate/Zero 角色，不代表 Fate/Zero 或 Fate/stay night 全部完成。
 
 完整作品 JSON、正文设定和输出提示词仅保留在本地，不在此仓库发布。
 
-- 角色共 38 套：FGO 10、TSUKI-R 23、FZ 5。
-- 图片共 106 个文件：原有 WebP 66 个字节不变；FZ 新增六张 PNG 和两个 WebP，每角色 8 个，共 40 个。
+- 角色共 39 套：FGO 10、TSUKI-R 23、FZ 6。
+- 图片共 114 个文件：原有 WebP 66 个字节不变；FZ 新增六张 PNG 和两个 WebP，每角色 8 个，共 48 个。
 - 六帧顺序为 happy、angry、sad、laugh、neutral、confused。
 - avatars.webp 为 768×128；portraits.webp 为 3072×384；新增 PNG 为 512×512，保留透明通道。
 - data-portrait 使用 manifest.json 的完整角色键；本阶段没有登记 untrusted 状态资源。
 
-图片链接引用 6d804a2ac13fec2b6943d8e5224de0ac9c64c574。
+图片链接引用 966c086239843b31aa044430989f04d97486f947。
 
 |副本|角色登记键|
 |---|---|
@@ -52,3 +52,4 @@
 |FZ|卫宫切嗣-FZ|
 |FZ|间桐樱-FZ|
 |FZ|间桐脏砚-FZ|
+|FZ|间桐雁夜-FZ|
