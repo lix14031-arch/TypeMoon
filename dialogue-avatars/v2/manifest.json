@@ -6,8 +6,9 @@
     "explicitUser": 6,
     "delegatedReview": 27,
     "redrawnAwaitingUserReview": 1,
-    "selfReviewedAwaitingUser": 29,
-    "reuseApprovedAwaitingUser": 3
+    "selfReviewedAwaitingUser": 28,
+    "reuseApprovedAwaitingUser": 3,
+    "userApprovedStandardDelegatedStageAccepted": 1
   },
   "baseline": "20261020-022028",
   "repository": "lix14031-arch/TypeMoon",
@@ -6314,42 +6315,333 @@
       "work": "FSN",
       "kind": "six-separate-generated-anime-reference",
       "sourceWork": "FSN",
-      "appearance": "UBW成年金闪闪；保留黑色白滚边外套、白衬衣、下垂金发；神态按用户已验收FZ参考修正为睥睨、傲慢和嘲弄愉悦。",
-      "assetRef": "5e8e74c34981ddb1e4b24d9b6e64f3a25303f88a",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/5e8e74c34981ddb1e4b24d9b6e64f3a25303f88a/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FSN/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/5e8e74c34981ddb1e4b24d9b6e64f3a25303f88a/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FSN/portraits.webp",
+      "appearance": "依据已逐张核验的官方FSN/UBW画面重绘：成年金发红眼、下垂前发、黑色短立领白滚边外套与白色开领衬衣；采用用户认可的neutral-r4人物标准，六态分别表达平静审视、傲慢冷笑、克制怒意、低落、嘲笑与质疑。",
+      "assetRef": "129e287154bb0507633d9cebfd200aee9e912b17",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/129e287154bb0507633d9cebfd200aee9e912b17/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FSN/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/129e287154bb0507633d9cebfd200aee9e912b17/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FSN/portraits.webp",
       "acceptance": {
-        "status": "self-reviewed-awaiting-user",
+        "status": "user-approved-standard-delegated-stage-accepted",
         "date": "2026-10-21",
-        "finalUserOverviewPending": true,
+        "revision": "fsn-gilgamesh-r4-cee4e63568c6",
         "userAccepted": false,
+        "userApprovedVisualStandard": {
+          "candidate": "neutral-r4.png",
+          "emotion": "neutral",
+          "sourceSHA256": "8db696db43ba0d7f624a157c071a8c9489685543497efdd63460ca517c8e77f0",
+          "explicitlyApproved": true
+        },
+        "delegatedStageAccepted": true,
+        "delegatedExpressionNames": [
+          "happy",
+          "angry",
+          "sad",
+          "laugh",
+          "confused"
+        ],
+        "unseenExpressionsIndividuallyUserAccepted": false,
+        "finalUserOverviewPending": false,
+        "acceptanceScope": "用户明确认可neutral-r4的画图标准，并委托完成、审查和替换六态。其余五图按委托通过主审及两位独立审查，不声称用户逐张明确验收；本条阶段通过不代表FSN全部角色通过用户总验收。",
         "rootAndIndependentReviewPassed": true,
-        "generationMethod": "six-separate-imagegen-calls",
-        "assetSetSHA256": "9e94f88455aade932b7357e3507aa2d95513fd110fec6b3fe544a4c001a666fd",
+        "generationMethod": "sequential-single-imagegen-calls; each final expression individually reviewed against approved neutral-r4",
+        "assetSetSHA256": "2df77bffe646c9e6d798b403ef85ddb1396a02ed4ceceb7b74325968a24921b1",
+        "assetSetHashScope": "SHA256 of ordered name + NUL + fileSHA256 + LF for the six PNGs and two WebP strips",
         "sourceImagesSHA256": {
-          "happy": "61e186183e0fcc044d77acc2a85e1af48d516ad224763d40d4059a73fc274b38",
-          "angry": "27b29969b6a26bddeaf35689866678032650080e7c7e16b2c592289ef843e3d6",
-          "sad": "81e7284ad316d4387ce2ee3acebf7382ed83a462063e5714ddd75b23404ad4c9",
-          "laugh": "047329ef09db90485fbcf6b375d983bcf4bd1167656d6be41c7e66c7837d1416",
-          "neutral": "4cde91cb5536ae97b5b19e2a0af5aace000f56e04bebed751c94ce95cd3f25bf",
-          "confused": "a9eafa2dcc29e11b11c339104130e26749c95dcc060e197121f964c26adf87c5"
+          "happy": "3c03ced78a651f6463082d4994bc4dc4dc77f552fb77c0f015e7c851b9e77678",
+          "angry": "fae331c8046702ac3110325cad8816b30f83e7a24f4e93b699227fbbc612685e",
+          "sad": "e445002c295237e62021206f800b38453b28faa905fcc2b91580a46b88474dca",
+          "laugh": "c7135271d2f91075f40bc6ddf0aaecc77de5275848a7ccb15a199ab38e511227",
+          "neutral": "7445aac402cc6e557f7e9d7381b22fa97a6a57b1cf583ba746056f6934632373",
+          "confused": "9901ebea8f54fe0261d801ae88f003fc9dbf521a6b0443167886d98217baba31"
         },
         "sourceImagesHashScope": "published-512x512-transparent-pngs",
-        "revision": "r1",
-        "replacesAssetSetSHA256": "335f6f9b2de9cfc8f50bdc7d6687341d9c1efab85308655e755d0ecdaf591952"
+        "nativeSourceImagesSHA256": {
+          "happy": "4da70e5e2264fac992c483d50fbc9798aebd89f040b12ef0e6b83ae5fe522774",
+          "angry": "3f1bee9cb92e35f352e1e9a5ccbe23ea9e62927379a693ee6319f48a7d7e905c",
+          "sad": "415ec86e4ac1d5c0fbba272bf8cbd5de736d2db28dd5839b83d0f4110f9d77ec",
+          "laugh": "bf41572031c6643ae8ddaf241aa5aec36e3fb5adf1efefedbe90c1541dcfbde2",
+          "neutral": "8db696db43ba0d7f624a157c071a8c9489685543497efdd63460ca517c8e77f0",
+          "confused": "57f4c1c58f10a1a90e827c3ba3c7b63e68cfde36c0fca22aade0ded1d0601efd"
+        },
+        "nativeSourceDimensions": {
+          "width": 1254,
+          "height": 1254
+        },
+        "replacesAssetSetSHA256": "9e94f88455aade932b7357e3507aa2d95513fd110fec6b3fe544a4c001a666fd",
+        "replacesAssetRef": "5e8e74c34981ddb1e4b24d9b6e64f3a25303f88a",
+        "packageSHA256": "0bad706c7e92247ba83431ba6a8d007e06f45a1cfaff5ef98a2a4f95d34f1ed2",
+        "reviewEvidence": [
+          {
+            "emotion": "happy",
+            "candidate": "happy-r2.png",
+            "sourceSHA256": "4da70e5e2264fac992c483d50fbc9798aebd89f040b12ef0e6b83ae5fe522774",
+            "reviews": [
+              {
+                "reviewer": "gilgamesh_review",
+                "report": "happy-r2-identity.json",
+                "reportSHA256": "989a12d23e7db118a5c2b0b9d48c6e5ce37368fae6e701635d34793c46a72ce9",
+                "sourceSHA256": "4da70e5e2264fac992c483d50fbc9798aebd89f040b12ef0e6b83ae5fe522774",
+                "score": 93,
+                "scoreMaximum": 100,
+                "threshold": 90,
+                "passed": true
+              },
+              {
+                "reviewer": "mapping_audit",
+                "report": "happy-r2-expression.json",
+                "reportSHA256": "3e0d817c527acb1801ed6675915488a970ad0a874965e9aff14f3e51de1ffe8c",
+                "sourceSHA256": "4da70e5e2264fac992c483d50fbc9798aebd89f040b12ef0e6b83ae5fe522774",
+                "score": 95,
+                "scoreMaximum": 100,
+                "threshold": 90,
+                "passed": true
+              }
+            ]
+          },
+          {
+            "emotion": "angry",
+            "candidate": "angry-r2.png",
+            "sourceSHA256": "3f1bee9cb92e35f352e1e9a5ccbe23ea9e62927379a693ee6319f48a7d7e905c",
+            "reviews": [
+              {
+                "reviewer": "gilgamesh_review",
+                "report": "angry-r2-identity.json",
+                "reportSHA256": "cc12334aca4134342a70092b7627d1ef4ac6aa1529e6f8d4711e0c913d443887",
+                "sourceSHA256": "3f1bee9cb92e35f352e1e9a5ccbe23ea9e62927379a693ee6319f48a7d7e905c",
+                "score": 93,
+                "scoreMaximum": 100,
+                "threshold": 90,
+                "passed": true
+              },
+              {
+                "reviewer": "mapping_audit",
+                "report": "angry-r2-expression.json",
+                "reportSHA256": "67d25e27d69070f839c16614a367cdf2d3c8113aa0e75367349cfc65f4b0e13b",
+                "sourceSHA256": "3f1bee9cb92e35f352e1e9a5ccbe23ea9e62927379a693ee6319f48a7d7e905c",
+                "score": 94,
+                "scoreMaximum": 100,
+                "threshold": 90,
+                "passed": true
+              }
+            ]
+          },
+          {
+            "emotion": "sad",
+            "candidate": "sad-r1.png",
+            "sourceSHA256": "415ec86e4ac1d5c0fbba272bf8cbd5de736d2db28dd5839b83d0f4110f9d77ec",
+            "reviews": [
+              {
+                "reviewer": "gilgamesh_review",
+                "report": "sad-r1-identity.json",
+                "reportSHA256": "5d100c6c03d08a321efbb5051106af5aaf913534f013fe2689ba8ffe3df87c31",
+                "sourceSHA256": "415ec86e4ac1d5c0fbba272bf8cbd5de736d2db28dd5839b83d0f4110f9d77ec",
+                "score": 92,
+                "scoreMaximum": 100,
+                "threshold": 90,
+                "passed": true
+              },
+              {
+                "reviewer": "mapping_audit",
+                "report": "sad-r1-expression.json",
+                "reportSHA256": "a49860663b47692a5654035a8dbe0280f0b5294e4930159e5fa71fdd92afbabd",
+                "sourceSHA256": "415ec86e4ac1d5c0fbba272bf8cbd5de736d2db28dd5839b83d0f4110f9d77ec",
+                "score": 94,
+                "scoreMaximum": 100,
+                "threshold": 90,
+                "passed": true
+              }
+            ]
+          },
+          {
+            "emotion": "laugh",
+            "candidate": "laugh-r1.png",
+            "sourceSHA256": "bf41572031c6643ae8ddaf241aa5aec36e3fb5adf1efefedbe90c1541dcfbde2",
+            "reviews": [
+              {
+                "reviewer": "gilgamesh_review",
+                "report": "laugh-r1-identity.json",
+                "reportSHA256": "8a2e2d0f5db3a1ace672c9f16077b926b456ca68bc715e397bf7773eb19f75cd",
+                "sourceSHA256": "bf41572031c6643ae8ddaf241aa5aec36e3fb5adf1efefedbe90c1541dcfbde2",
+                "score": 92,
+                "scoreMaximum": 100,
+                "threshold": 90,
+                "passed": true
+              },
+              {
+                "reviewer": "mapping_audit",
+                "report": "laugh-r1-expression.json",
+                "reportSHA256": "8bf0ce73ad01d9e096f90606175ec06cf0a8a7543bb27be04ef38e7a4e6b1bad",
+                "sourceSHA256": "bf41572031c6643ae8ddaf241aa5aec36e3fb5adf1efefedbe90c1541dcfbde2",
+                "score": 95,
+                "scoreMaximum": 100,
+                "threshold": 90,
+                "passed": true
+              }
+            ]
+          },
+          {
+            "emotion": "neutral",
+            "candidate": "neutral-r4.png",
+            "sourceSHA256": "8db696db43ba0d7f624a157c071a8c9489685543497efdd63460ca517c8e77f0",
+            "reviews": [
+              {
+                "reviewer": "gilgamesh_review",
+                "report": "neutral-r4-identity.json",
+                "reportSHA256": "bc397dadfbedb241e762e57b0daacc832017192d857d5f7e17419087d784cc88",
+                "sourceSHA256": "8db696db43ba0d7f624a157c071a8c9489685543497efdd63460ca517c8e77f0",
+                "score": 92.22,
+                "scoreMaximum": 100,
+                "threshold": 90,
+                "passed": true
+              },
+              {
+                "reviewer": "mapping_audit / expression specialist",
+                "report": "neutral-r4-expression.json",
+                "reportSHA256": "56d3262bbf167f99106f17dac6c2817c74227f56adb1eb2e24ff8a1d9f71be4e",
+                "sourceSHA256": "8db696db43ba0d7f624a157c071a8c9489685543497efdd63460ca517c8e77f0",
+                "score": 93,
+                "scoreMaximum": 100,
+                "threshold": 90,
+                "passed": true
+              }
+            ]
+          },
+          {
+            "emotion": "confused",
+            "candidate": "confused-r2.png",
+            "sourceSHA256": "57f4c1c58f10a1a90e827c3ba3c7b63e68cfde36c0fca22aade0ded1d0601efd",
+            "reviews": [
+              {
+                "reviewer": "gilgamesh_review",
+                "report": "confused-r2-identity.json",
+                "reportSHA256": "c3cd38f3f81baf395ab072a5871eecef00ec21b735bfa1d2c7dc9c85a7d10b33",
+                "sourceSHA256": "57f4c1c58f10a1a90e827c3ba3c7b63e68cfde36c0fca22aade0ded1d0601efd",
+                "score": 93,
+                "scoreMaximum": 100,
+                "threshold": 90,
+                "passed": true
+              },
+              {
+                "reviewer": "mapping_audit",
+                "report": "confused-r2-expression.json",
+                "reportSHA256": "7a6e1c1150de5e9cd147ca3e520fd013eda9be3ff81cf5b15a7d8058fb0235f7",
+                "sourceSHA256": "57f4c1c58f10a1a90e827c3ba3c7b63e68cfde36c0fca22aade0ded1d0601efd",
+                "score": 95,
+                "scoreMaximum": 100,
+                "threshold": 90,
+                "passed": true
+              }
+            ]
+          }
+        ],
+        "technicalValidation": {
+          "status": "passed",
+          "passed": 69,
+          "failed": 0,
+          "report": "verification.json",
+          "reportSHA256": "62ac289284daf7f34f6d9e15226f00753cef578e815b2c7b2e9c5eac0ac0e743",
+          "packageName": "fsn-gilgamesh-r4-cee4e63568c6",
+          "sourcePixelsNeverEdited": true,
+          "packingMethod": "Only identical full-canvas resizing, fixed shared face crop, transparent contain padding, and lossless WebP strip packing. No per-image trim, repainting, alpha cleanup, AI image edits, or character drawing."
+        },
+        "avatarBlindReview": {
+          "status": "passed",
+          "sizeCSSPixels": 128,
+          "method": "Randomized A-F screenshot of actual browser rendering at 128 CSS pixels; three reviewers recorded classifications before answer disclosure.",
+          "avatarSHA256": "e61e7b759c22aabd9d8efa466338d5cca23b9b16737d555c9b11f2baa4c200b1",
+          "screenshotSHA256": "0d588f03271d772cd400ea1f949230e926d3d4309a278d6ecff83f71fb0c880e",
+          "report": "blind-result.json",
+          "reportSHA256": "a797f041bd1b8f714fd53a096654b78d07394b9d8bf07895205f1793e87df561",
+          "results": [
+            {
+              "reviewer": "root",
+              "correct": 6,
+              "total": 6,
+              "report": "blind-classification-root.json",
+              "reportSHA256": "7f257fab90eb6c41f58b8362daa5fd35ef75d7610924f83fbe6289c57a5c1033"
+            },
+            {
+              "reviewer": "mapping_audit",
+              "correct": 6,
+              "total": 6,
+              "report": "blind-classification-expression.json",
+              "reportSHA256": "8a68104b8fd5ba3b579e32d8f7bcc529852df3b45431799cd8d29eb1697c81a9"
+            },
+            {
+              "reviewer": "gilgamesh_review",
+              "correct": 6,
+              "total": 6,
+              "report": "blind-classification-identity.json",
+              "reportSHA256": "0e2b7740c6ae1d7a5e57af0a2b65e1271d3fe35d3b1c97880dceedf435600114"
+            }
+          ],
+          "notes": "Happy and neutral are the closest pair, but all reviewers distinguished the asymmetric smirk at actual size. This is a subjective perception check, not a universal recognition guarantee."
+        },
+        "limitations": "Review scores and blind recognition are subjective checks, not universal recognition guarantees. This records the final local package and browser avatar preview, not a website-import test."
       },
       "provenance": [
         {
           "url": "https://www.fatestaynightusa.com/ubw/chara/img/ch16.jpg",
-          "role": "official UBW adult identity and modern costume"
+          "pageURL": "https://www.fatestaynightusa.com/ubw/chara/",
+          "sha256": "f0d92954c298e78a6e95a72bf5013229240f667471942d823000d5becd1b4f7a",
+          "role": "3/4 face and restrained contemptuous smile",
+          "inspectedWithViewImage": true,
+          "verifiedIdentity": "Gilgamesh in ufotable Fate/stay night Unlimited Blade Works civilian costume"
         },
         {
           "url": "https://www.fatestaynightusa.com/ubw/story/img/15/04.jpg",
-          "role": "official UBW daylight hair, skin, eye color and modern costume"
+          "pageURL": "https://www.fatestaynightusa.com/ubw/story/15.html",
+          "sha256": "d226978abaea3044e3da3891d00ecc45603968fdcca2bdf997c61192d3c4528c",
+          "role": "Primary daylight front face and costume proportions",
+          "inspectedWithViewImage": true,
+          "verifiedIdentity": "Gilgamesh in ufotable Fate/stay night Unlimited Blade Works civilian costume"
         },
         {
-          "url": "https://github.com/lix14031-arch/TypeMoon/tree/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FZ",
-          "role": "User-accepted FZ six expressions; facial attitude only, not costume or hairstyle"
+          "url": "https://www.fatestaynightusa.com/ubw/story/img/16/02.jpg",
+          "pageURL": "https://www.fatestaynightusa.com/ubw/story/16.html",
+          "sha256": "25d93e8d6ca1f0dd833ce52e8b2cf4e92ae190b1e781ae427121789c0cd132f8",
+          "role": "Wide figure and costume silhouette",
+          "inspectedWithViewImage": true,
+          "verifiedIdentity": "Gilgamesh in ufotable Fate/stay night Unlimited Blade Works civilian costume"
+        },
+        {
+          "url": "https://www.fatestaynightusa.com/ubw/story/img/17/02.jpg",
+          "pageURL": "https://www.fatestaynightusa.com/ubw/story/17.html",
+          "sha256": "2315edc1465b4d2017cca2fd669ffa7b336bf2c4240facd637a9ece0bb8da7a5",
+          "role": "Straight frontal posture and shirt/jacket length",
+          "inspectedWithViewImage": true,
+          "verifiedIdentity": "Gilgamesh in ufotable Fate/stay night Unlimited Blade Works civilian costume"
+        },
+        {
+          "url": "https://www.fatestaynightusa.com/ubw/story/img/22/04.jpg",
+          "pageURL": "https://www.fatestaynightusa.com/ubw/story/22.html",
+          "sha256": "1445cfb6720f51b43c8274d54765708f54154fba3bfcbe0f4a8ee643d8e8bd9c",
+          "role": "Right-facing side profile and nape",
+          "inspectedWithViewImage": true,
+          "verifiedIdentity": "Gilgamesh in ufotable Fate/stay night Unlimited Blade Works civilian costume"
+        },
+        {
+          "url": "https://www.fatestaynightusa.com/ubw/story/img/23/05.jpg",
+          "pageURL": "https://www.fatestaynightusa.com/ubw/story/23.html",
+          "sha256": "cbb5746b18eee875afcbe0c093bdb97d862c1d0f24a2920ae5183d1449bcccd7",
+          "role": "Low-angle 3/4 posture and contemptuous smile",
+          "inspectedWithViewImage": true,
+          "verifiedIdentity": "Gilgamesh in ufotable Fate/stay night Unlimited Blade Works civilian costume"
+        },
+        {
+          "url": "https://www.fatestaynightusa.com/ubw/story/img/24/03.jpg",
+          "pageURL": "https://www.fatestaynightusa.com/ubw/story/24.html",
+          "sha256": "963c0b4e469d088dcd289d0e5d7414ff4067e80dbf22c9dacda5664b922b1be3",
+          "role": "Primary straight-on face and threatening grin",
+          "inspectedWithViewImage": true,
+          "verifiedIdentity": "Gilgamesh in ufotable Fate/stay night Unlimited Blade Works civilian costume"
+        },
+        {
+          "url": "https://www.fatestaynightusa.com/ubw/story/img/11/05.jpg",
+          "pageURL": "https://www.fatestaynightusa.com/ubw/story/11.html",
+          "sha256": "c5344718ec9159736fae160a25eb65e5f7b7b86d29c464c4da0728ee61988e19",
+          "role": "Close 3/4 face, sharp red gaze and dangerous smirk",
+          "inspectedWithViewImage": true,
+          "verifiedIdentity": "Gilgamesh in ufotable Fate/stay night Unlimited Blade Works civilian costume"
         }
       ],
       "expressions": [
@@ -6358,103 +6650,111 @@
           "frame": 0,
           "position": "0%",
           "file": "characters/吉尔伽美什-FSN/happy.png",
-          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/5e8e74c34981ddb1e4b24d9b6e64f3a25303f88a/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FSN/happy.png"
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/129e287154bb0507633d9cebfd200aee9e912b17/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FSN/happy.png"
         },
         {
           "name": "angry",
           "frame": 1,
           "position": "20%",
           "file": "characters/吉尔伽美什-FSN/angry.png",
-          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/5e8e74c34981ddb1e4b24d9b6e64f3a25303f88a/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FSN/angry.png"
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/129e287154bb0507633d9cebfd200aee9e912b17/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FSN/angry.png"
         },
         {
           "name": "sad",
           "frame": 2,
           "position": "40%",
           "file": "characters/吉尔伽美什-FSN/sad.png",
-          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/5e8e74c34981ddb1e4b24d9b6e64f3a25303f88a/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FSN/sad.png"
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/129e287154bb0507633d9cebfd200aee9e912b17/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FSN/sad.png"
         },
         {
           "name": "laugh",
           "frame": 3,
           "position": "60%",
           "file": "characters/吉尔伽美什-FSN/laugh.png",
-          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/5e8e74c34981ddb1e4b24d9b6e64f3a25303f88a/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FSN/laugh.png"
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/129e287154bb0507633d9cebfd200aee9e912b17/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FSN/laugh.png"
         },
         {
           "name": "neutral",
           "frame": 4,
           "position": "80%",
           "file": "characters/吉尔伽美什-FSN/neutral.png",
-          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/5e8e74c34981ddb1e4b24d9b6e64f3a25303f88a/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FSN/neutral.png"
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/129e287154bb0507633d9cebfd200aee9e912b17/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FSN/neutral.png"
         },
         {
           "name": "confused",
           "frame": 5,
           "position": "100%",
           "file": "characters/吉尔伽美什-FSN/confused.png",
-          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/5e8e74c34981ddb1e4b24d9b6e64f3a25303f88a/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FSN/confused.png"
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/129e287154bb0507633d9cebfd200aee9e912b17/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FSN/confused.png"
         }
       ],
       "files": [
         {
           "path": "dialogue-avatars/v2/characters/吉尔伽美什-FSN/happy.png",
-          "sha256": "61e186183e0fcc044d77acc2a85e1af48d516ad224763d40d4059a73fc274b38",
+          "sha256": "3c03ced78a651f6463082d4994bc4dc4dc77f552fb77c0f015e7c851b9e77678",
           "width": 512,
           "height": 512,
-          "bytes": 230686
+          "bytes": 150369,
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/129e287154bb0507633d9cebfd200aee9e912b17/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FSN/happy.png"
         },
         {
           "path": "dialogue-avatars/v2/characters/吉尔伽美什-FSN/angry.png",
-          "sha256": "27b29969b6a26bddeaf35689866678032650080e7c7e16b2c592289ef843e3d6",
+          "sha256": "fae331c8046702ac3110325cad8816b30f83e7a24f4e93b699227fbbc612685e",
           "width": 512,
           "height": 512,
-          "bytes": 229533
+          "bytes": 152066,
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/129e287154bb0507633d9cebfd200aee9e912b17/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FSN/angry.png"
         },
         {
           "path": "dialogue-avatars/v2/characters/吉尔伽美什-FSN/sad.png",
-          "sha256": "81e7284ad316d4387ce2ee3acebf7382ed83a462063e5714ddd75b23404ad4c9",
+          "sha256": "e445002c295237e62021206f800b38453b28faa905fcc2b91580a46b88474dca",
           "width": 512,
           "height": 512,
-          "bytes": 231800
+          "bytes": 149357,
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/129e287154bb0507633d9cebfd200aee9e912b17/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FSN/sad.png"
         },
         {
           "path": "dialogue-avatars/v2/characters/吉尔伽美什-FSN/laugh.png",
-          "sha256": "047329ef09db90485fbcf6b375d983bcf4bd1167656d6be41c7e66c7837d1416",
+          "sha256": "c7135271d2f91075f40bc6ddf0aaecc77de5275848a7ccb15a199ab38e511227",
           "width": 512,
           "height": 512,
-          "bytes": 233154
+          "bytes": 149446,
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/129e287154bb0507633d9cebfd200aee9e912b17/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FSN/laugh.png"
         },
         {
           "path": "dialogue-avatars/v2/characters/吉尔伽美什-FSN/neutral.png",
-          "sha256": "4cde91cb5536ae97b5b19e2a0af5aace000f56e04bebed751c94ce95cd3f25bf",
+          "sha256": "7445aac402cc6e557f7e9d7381b22fa97a6a57b1cf583ba746056f6934632373",
           "width": 512,
           "height": 512,
-          "bytes": 227687
+          "bytes": 147680,
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/129e287154bb0507633d9cebfd200aee9e912b17/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FSN/neutral.png"
         },
         {
           "path": "dialogue-avatars/v2/characters/吉尔伽美什-FSN/confused.png",
-          "sha256": "a9eafa2dcc29e11b11c339104130e26749c95dcc060e197121f964c26adf87c5",
+          "sha256": "9901ebea8f54fe0261d801ae88f003fc9dbf521a6b0443167886d98217baba31",
           "width": 512,
           "height": 512,
-          "bytes": 229767
+          "bytes": 152008,
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/129e287154bb0507633d9cebfd200aee9e912b17/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FSN/confused.png"
         },
         {
           "path": "dialogue-avatars/v2/characters/吉尔伽美什-FSN/avatars.webp",
-          "sha256": "b335ebb3696a952c0735527d436c295865ce96e98c3148607ddcd325bf431d51",
+          "sha256": "e61e7b759c22aabd9d8efa466338d5cca23b9b16737d555c9b11f2baa4c200b1",
           "width": 768,
           "height": 128,
-          "bytes": 121564
+          "bytes": 83856,
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/129e287154bb0507633d9cebfd200aee9e912b17/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FSN/avatars.webp"
         },
         {
           "path": "dialogue-avatars/v2/characters/吉尔伽美什-FSN/portraits.webp",
-          "sha256": "6be94bbc749df3329f40eebc72b522381e5260c37cda1a3fb3e4d0d625d7b5ba",
+          "sha256": "751fe5baa9235b1d153260e6a8b73e795b11c0ac514baa91613207e084581b14",
           "width": 3072,
           "height": 384,
-          "bytes": 569074
+          "bytes": 376590,
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/129e287154bb0507633d9cebfd200aee9e912b17/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80-FSN/portraits.webp"
         }
       ],
-      "revisionLabel": "本轮修订 · 加强傲慢与愉悦，服装保留"
+      "revisionLabel": "2026-10-21 FSN/UBW六态重绘 · neutral-r4标准获用户认可，其余五态按委托审查通过"
     },
     {
       "key": "库·丘林-FSN",
@@ -10119,4 +10419,3 @@
   },
   "aliasPolicy": "显式data-portrait别名仅复用指定角色与作品的现有资源；不使用data-speaker兜底，不增加图片或角色计数。哈桑·萨巴赫-FSN仅指已确认身份的FSN咒腕哈桑。"
 }
-
