@@ -1,17 +1,17 @@
 # TypeMoon V3-阶段验收
 
-本次登记保留基线的 72 套常规素材，新增 14 套 FSN（UBW/HF）角色；累计 86 套。本批不代表 Fate/Zero 或 Fate/stay night 全部完成。
+本次修订 FSN 的赫拉克勒斯、吉尔伽美什、言峰绮礼三套六表情，并为美杜莎新增一个眼罩平静状态。普通角色仍为 86 套，FSN 仍为 19 套；本批不代表 FSN 全量完成。
 
 FZ 中用户明确验收 6 套；另有 27 套按用户委托完成主审及独立复审，最终由用户总览验收。吉尔·德·雷-FZ 已按用户要求逐张重制六种表情，单独列为待用户验收。各类状态分别记录，不将委托复审或重制结果写成用户逐套明确验收。
 
 完整作品 JSON、正文设定和输出提示词仅保留在本地，不在此仓库发布。V2已冻结；后续已审角色的映射写入本地V3。既有图片目录保持稳定。
 
 - 普通六表情角色共 86 套：FGO 10、TSUKI-R 23、FZ 34、FSN 19；另有 1 个仅含 untrusted 的登记键，全部登记键共 87 个。
-- 图片共 496 个文件；此次仅新增 FSN 112 个文件（每角色六张 PNG、两个 WebP）。基线原有 384 个图片文件及其角色图片链接均保留。
+- 图片共 499 个文件；本轮替换三角色的 24 个文件，并新增美杜莎单态的 3 个文件。常规六表情共 516 张，额外单态共 3 张，合计 519 张独立表情／状态图。
 - 六帧顺序为 happy、angry、sad、laugh、neutral、confused。
 - avatars.webp 为 768×128；portraits.webp 为 3072×384；FZ / FSN 表情 PNG 为 512×512；独立单态 PNG 保留锁定的原生尺寸，均保留透明通道。
 - data-portrait 使用 manifest.json 的完整角色键。
-- untrusted（未获得基础信任）仅登记：兰斯洛特-FZ、莫德雷德-FGO。仅面具/头盔遮面角色可用，眼罩不单独作为理由；六个常规表情露出面容。专用 WebP 重复同一帧六次，沿用原样式默认80%位置。
+- untrusted（未获得基础信任）登记：兰斯洛特-FZ、莫德雷德-FGO、美杜莎-FSN。美杜莎眼罩版是用户本轮明确指定的例外，平静单态独立于原六张露眼表情；不将眼罩自动推广为其他角色的状态判据。专用 WebP 重复同一张图六次，沿用默认80%位置。
 - 单态登记只提供 untrusted，不表示六个常规表情已经制作；获得基础信任或使用常规表情时 data-portrait 留空。
 - 莫德雷德-FGO：FGO Fandom Wiki sprite gallery; actual downloaded source（https://fategrandorder.fandom.com/wiki/Sub:Mordred/Gallery）；https://static.wikia.nocookie.net/fategrandorder/images/7/76/S076_Sheet_Stage1.webp/revision/latest；Mooncell identity and Stage1 appearance cross-check only; not source of this downloaded sprite（https://fgo.wiki/w/莫德雷德）
 
@@ -124,3 +124,14 @@ FZ 中用户明确验收 6 套；另有 27 套按用户委托完成主审及独�
 |FSN|藤村大河-FSN|自审及独立复审完成，待用户验收|
 |FSN|美缀绫子-FSN|自审及独立复审完成，待用户验收|
 |FSN|塞拉-FSN|自审及独立复审完成，待用户验收|
+
+## FSN 本轮修订 r1（5e8e74c34981）
+
+三套替换图片及美杜莎新增单态固定引用 `5e8e74c34981ddb1e4b24d9b6e64f3a25303f88a`，以当前 manifest 的逐角色／逐状态 URL 为准；上述历史追加批次中的旧引用不再用于这三套替换图。其它角色、默认 assetRef 和吉尔·德·雷-FZ 的独立引用保持不变。
+
+- 赫拉克勒斯：直接使用 Atlas CN 图鉴 FGO 第一灵基原生立绘与五张原生脸片，六情绪槽位对应 faceId 1、2、3、5、0、4（0为基础脸）。喜／哀／乐／迷惑为接近神态的映射；乐为龇齿，不能描述为官方欢笑差分。没有生成或重绘这组图。
+- 吉尔伽美什：逐张重制六表情，加强傲慢、睥睨和嘲弄愉悦，保留原 FSN 下垂金发与黑外套白衬衣。
+- 言峰绮礼：逐张重制六表情，阴沉、克制、老谋深算，去除明亮眼睛高光。
+- 美杜莎：新增“未获得基础信任·眼罩”平静单态。原六张 PNG、原普通条带及其链接保持不变；新增 untrusted.png 和两个六格重复同图的专用 WebP，只计一个额外状态。
+
+四项均完成代理主审和独立复审，仍待用户复验，不登记为用户通过。美杜莎状态兼容 data-face=untrusted、尚未获得信任、未获得基础信任、尚未建立基础信任，角色键仍是完整中文“美杜莎-FSN”。本轮只修改四个角色条目和对应 CSS 图床映射，不修改输出模板、world_book 或其它角色。
