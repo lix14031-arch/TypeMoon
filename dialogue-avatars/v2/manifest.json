@@ -1,10 +1,11 @@
 {
   "version": "3.0.0-phase-accepted",
   "title": "V3-阶段验收",
-  "scope": "原有33套保持原字节；FZ含用户明确验收6套、用户委托复审通过28套，委托复审项待最终总览验收；不是FZ全量完成版",
+  "scope": "原有33套保持原字节；FZ含用户明确验收6套、用户委托复审通过27套、用户要求重制待验收1套，委托复审项待最终总览验收；不是FZ全量完成版",
   "acceptanceCounts": {
     "explicitUser": 6,
-    "delegatedReview": 28
+    "delegatedReview": 27,
+    "redrawnAwaitingUserReview": 1
   },
   "baseline": "20261020-022028",
   "repository": "lix14031-arch/TypeMoon",
@@ -3805,16 +3806,28 @@
       "key": "吉尔·德·雷-FZ",
       "name": "吉尔·德·雷",
       "work": "FZ",
-      "kind": "user-delegated-reviewed-anime-reference",
+      "kind": "single-image-redraw-anime-fgo-reference",
       "sourceWork": "FZ",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%C2%B7%E5%BE%B7%C2%B7%E9%9B%B7-FZ/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%C2%B7%E5%BE%B7%C2%B7%E9%9B%B7-FZ/portraits.webp",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/be9b5a31a23d79ad14dc57c8333f295d30f848e7/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%C2%B7%E5%BE%B7%C2%B7%E9%9B%B7-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/be9b5a31a23d79ad14dc57c8333f295d30f848e7/dialogue-avatars/v2/characters/%E5%90%89%E5%B0%94%C2%B7%E5%BE%B7%C2%B7%E9%9B%B7-FZ/portraits.webp",
       "acceptance": {
-        "status": "accepted-under-user-delegated-review",
+        "status": "redrawn-awaiting-user-review",
         "date": "2026-10-21",
-        "sourceSheetSHA256": "395ee600ea997524be6cb9568b1eebcb85a794d118b65ba5be401d99b58fe733",
+        "requestedByUser": true,
+        "generationMethod": "six-separate-images",
+        "revisionReason": "用户要求删除旧图重制；逐张生成、放大上半身、突出巨大眼睛及更癫狂夸张的六种表情。",
         "finalUserOverviewPending": true,
-        "rootAndIndependentReviewPassed": true
+        "rootAndIndependentReviewPassed": true,
+        "sourceImagesSHA256": {
+          "happy": "3963b80ad0206a5bb9b1f9d5c808f1b61ba8289512e657efb23b6fda065c1701",
+          "angry": "0f0fdc8f059d2672ad49bbc5c1e1a26b84febd2f253ba6dceee6158dd28030de",
+          "sad": "1f03e37d81af083d350bd019bd32b290cf373cbe803bc688f11760113a1ee2d9",
+          "laugh": "5a81f44a10f65d55d2e2804f389dcb2f55a65ad497240e3304767927bc98f3e9",
+          "neutral": "b0d4b0f92457d8b27ca08ff4d07e4f2429140225ff40b660314716dfa573e4b2",
+          "confused": "5c34bd8bf4148012547eef63966f2d0c495cefa776648cdf2910f074ba3952c3"
+        },
+        "sourceImagesHashScope": "published-512x512-transparent-pngs",
+        "replacesImageRef": "0e28a7f27af7706acaeda4875ecc94895ca1be1e"
       },
       "expressions": [
         {
@@ -3857,53 +3870,54 @@
       "files": [
         {
           "path": "dialogue-avatars/v2/characters/吉尔·德·雷-FZ/avatars.webp",
-          "sha256": "6441e5f817b68d18126b8647c31efc0718168026b81a01fafb63888737768a29",
+          "sha256": "ea75890182f688b9c9f621fa071ea5289d2755a94383c59364a89c9bd5248102",
           "width": 768,
           "height": 128
         },
         {
           "path": "dialogue-avatars/v2/characters/吉尔·德·雷-FZ/portraits.webp",
-          "sha256": "f8ffe1a4d4e8795d2f4c51638da1f4758de771a2f3e62467120c09398e4d18d5",
+          "sha256": "e55eae964e55c0e98931f6ff414a5b3c3e466a5aabe3e85762ef189ebf5de5c2",
           "width": 3072,
           "height": 384
         },
         {
           "path": "dialogue-avatars/v2/characters/吉尔·德·雷-FZ/happy.png",
-          "sha256": "8e5bd6b6b423919f09f1da68bab1dac76e6e03e407296af85cf43fdb485e3ce9",
+          "sha256": "3963b80ad0206a5bb9b1f9d5c808f1b61ba8289512e657efb23b6fda065c1701",
           "width": 512,
           "height": 512
         },
         {
           "path": "dialogue-avatars/v2/characters/吉尔·德·雷-FZ/angry.png",
-          "sha256": "65da1bda403857ca64e1ba11e0bb83fbbcffd6e54aca209b5d82877b2f392afb",
+          "sha256": "0f0fdc8f059d2672ad49bbc5c1e1a26b84febd2f253ba6dceee6158dd28030de",
           "width": 512,
           "height": 512
         },
         {
           "path": "dialogue-avatars/v2/characters/吉尔·德·雷-FZ/sad.png",
-          "sha256": "f451961629c13193ee75fff253d8a4362e5538fcb028c807f55d86f67a581463",
+          "sha256": "1f03e37d81af083d350bd019bd32b290cf373cbe803bc688f11760113a1ee2d9",
           "width": 512,
           "height": 512
         },
         {
           "path": "dialogue-avatars/v2/characters/吉尔·德·雷-FZ/laugh.png",
-          "sha256": "a356b473ec74b4fb1ddb8b1e885d90988b4c1520b9804c9a2f79ccb0e2fea134",
+          "sha256": "5a81f44a10f65d55d2e2804f389dcb2f55a65ad497240e3304767927bc98f3e9",
           "width": 512,
           "height": 512
         },
         {
           "path": "dialogue-avatars/v2/characters/吉尔·德·雷-FZ/neutral.png",
-          "sha256": "de86f685d5ececbae5c34b5eabcf89565203c0c3966f986765a2d87f540af040",
+          "sha256": "b0d4b0f92457d8b27ca08ff4d07e4f2429140225ff40b660314716dfa573e4b2",
           "width": 512,
           "height": 512
         },
         {
           "path": "dialogue-avatars/v2/characters/吉尔·德·雷-FZ/confused.png",
-          "sha256": "5cf8736be0eeceec774e2c7f908427a9c28f58e90d04dd72f99f7837da887b73",
+          "sha256": "5c34bd8bf4148012547eef63966f2d0c495cefa776648cdf2910f074ba3952c3",
           "width": 512,
           "height": 512
         }
-      ]
+      ],
+      "assetRef": "be9b5a31a23d79ad14dc57c8333f295d30f848e7"
     },
     {
       "key": "肯尼斯·埃尔梅罗·阿奇博尔德-FZ",

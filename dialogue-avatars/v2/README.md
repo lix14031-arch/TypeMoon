@@ -2,7 +2,7 @@
 
 本次发布原有 33 套保留素材和 34 套 Fate/Zero 角色，不代表 Fate/Zero 或 Fate/stay night 全部完成。
 
-FZ 中用户明确验收 6 套；另有 28 套按用户委托完成主审及独立复审，最终由用户总览验收。两类状态分别记录，不将委托复审写成用户逐套明确验收。
+FZ 中用户明确验收 6 套；另有 27 套按用户委托完成主审及独立复审，最终由用户总览验收。吉尔·德·雷-FZ 已按用户要求逐张重制六种表情，单独列为待用户验收。各类状态分别记录，不将委托复审或重制结果写成用户逐套明确验收。
 
 完整作品 JSON、正文设定和输出提示词仅保留在本地，不在此仓库发布。V2已冻结；后续已审角色的映射写入本地V3。既有图片目录保持稳定。
 
@@ -15,7 +15,7 @@ FZ 中用户明确验收 6 套；另有 28 套按用户委托完成主审及独�
 - 单态登记只提供 untrusted，不表示六个常规表情已经制作；获得基础信任或使用常规表情时 data-portrait 留空。
 - 莫德雷德-FGO：FGO Fandom Wiki sprite gallery; actual downloaded source（https://fategrandorder.fandom.com/wiki/Sub:Mordred/Gallery）；https://static.wikia.nocookie.net/fategrandorder/images/7/76/S076_Sheet_Stage1.webp/revision/latest；Mooncell identity and Stage1 appearance cross-check only; not source of this downloaded sprite（https://fgo.wiki/w/莫德雷德）
 
-图片链接引用 0e28a7f27af7706acaeda4875ecc94895ca1be1e。
+默认图片链接引用 0e28a7f27af7706acaeda4875ecc94895ca1be1e。仅吉尔·德·雷-FZ 的六张 PNG 与两个派生 WebP 已替换，独立引用 be9b5a31a23d79ad14dc57c8333f295d30f848e7；manifest 中该角色的 assetRef 和图片 URL 以此为准。其他角色素材及图片链接不变。六张新表情逐张生成，仍待用户验收。
 
 |副本|角色登记键|验收状态|
 |---|---|---|
@@ -70,7 +70,7 @@ FZ 中用户明确验收 6 套；另有 28 套按用户委托完成主审及独�
 |FZ|远坂凛-FZ|用户委托复审通过，待总览验收|
 |FZ|韦伯·维尔维特-FZ|用户委托复审通过，待总览验收|
 |FZ|雨生龙之介-FZ|用户委托复审通过，待总览验收|
-|FZ|吉尔·德·雷-FZ|用户委托复审通过，待总览验收|
+|FZ|吉尔·德·雷-FZ|按用户要求逐张重制，待用户验收|
 |FZ|肯尼斯·埃尔梅罗·阿奇博尔德-FZ|用户委托复审通过，待总览验收|
 |FZ|迪尔姆德·奥迪那-FZ|用户委托复审通过，待总览验收|
 |FZ|言峰绮礼-FZ|用户委托复审通过，待总览验收|
