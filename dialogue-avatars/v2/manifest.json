@@ -1,13 +1,13 @@
 {
   "version": "3.0.0-phase-accepted",
   "title": "V3-阶段验收",
-  "scope": "原有33套保持原字节；FZ含用户明确验收6套、用户委托复审通过27套、用户要求重制待验收1套，委托复审项待最终总览验收；不是FZ全量完成版；FSN本阶段结束：32组登记（30组独立素材、2组复用FZ），待用户总验收；研究名录另13人暂缓，不自动继续制作，非FSN全量覆盖版",
+  "scope": "原有33套保持原字节；FZ含用户明确验收6套、用户委托复审通过27套、用户要求重制待验收1套，委托复审项待最终总览验收；不是FZ全量完成版；FSN本阶段结束：32组登记（29组独立素材、3组复用FZ），待用户总验收；研究名录另13人暂缓，不自动继续制作，非FSN全量覆盖版",
   "acceptanceCounts": {
     "explicitUser": 6,
     "delegatedReview": 27,
     "redrawnAwaitingUserReview": 1,
-    "selfReviewedAwaitingUser": 30,
-    "reuseApprovedAwaitingUser": 2
+    "selfReviewedAwaitingUser": 29,
+    "reuseApprovedAwaitingUser": 3
   },
   "baseline": "20261020-022028",
   "repository": "lix14031-arch/TypeMoon",
@@ -20,8 +20,8 @@
   "ordinaryExpressionCount": 594,
   "additionalStateCount": 3,
   "expressionCount": 597,
-  "imageFileCount": 587,
-  "newImageFileCount": 521,
+  "imageFileCount": 579,
+  "newImageFileCount": 513,
   "legacyImageFileCount": 66,
   "workCounts": {
     "FGO": 10,
@@ -8381,134 +8381,127 @@
       "key": "间桐脏砚-FSN",
       "name": "间桐脏砚",
       "work": "FSN",
-      "kind": "six-separate-generated-anime-reference",
-      "sourceWork": "FSN",
-      "appearance": "HF 老年脏砚，光头深额纹、消瘦方长脸、凹陷眼窝；橄榄色和服、白色内领、深色羽织。",
-      "assetRef": "d3040a82bbd8372f023be19839573bb1319da82a",
-      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FSN/avatars.webp",
-      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FSN/portraits.webp",
+      "kind": "reuse-existing-fz-assets",
+      "sourceWork": "FZ",
+      "reusedFrom": "间桐脏砚-FZ",
+      "assetFolderKey": "间桐脏砚-FZ",
+      "assetRef": "0e28a7f27af7706acaeda4875ecc94895ca1be1e",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FZ/portraits.webp",
+      "appearance": "按用户要求复用已验收的FZ间桐脏砚；FSN不另存一套图片。",
+      "reuseApprovedByUser": true,
       "acceptance": {
-        "status": "self-reviewed-awaiting-user",
+        "status": "reused-source-awaiting-fsn-user-overview",
         "date": "2026-10-21",
-        "finalUserOverviewPending": true,
         "userAccepted": false,
-        "rootAndIndependentReviewPassed": true,
-        "generationMethod": "six-separate-imagegen-calls",
-        "assetSetSHA256": "9386c8a2986a08658a1981bb2a70e4ed610d07ac163a1541aeefa533a4f5d626",
-        "sourceImagesSHA256": {
-          "happy": "deac378bc8152d2c7352a707a826ecbd99289ac9982a5cf1a6d9eaf7267ab819",
-          "angry": "ec68410e28e992988ba4e3e36bf05cef7a66825709ea7c68ef9723cc3911d021",
-          "sad": "c7a12f35f5f1eb0c53970c44ddce8d7201ac65058214a817034e90de9951e28f",
-          "laugh": "48aad711f6660a35c2d046e45d6ea705560d1fb25604d21080ed7a80fc05a6b3",
-          "neutral": "c1a050dc6f70a27f84f7ab4707131faa09f967f499ceab35b47dc2571e44ef47",
-          "confused": "52081867d68fb25b189148b6a569ba0bde5fbf54754e5a43ae576882dfd0f5b3"
+        "finalUserOverviewPending": true,
+        "reuseApprovedByUser": true,
+        "sourceAcceptance": {
+          "status": "explicitly-accepted-by-user",
+          "date": "2026-10-20",
+          "sourceSheetSHA256": "491615f2b402d914a8ef0fc47a759e9153d8875cdca2f4cf467299bbf2fa7298"
         },
-        "sourceImagesHashScope": "published-512x512-transparent-pngs"
+        "note": "用户要求FSN沿用FZ素材并移除FSN独立图片；保留源素材明确验收记录，不增加用户明确验收套数。"
       },
-      "provenance": [
-        "https://www.fate-sn.com/assets/img/2nd/chara/zouken.jpg",
-        "https://www.fatestaynightusa.com/assets_hf3/img/chara/zouken.jpg"
-      ],
+      "provenance": {
+        "reuseMode": "immutable-url-alias-no-copy",
+        "sourceKey": "间桐脏砚-FZ",
+        "sourceWork": "FZ",
+        "originalProvenance": null
+      },
       "expressions": [
         {
           "name": "happy",
           "frame": 0,
           "position": "0%",
-          "file": "characters/间桐脏砚-FSN/happy.png",
-          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FSN/happy.png"
+          "file": "characters/间桐脏砚-FZ/happy.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FZ/happy.png"
         },
         {
           "name": "angry",
           "frame": 1,
           "position": "20%",
-          "file": "characters/间桐脏砚-FSN/angry.png",
-          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FSN/angry.png"
+          "file": "characters/间桐脏砚-FZ/angry.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FZ/angry.png"
         },
         {
           "name": "sad",
           "frame": 2,
           "position": "40%",
-          "file": "characters/间桐脏砚-FSN/sad.png",
-          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FSN/sad.png"
+          "file": "characters/间桐脏砚-FZ/sad.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FZ/sad.png"
         },
         {
           "name": "laugh",
           "frame": 3,
           "position": "60%",
-          "file": "characters/间桐脏砚-FSN/laugh.png",
-          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FSN/laugh.png"
+          "file": "characters/间桐脏砚-FZ/laugh.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FZ/laugh.png"
         },
         {
           "name": "neutral",
           "frame": 4,
           "position": "80%",
-          "file": "characters/间桐脏砚-FSN/neutral.png",
-          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FSN/neutral.png"
+          "file": "characters/间桐脏砚-FZ/neutral.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FZ/neutral.png"
         },
         {
           "name": "confused",
           "frame": 5,
           "position": "100%",
-          "file": "characters/间桐脏砚-FSN/confused.png",
-          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FSN/confused.png"
+          "file": "characters/间桐脏砚-FZ/confused.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FZ/confused.png"
         }
       ],
-      "files": [
+      "files": [],
+      "sourceFiles": [
         {
-          "path": "dialogue-avatars/v2/characters/间桐脏砚-FSN/happy.png",
-          "sha256": "deac378bc8152d2c7352a707a826ecbd99289ac9982a5cf1a6d9eaf7267ab819",
-          "width": 512,
-          "height": 512,
-          "bytes": 242687
-        },
-        {
-          "path": "dialogue-avatars/v2/characters/间桐脏砚-FSN/angry.png",
-          "sha256": "ec68410e28e992988ba4e3e36bf05cef7a66825709ea7c68ef9723cc3911d021",
-          "width": 512,
-          "height": 512,
-          "bytes": 246356
-        },
-        {
-          "path": "dialogue-avatars/v2/characters/间桐脏砚-FSN/sad.png",
-          "sha256": "c7a12f35f5f1eb0c53970c44ddce8d7201ac65058214a817034e90de9951e28f",
-          "width": 512,
-          "height": 512,
-          "bytes": 241485
-        },
-        {
-          "path": "dialogue-avatars/v2/characters/间桐脏砚-FSN/laugh.png",
-          "sha256": "48aad711f6660a35c2d046e45d6ea705560d1fb25604d21080ed7a80fc05a6b3",
-          "width": 512,
-          "height": 512,
-          "bytes": 249980
-        },
-        {
-          "path": "dialogue-avatars/v2/characters/间桐脏砚-FSN/neutral.png",
-          "sha256": "c1a050dc6f70a27f84f7ab4707131faa09f967f499ceab35b47dc2571e44ef47",
-          "width": 512,
-          "height": 512,
-          "bytes": 240757
-        },
-        {
-          "path": "dialogue-avatars/v2/characters/间桐脏砚-FSN/confused.png",
-          "sha256": "52081867d68fb25b189148b6a569ba0bde5fbf54754e5a43ae576882dfd0f5b3",
-          "width": 512,
-          "height": 512,
-          "bytes": 243295
-        },
-        {
-          "path": "dialogue-avatars/v2/characters/间桐脏砚-FSN/avatars.webp",
-          "sha256": "2520d949b412a54e33671c53db8a3e6049e8257294e5d25a2d81b5c00a426393",
+          "path": "dialogue-avatars/v2/characters/间桐脏砚-FZ/avatars.webp",
+          "sha256": "f70f0ca21447a70289945d095adc814df71434e8b856eec222302b123c0be55f",
           "width": 768,
-          "height": 128,
-          "bytes": 90860
+          "height": 128
         },
         {
-          "path": "dialogue-avatars/v2/characters/间桐脏砚-FSN/portraits.webp",
-          "sha256": "fbe20b276b741b7ca65d2340934f1fe3d95cb976135bfe33e344ba3046f356c7",
+          "path": "dialogue-avatars/v2/characters/间桐脏砚-FZ/portraits.webp",
+          "sha256": "7d9052e9c48b747a82810b0b662bc14711d93a705848e34546feb2c423b24782",
           "width": 3072,
-          "height": 384,
-          "bytes": 555548
+          "height": 384
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐脏砚-FZ/happy.png",
+          "sha256": "63fee3588383aa4bff1692be085175d9e30114648da48d51d26f64dc350076fa",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐脏砚-FZ/angry.png",
+          "sha256": "f27aec613cedb8746f7a51d282b6a8cd3785485fec43221e73472e04ddbbaf85",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐脏砚-FZ/sad.png",
+          "sha256": "14caa534eb0c259b459c972bd2e730b19b94cdef7892274e3afc1802f57294a7",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐脏砚-FZ/laugh.png",
+          "sha256": "cfe0a9a928b865bb7863d8817d070dbe829129c182d99540a5872fc8f64539d2",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐脏砚-FZ/neutral.png",
+          "sha256": "e08a7e93e7908d85847ca08d40dcc2cc2da1a9626bf842e6e43a08e963898670",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐脏砚-FZ/confused.png",
+          "sha256": "5ea7b248c43195e84ac00b117df3fa7c4f6a86ffe3e6860d0f627c0096340a70",
+          "width": 512,
+          "height": 512
         }
       ]
     },
@@ -10082,12 +10075,12 @@
         "梅林-FSN",
         "藤村雷画-FSN"
       ],
-      "uniqueSets": 30,
-      "reusedSets": 2,
+      "uniqueSets": 29,
+      "reusedSets": 3,
       "registeredSets": 32,
       "ordinaryExpressionSlots": 192,
-      "uniqueOrdinaryExpressionAssets": 180,
-      "reusedExpressionSlots": 12,
+      "uniqueOrdinaryExpressionAssets": 174,
+      "reusedExpressionSlots": 18,
       "additionalStateCount": 1,
       "finalUserOverviewPending": true,
       "userAccepted": false,
@@ -10104,8 +10097,26 @@
           "key": "远坂时臣-FSN",
           "reusedFrom": "远坂时臣-FZ",
           "reuseApprovedByUser": true
+        },
+        {
+          "key": "间桐脏砚-FSN",
+          "reusedFrom": "间桐脏砚-FZ",
+          "reuseApprovedByUser": true
         }
       ]
     }
-  }
+  },
+  "portraitAliases": {
+    "阿尔托莉雅-FSN": "阿尔托莉雅·潘德拉贡-FSN",
+    "英灵卫宫-FSN": "卫宫（弓兵）-FSN",
+    "卫宫（Archer）-FSN": "卫宫（弓兵）-FSN",
+    "伊莉雅-FSN": "伊莉雅丝菲尔·冯·爱因兹贝伦-FSN",
+    "伊莉雅斯菲尔-FSN": "伊莉雅丝菲尔·冯·爱因兹贝伦-FSN",
+    "伊莉雅斯菲尔·冯·爱因兹贝伦-FSN": "伊莉雅丝菲尔·冯·爱因兹贝伦-FSN",
+    "莉兹-FSN": "莉洁莉特-FSN",
+    "哈桑·萨巴赫-FSN": "咒腕哈桑-FSN",
+    "哈桑·萨巴赫（咒腕）-FSN": "咒腕哈桑-FSN"
+  },
+  "aliasPolicy": "显式data-portrait别名仅复用指定角色与作品的现有资源；不使用data-speaker兜底，不增加图片或角色计数。哈桑·萨巴赫-FSN仅指已确认身份的FSN咒腕哈桑。"
 }
+
