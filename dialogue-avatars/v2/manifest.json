@@ -1,32 +1,33 @@
 {
   "version": "3.0.0-phase-accepted",
   "title": "V3-阶段验收",
-  "scope": "原有33套保持原字节；FZ含用户明确验收6套、用户委托复审通过27套、用户要求重制待验收1套，委托复审项待最终总览验收；不是FZ全量完成版；FSN已登记19套，自审完成待用户验收，非FSN全量完成版",
+  "scope": "原有33套保持原字节；FZ含用户明确验收6套、用户委托复审通过27套、用户要求重制待验收1套，委托复审项待最终总览验收；不是FZ全量完成版；FSN本阶段结束：32组登记（30组独立素材、2组复用FZ），待用户总验收；研究名录另13人暂缓，不自动继续制作，非FSN全量覆盖版",
   "acceptanceCounts": {
     "explicitUser": 6,
     "delegatedReview": 27,
     "redrawnAwaitingUserReview": 1,
-    "selfReviewedAwaitingUser": 19
+    "selfReviewedAwaitingUser": 30,
+    "reuseApprovedAwaitingUser": 2
   },
   "baseline": "20261020-022028",
   "repository": "lix14031-arch/TypeMoon",
   "assetRef": "0e28a7f27af7706acaeda4875ecc94895ca1be1e",
   "pinned": true,
   "status": "local-build-pinned-to-image-commit",
-  "characterCount": 86,
+  "characterCount": 99,
   "stateOnlyCharacterCount": 1,
-  "totalRegisteredCharacterCount": 87,
-  "ordinaryExpressionCount": 516,
+  "totalRegisteredCharacterCount": 100,
+  "ordinaryExpressionCount": 594,
   "additionalStateCount": 3,
-  "expressionCount": 519,
-  "imageFileCount": 499,
-  "newImageFileCount": 433,
+  "expressionCount": 597,
+  "imageFileCount": 587,
+  "newImageFileCount": 521,
   "legacyImageFileCount": 66,
   "workCounts": {
     "FGO": 10,
     "TSUKI-R": 23,
     "FZ": 34,
-    "FSN": 19
+    "FSN": 32
   },
   "stateOnlyWorkCounts": {
     "FGO": 1
@@ -8240,6 +8241,1871 @@
           "bytes": 429456
         }
       ]
+    },
+    {
+      "key": "咒腕哈桑-FSN",
+      "name": "咒腕哈桑",
+      "work": "FSN",
+      "kind": "six-separate-generated-anime-reference",
+      "sourceWork": "FSN",
+      "appearance": "HF 白骨硬面具、黑色兜帽斗篷；六情绪通过头部姿态变化表达，不编造面具下人脸。",
+      "assetRef": "d3040a82bbd8372f023be19839573bb1319da82a",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%92%92%E8%85%95%E5%93%88%E6%A1%91-FSN/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%92%92%E8%85%95%E5%93%88%E6%A1%91-FSN/portraits.webp",
+      "acceptance": {
+        "status": "self-reviewed-awaiting-user",
+        "date": "2026-10-21",
+        "finalUserOverviewPending": true,
+        "userAccepted": false,
+        "rootAndIndependentReviewPassed": true,
+        "generationMethod": "six-separate-imagegen-calls",
+        "assetSetSHA256": "3cbf74d363612f36f21f5e68089f9c6b48d4a53ec809da59a63a3e8497e03ea9",
+        "sourceImagesSHA256": {
+          "happy": "609738fa240557abc3a0de0a10c9940db8fa020e0cb0977041c6170e073a2079",
+          "angry": "31119d7427105000e0580993b656ca5b598f2634527dc193022ad4e1767ebe22",
+          "sad": "e965f561869cf67137374c864fc886a901a454b2e78a072fb0ac95286dce40ae",
+          "laugh": "d99975b76a82def7ddc015e2451f4f60ff8c63e2a032ecf23280b9668d8ffe94",
+          "neutral": "3bb10d2cbec10c1a3569b76edc46f55aa05aa39a8f50e5965712934c77cd3f6b",
+          "confused": "0497e52d6512f2d844296693cd8175f258de846bb36c9013e8c1193d0596213e"
+        },
+        "sourceImagesHashScope": "published-512x512-transparent-pngs"
+      },
+      "provenance": [
+        "https://www.fatestaynightusa.com/assets_hf3/img/chara/assassin.jpg",
+        "https://www.fate-sn.com/assets/img/2nd/chara/assassin.jpg"
+      ],
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%",
+          "file": "characters/咒腕哈桑-FSN/happy.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%92%92%E8%85%95%E5%93%88%E6%A1%91-FSN/happy.png"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%",
+          "file": "characters/咒腕哈桑-FSN/angry.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%92%92%E8%85%95%E5%93%88%E6%A1%91-FSN/angry.png"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%",
+          "file": "characters/咒腕哈桑-FSN/sad.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%92%92%E8%85%95%E5%93%88%E6%A1%91-FSN/sad.png"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%",
+          "file": "characters/咒腕哈桑-FSN/laugh.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%92%92%E8%85%95%E5%93%88%E6%A1%91-FSN/laugh.png"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%",
+          "file": "characters/咒腕哈桑-FSN/neutral.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%92%92%E8%85%95%E5%93%88%E6%A1%91-FSN/neutral.png"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%",
+          "file": "characters/咒腕哈桑-FSN/confused.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%92%92%E8%85%95%E5%93%88%E6%A1%91-FSN/confused.png"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/咒腕哈桑-FSN/happy.png",
+          "sha256": "609738fa240557abc3a0de0a10c9940db8fa020e0cb0977041c6170e073a2079",
+          "width": 512,
+          "height": 512,
+          "bytes": 235941
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/咒腕哈桑-FSN/angry.png",
+          "sha256": "31119d7427105000e0580993b656ca5b598f2634527dc193022ad4e1767ebe22",
+          "width": 512,
+          "height": 512,
+          "bytes": 222975
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/咒腕哈桑-FSN/sad.png",
+          "sha256": "e965f561869cf67137374c864fc886a901a454b2e78a072fb0ac95286dce40ae",
+          "width": 512,
+          "height": 512,
+          "bytes": 221167
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/咒腕哈桑-FSN/laugh.png",
+          "sha256": "d99975b76a82def7ddc015e2451f4f60ff8c63e2a032ecf23280b9668d8ffe94",
+          "width": 512,
+          "height": 512,
+          "bytes": 231851
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/咒腕哈桑-FSN/neutral.png",
+          "sha256": "3bb10d2cbec10c1a3569b76edc46f55aa05aa39a8f50e5965712934c77cd3f6b",
+          "width": 512,
+          "height": 512,
+          "bytes": 234004
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/咒腕哈桑-FSN/confused.png",
+          "sha256": "0497e52d6512f2d844296693cd8175f258de846bb36c9013e8c1193d0596213e",
+          "width": 512,
+          "height": 512,
+          "bytes": 229530
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/咒腕哈桑-FSN/avatars.webp",
+          "sha256": "f46c9b4f6f7e64b66c2d6d47c4a3167cf973b17506e867e09ea7c9dbd9654540",
+          "width": 768,
+          "height": 128,
+          "bytes": 104598
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/咒腕哈桑-FSN/portraits.webp",
+          "sha256": "8ca2f9a520bc7a10e85a5c80bf24ff8c55cf2eccdac0f30c78991f5792d476b4",
+          "width": 3072,
+          "height": 384,
+          "bytes": 586012
+        }
+      ]
+    },
+    {
+      "key": "间桐脏砚-FSN",
+      "name": "间桐脏砚",
+      "work": "FSN",
+      "kind": "six-separate-generated-anime-reference",
+      "sourceWork": "FSN",
+      "appearance": "HF 老年脏砚，光头深额纹、消瘦方长脸、凹陷眼窝；橄榄色和服、白色内领、深色羽织。",
+      "assetRef": "d3040a82bbd8372f023be19839573bb1319da82a",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FSN/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FSN/portraits.webp",
+      "acceptance": {
+        "status": "self-reviewed-awaiting-user",
+        "date": "2026-10-21",
+        "finalUserOverviewPending": true,
+        "userAccepted": false,
+        "rootAndIndependentReviewPassed": true,
+        "generationMethod": "six-separate-imagegen-calls",
+        "assetSetSHA256": "9386c8a2986a08658a1981bb2a70e4ed610d07ac163a1541aeefa533a4f5d626",
+        "sourceImagesSHA256": {
+          "happy": "deac378bc8152d2c7352a707a826ecbd99289ac9982a5cf1a6d9eaf7267ab819",
+          "angry": "ec68410e28e992988ba4e3e36bf05cef7a66825709ea7c68ef9723cc3911d021",
+          "sad": "c7a12f35f5f1eb0c53970c44ddce8d7201ac65058214a817034e90de9951e28f",
+          "laugh": "48aad711f6660a35c2d046e45d6ea705560d1fb25604d21080ed7a80fc05a6b3",
+          "neutral": "c1a050dc6f70a27f84f7ab4707131faa09f967f499ceab35b47dc2571e44ef47",
+          "confused": "52081867d68fb25b189148b6a569ba0bde5fbf54754e5a43ae576882dfd0f5b3"
+        },
+        "sourceImagesHashScope": "published-512x512-transparent-pngs"
+      },
+      "provenance": [
+        "https://www.fate-sn.com/assets/img/2nd/chara/zouken.jpg",
+        "https://www.fatestaynightusa.com/assets_hf3/img/chara/zouken.jpg"
+      ],
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%",
+          "file": "characters/间桐脏砚-FSN/happy.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FSN/happy.png"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%",
+          "file": "characters/间桐脏砚-FSN/angry.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FSN/angry.png"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%",
+          "file": "characters/间桐脏砚-FSN/sad.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FSN/sad.png"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%",
+          "file": "characters/间桐脏砚-FSN/laugh.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FSN/laugh.png"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%",
+          "file": "characters/间桐脏砚-FSN/neutral.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FSN/neutral.png"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%",
+          "file": "characters/间桐脏砚-FSN/confused.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%97%B4%E6%A1%90%E8%84%8F%E7%A0%9A-FSN/confused.png"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/间桐脏砚-FSN/happy.png",
+          "sha256": "deac378bc8152d2c7352a707a826ecbd99289ac9982a5cf1a6d9eaf7267ab819",
+          "width": 512,
+          "height": 512,
+          "bytes": 242687
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐脏砚-FSN/angry.png",
+          "sha256": "ec68410e28e992988ba4e3e36bf05cef7a66825709ea7c68ef9723cc3911d021",
+          "width": 512,
+          "height": 512,
+          "bytes": 246356
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐脏砚-FSN/sad.png",
+          "sha256": "c7a12f35f5f1eb0c53970c44ddce8d7201ac65058214a817034e90de9951e28f",
+          "width": 512,
+          "height": 512,
+          "bytes": 241485
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐脏砚-FSN/laugh.png",
+          "sha256": "48aad711f6660a35c2d046e45d6ea705560d1fb25604d21080ed7a80fc05a6b3",
+          "width": 512,
+          "height": 512,
+          "bytes": 249980
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐脏砚-FSN/neutral.png",
+          "sha256": "c1a050dc6f70a27f84f7ab4707131faa09f967f499ceab35b47dc2571e44ef47",
+          "width": 512,
+          "height": 512,
+          "bytes": 240757
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐脏砚-FSN/confused.png",
+          "sha256": "52081867d68fb25b189148b6a569ba0bde5fbf54754e5a43ae576882dfd0f5b3",
+          "width": 512,
+          "height": 512,
+          "bytes": 243295
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐脏砚-FSN/avatars.webp",
+          "sha256": "2520d949b412a54e33671c53db8a3e6049e8257294e5d25a2d81b5c00a426393",
+          "width": 768,
+          "height": 128,
+          "bytes": 90860
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/间桐脏砚-FSN/portraits.webp",
+          "sha256": "fbe20b276b741b7ca65d2340934f1fe3d95cb976135bfe33e344ba3046f356c7",
+          "width": 3072,
+          "height": 384,
+          "bytes": 555548
+        }
+      ]
+    },
+    {
+      "key": "莉洁莉特-FSN",
+      "name": "莉洁莉特",
+      "work": "FSN",
+      "kind": "six-separate-generated-anime-reference",
+      "sourceWork": "FSN",
+      "appearance": "现代UBW/HF莉洁莉特，黑胸襟黑头带、白女仆帽、银白侧卷发红眼；固定六表情同构图。",
+      "assetRef": "d3040a82bbd8372f023be19839573bb1319da82a",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E8%8E%89%E6%B4%81%E8%8E%89%E7%89%B9-FSN/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E8%8E%89%E6%B4%81%E8%8E%89%E7%89%B9-FSN/portraits.webp",
+      "acceptance": {
+        "status": "self-reviewed-awaiting-user",
+        "date": "2026-10-21",
+        "finalUserOverviewPending": true,
+        "userAccepted": false,
+        "rootAndIndependentReviewPassed": true,
+        "generationMethod": "six-separate-imagegen-calls",
+        "assetSetSHA256": "230bfbeedd54208eb18436ad8e90d26ab9672ff889cf2b62857eeba179163e17",
+        "sourceImagesSHA256": {
+          "happy": "04a3ac567bd2d026fbad52aa310f6bbd8be34dca3a90e235021d8e28187f99f2",
+          "angry": "ed441da09d47e3455927e18e96f8aadf361ea476a0f6fb926a603300c042f754",
+          "sad": "ee44db09cbd65e97b957c29afff9d337b8cf6a416abb73724d275ada85ea5682",
+          "laugh": "3eb3e0e2d6e203dce3f1d6781b050974e71eeb3fd4bcb02e4a3cae4ab176ce46",
+          "neutral": "984008db8ec1872f5bf3d15827c7bb6779fe97c08eb23bada6d53e1e9b758b0e",
+          "confused": "8254dce575ed82b47f97e1630b89a78484269f3b7d7011c46e245fae8492df8f"
+        },
+        "sourceImagesHashScope": "published-512x512-transparent-pngs"
+      },
+      "provenance": [
+        "C:/FY/型月美化/avatar-fsn-20261021/references/maids-ubw-screenshot-rehost.jpg",
+        "C:/FY/型月美化/avatar-fsn-20261021/references/maids-ubw-official-art-rehost.jpg"
+      ],
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%",
+          "file": "characters/莉洁莉特-FSN/happy.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E8%8E%89%E6%B4%81%E8%8E%89%E7%89%B9-FSN/happy.png"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%",
+          "file": "characters/莉洁莉特-FSN/angry.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E8%8E%89%E6%B4%81%E8%8E%89%E7%89%B9-FSN/angry.png"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%",
+          "file": "characters/莉洁莉特-FSN/sad.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E8%8E%89%E6%B4%81%E8%8E%89%E7%89%B9-FSN/sad.png"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%",
+          "file": "characters/莉洁莉特-FSN/laugh.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E8%8E%89%E6%B4%81%E8%8E%89%E7%89%B9-FSN/laugh.png"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%",
+          "file": "characters/莉洁莉特-FSN/neutral.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E8%8E%89%E6%B4%81%E8%8E%89%E7%89%B9-FSN/neutral.png"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%",
+          "file": "characters/莉洁莉特-FSN/confused.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E8%8E%89%E6%B4%81%E8%8E%89%E7%89%B9-FSN/confused.png"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/莉洁莉特-FSN/happy.png",
+          "sha256": "04a3ac567bd2d026fbad52aa310f6bbd8be34dca3a90e235021d8e28187f99f2",
+          "width": 512,
+          "height": 512,
+          "bytes": 176871
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/莉洁莉特-FSN/angry.png",
+          "sha256": "ed441da09d47e3455927e18e96f8aadf361ea476a0f6fb926a603300c042f754",
+          "width": 512,
+          "height": 512,
+          "bytes": 179635
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/莉洁莉特-FSN/sad.png",
+          "sha256": "ee44db09cbd65e97b957c29afff9d337b8cf6a416abb73724d275ada85ea5682",
+          "width": 512,
+          "height": 512,
+          "bytes": 181482
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/莉洁莉特-FSN/laugh.png",
+          "sha256": "3eb3e0e2d6e203dce3f1d6781b050974e71eeb3fd4bcb02e4a3cae4ab176ce46",
+          "width": 512,
+          "height": 512,
+          "bytes": 178676
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/莉洁莉特-FSN/neutral.png",
+          "sha256": "984008db8ec1872f5bf3d15827c7bb6779fe97c08eb23bada6d53e1e9b758b0e",
+          "width": 512,
+          "height": 512,
+          "bytes": 179031
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/莉洁莉特-FSN/confused.png",
+          "sha256": "8254dce575ed82b47f97e1630b89a78484269f3b7d7011c46e245fae8492df8f",
+          "width": 512,
+          "height": 512,
+          "bytes": 178068
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/莉洁莉特-FSN/avatars.webp",
+          "sha256": "f5b4df60dd741b44255707566c5d17f7bdddb873d82df5d3de3dcd578545babc",
+          "width": 768,
+          "height": 128,
+          "bytes": 105724
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/莉洁莉特-FSN/portraits.webp",
+          "sha256": "a2ae2dc85e1bea0ea1e10795ee306b82352a10c2cb100f5694f4c80205a4fbd3",
+          "width": 3072,
+          "height": 384,
+          "bytes": 447812
+        }
+      ]
+    },
+    {
+      "key": "卫宫切嗣-FSN",
+      "name": "卫宫切嗣",
+      "work": "FSN",
+      "kind": "six-separate-generated-anime-reference",
+      "sourceWork": "FSN",
+      "appearance": "UBW晚年病弱切嗣，蓝浴衣、凌乱黑发、胡茬、下眼纹与消瘦面颊；非FZ年轻西装。",
+      "assetRef": "d3040a82bbd8372f023be19839573bb1319da82a",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%8D%AB%E5%AE%AB%E5%88%87%E5%97%A3-FSN/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%8D%AB%E5%AE%AB%E5%88%87%E5%97%A3-FSN/portraits.webp",
+      "acceptance": {
+        "status": "self-reviewed-awaiting-user",
+        "date": "2026-10-21",
+        "finalUserOverviewPending": true,
+        "userAccepted": false,
+        "rootAndIndependentReviewPassed": true,
+        "generationMethod": "six-separate-imagegen-calls",
+        "assetSetSHA256": "2d1deb9e61e22b3af3c7c8857169dfd0aec5ffc88622cd88f539328f7b037b6a",
+        "sourceImagesSHA256": {
+          "happy": "41da91ac077ad034d850ce445fd851d32975f54292f22441fffafed2e043b021",
+          "angry": "9247a0591cdcb6430a931a286bbebbe1cefd4ece2af9d7d062859bc9f4c6cf77",
+          "sad": "96cd2e3fdd5aa44aa15a165f191a259f8fd56886ebac9c5369d49ac4b950f6a0",
+          "laugh": "4adffbc73e02f794bb4e899e3e7a0cc9cccfe5ed105ccedd2bdeeb43b37e8ab2",
+          "neutral": "1945abcf52d8462b068e6e2f9bf654042f9ee00749d395fc282bb947a80e9b86",
+          "confused": "e36f0c11e846e256edbf2231bfb097e28831230da0f839a8ed65982d80dfe396"
+        },
+        "sourceImagesHashScope": "published-512x512-transparent-pngs"
+      },
+      "provenance": [
+        "C:/FY/型月美化/avatar-fsn-20261021/references/kiritsugu-ubw-older-screen.jpg"
+      ],
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%",
+          "file": "characters/卫宫切嗣-FSN/happy.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%8D%AB%E5%AE%AB%E5%88%87%E5%97%A3-FSN/happy.png"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%",
+          "file": "characters/卫宫切嗣-FSN/angry.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%8D%AB%E5%AE%AB%E5%88%87%E5%97%A3-FSN/angry.png"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%",
+          "file": "characters/卫宫切嗣-FSN/sad.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%8D%AB%E5%AE%AB%E5%88%87%E5%97%A3-FSN/sad.png"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%",
+          "file": "characters/卫宫切嗣-FSN/laugh.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%8D%AB%E5%AE%AB%E5%88%87%E5%97%A3-FSN/laugh.png"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%",
+          "file": "characters/卫宫切嗣-FSN/neutral.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%8D%AB%E5%AE%AB%E5%88%87%E5%97%A3-FSN/neutral.png"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%",
+          "file": "characters/卫宫切嗣-FSN/confused.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%8D%AB%E5%AE%AB%E5%88%87%E5%97%A3-FSN/confused.png"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/卫宫切嗣-FSN/happy.png",
+          "sha256": "41da91ac077ad034d850ce445fd851d32975f54292f22441fffafed2e043b021",
+          "width": 512,
+          "height": 512,
+          "bytes": 199846
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/卫宫切嗣-FSN/angry.png",
+          "sha256": "9247a0591cdcb6430a931a286bbebbe1cefd4ece2af9d7d062859bc9f4c6cf77",
+          "width": 512,
+          "height": 512,
+          "bytes": 199190
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/卫宫切嗣-FSN/sad.png",
+          "sha256": "96cd2e3fdd5aa44aa15a165f191a259f8fd56886ebac9c5369d49ac4b950f6a0",
+          "width": 512,
+          "height": 512,
+          "bytes": 199336
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/卫宫切嗣-FSN/laugh.png",
+          "sha256": "4adffbc73e02f794bb4e899e3e7a0cc9cccfe5ed105ccedd2bdeeb43b37e8ab2",
+          "width": 512,
+          "height": 512,
+          "bytes": 198750
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/卫宫切嗣-FSN/neutral.png",
+          "sha256": "1945abcf52d8462b068e6e2f9bf654042f9ee00749d395fc282bb947a80e9b86",
+          "width": 512,
+          "height": 512,
+          "bytes": 192230
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/卫宫切嗣-FSN/confused.png",
+          "sha256": "e36f0c11e846e256edbf2231bfb097e28831230da0f839a8ed65982d80dfe396",
+          "width": 512,
+          "height": 512,
+          "bytes": 201813
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/卫宫切嗣-FSN/avatars.webp",
+          "sha256": "ddcea8fb97131fb26819aff794d0d05b15e1b88672c7d7980c6657139472f5ce",
+          "width": 768,
+          "height": 128,
+          "bytes": 113414
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/卫宫切嗣-FSN/portraits.webp",
+          "sha256": "f682d4c8eafd26aaa213bd129039f5bacb30ef0340b7b689536f86cb0d98aeb5",
+          "width": 3072,
+          "height": 384,
+          "bytes": 483626
+        }
+      ]
+    },
+    {
+      "key": "阿特拉姆·加里阿斯塔-FSN",
+      "name": "阿特拉姆·加里阿斯塔",
+      "work": "FSN",
+      "kind": "six-separate-generated-anime-reference",
+      "sourceWork": "FSN",
+      "appearance": "UBW14集现代动画形象：成年褐肤金色长发、蓝眼、金红项圈与金耳饰，白色敞领衬衣、浅金外袍；六张固定服装和大半身构图。",
+      "assetRef": "d3040a82bbd8372f023be19839573bb1319da82a",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%98%BF%E7%89%B9%E6%8B%89%E5%A7%86%C2%B7%E5%8A%A0%E9%87%8C%E9%98%BF%E6%96%AF%E5%A1%94-FSN/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%98%BF%E7%89%B9%E6%8B%89%E5%A7%86%C2%B7%E5%8A%A0%E9%87%8C%E9%98%BF%E6%96%AF%E5%A1%94-FSN/portraits.webp",
+      "acceptance": {
+        "status": "self-reviewed-awaiting-user",
+        "date": "2026-10-21",
+        "finalUserOverviewPending": true,
+        "userAccepted": false,
+        "rootAndIndependentReviewPassed": true,
+        "generationMethod": "six-separate-imagegen-calls",
+        "assetSetSHA256": "95f547b2f43222ac053232fbe47dc963ca13937c88a2026470910cc79bfc7775",
+        "sourceImagesSHA256": {
+          "happy": "3206ef72cc08db4c6d9e66015746e3d5517e49c41c39f0a8eedd0b3338bfcbb0",
+          "angry": "3b8290474a7a8dab6f05d88e92a2b862ffa145270bdfa1c98c64ceaa3fbf7718",
+          "sad": "058c081bac88de35e0c31a8c54e0405bdc71c8f4e485e03905a8ac1757fba707",
+          "laugh": "c195da4159545415b53b4de82c38e4871e7a00419708905f66386dca15b46cb6",
+          "neutral": "2db96ae90ebe93ef83b11571bca95d0cb05b9afe992b57f8e18514eee2e926e9",
+          "confused": "40f091562c63aabfa0a6092ed5422774f1b9c600095c40fc492397d80cada6da"
+        },
+        "sourceImagesHashScope": "published-512x512-transparent-pngs"
+      },
+      "provenance": [
+        {
+          "url": "https://geekorner.files.wordpress.com/2015/04/fate-stay-night-unlimited-blade-works-episode-14-08-12_2015-04-14_22-27-58.jpg?w=1100",
+          "sourcePage": "https://edgyanimeteenblog.wordpress.com/2018/05/04/whos-that-side-character-its-medea/",
+          "localPath": "C:/FY/型月美化/avatar-fsn-20261021/references/atrum-ubw-screen.jpg",
+          "role": "UBW14 identity and clothing reference; third-party hosted screenshot",
+          "confidence": "medium"
+        }
+      ],
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%",
+          "file": "characters/阿特拉姆·加里阿斯塔-FSN/happy.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%98%BF%E7%89%B9%E6%8B%89%E5%A7%86%C2%B7%E5%8A%A0%E9%87%8C%E9%98%BF%E6%96%AF%E5%A1%94-FSN/happy.png"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%",
+          "file": "characters/阿特拉姆·加里阿斯塔-FSN/angry.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%98%BF%E7%89%B9%E6%8B%89%E5%A7%86%C2%B7%E5%8A%A0%E9%87%8C%E9%98%BF%E6%96%AF%E5%A1%94-FSN/angry.png"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%",
+          "file": "characters/阿特拉姆·加里阿斯塔-FSN/sad.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%98%BF%E7%89%B9%E6%8B%89%E5%A7%86%C2%B7%E5%8A%A0%E9%87%8C%E9%98%BF%E6%96%AF%E5%A1%94-FSN/sad.png"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%",
+          "file": "characters/阿特拉姆·加里阿斯塔-FSN/laugh.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%98%BF%E7%89%B9%E6%8B%89%E5%A7%86%C2%B7%E5%8A%A0%E9%87%8C%E9%98%BF%E6%96%AF%E5%A1%94-FSN/laugh.png"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%",
+          "file": "characters/阿特拉姆·加里阿斯塔-FSN/neutral.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%98%BF%E7%89%B9%E6%8B%89%E5%A7%86%C2%B7%E5%8A%A0%E9%87%8C%E9%98%BF%E6%96%AF%E5%A1%94-FSN/neutral.png"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%",
+          "file": "characters/阿特拉姆·加里阿斯塔-FSN/confused.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%98%BF%E7%89%B9%E6%8B%89%E5%A7%86%C2%B7%E5%8A%A0%E9%87%8C%E9%98%BF%E6%96%AF%E5%A1%94-FSN/confused.png"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/阿特拉姆·加里阿斯塔-FSN/happy.png",
+          "sha256": "3206ef72cc08db4c6d9e66015746e3d5517e49c41c39f0a8eedd0b3338bfcbb0",
+          "width": 512,
+          "height": 512,
+          "bytes": 298544
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/阿特拉姆·加里阿斯塔-FSN/angry.png",
+          "sha256": "3b8290474a7a8dab6f05d88e92a2b862ffa145270bdfa1c98c64ceaa3fbf7718",
+          "width": 512,
+          "height": 512,
+          "bytes": 295989
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/阿特拉姆·加里阿斯塔-FSN/sad.png",
+          "sha256": "058c081bac88de35e0c31a8c54e0405bdc71c8f4e485e03905a8ac1757fba707",
+          "width": 512,
+          "height": 512,
+          "bytes": 299805
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/阿特拉姆·加里阿斯塔-FSN/laugh.png",
+          "sha256": "c195da4159545415b53b4de82c38e4871e7a00419708905f66386dca15b46cb6",
+          "width": 512,
+          "height": 512,
+          "bytes": 300309
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/阿特拉姆·加里阿斯塔-FSN/neutral.png",
+          "sha256": "2db96ae90ebe93ef83b11571bca95d0cb05b9afe992b57f8e18514eee2e926e9",
+          "width": 512,
+          "height": 512,
+          "bytes": 294078
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/阿特拉姆·加里阿斯塔-FSN/confused.png",
+          "sha256": "40f091562c63aabfa0a6092ed5422774f1b9c600095c40fc492397d80cada6da",
+          "width": 512,
+          "height": 512,
+          "bytes": 295763
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/阿特拉姆·加里阿斯塔-FSN/avatars.webp",
+          "sha256": "4a7d61f2746ac02bd030df818150752b87fd626e6660c7792fb20c012e144988",
+          "width": 768,
+          "height": 128,
+          "bytes": 139266
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/阿特拉姆·加里阿斯塔-FSN/portraits.webp",
+          "sha256": "726d688f0880a906c9e9cf90fbef426fe7f87f8808efdacf65ed3d9a8e6f166a",
+          "width": 3072,
+          "height": 384,
+          "bytes": 691558
+        }
+      ]
+    },
+    {
+      "key": "露维亚瑟琳塔·艾德费尔特-FSN",
+      "name": "露维亚瑟琳塔·艾德费尔特",
+      "work": "FSN",
+      "kind": "six-separate-generated-anime-reference",
+      "sourceWork": "FSN",
+      "appearance": "UBW25集现代动画人类露维亚形象：粉红眼、金色钻头长卷发、双侧蓝金边发饰，蓝色礼服与白色高领荷叶衬衣；固定大半身与蓝白礼服，不混FGO阿斯特赖亚或运动服。",
+      "assetRef": "d3040a82bbd8372f023be19839573bb1319da82a",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%9C%B2%E7%BB%B4%E4%BA%9A%E7%91%9F%E7%90%B3%E5%A1%94%C2%B7%E8%89%BE%E5%BE%B7%E8%B4%B9%E5%B0%94%E7%89%B9-FSN/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%9C%B2%E7%BB%B4%E4%BA%9A%E7%91%9F%E7%90%B3%E5%A1%94%C2%B7%E8%89%BE%E5%BE%B7%E8%B4%B9%E5%B0%94%E7%89%B9-FSN/portraits.webp",
+      "acceptance": {
+        "status": "self-reviewed-awaiting-user",
+        "date": "2026-10-21",
+        "finalUserOverviewPending": true,
+        "userAccepted": false,
+        "rootAndIndependentReviewPassed": true,
+        "generationMethod": "six-separate-imagegen-calls",
+        "assetSetSHA256": "8d4793588e74fece47000ae0e9c7d7654aa60f9b38598a20aa7fd0e347cdba75",
+        "sourceImagesSHA256": {
+          "happy": "1f74a6419aa16cf35a7d5606008f86ebc612f6693cf2fb4272d778fb47a1c0a4",
+          "angry": "4ca47fead20800f332e4d290171676c72ca5c143358a21b05b737cf949af53ac",
+          "sad": "f541cd42c5ccf05b7cc6671cd44f4c0d31c12dcb3290d891baf235bbfa78c91b",
+          "laugh": "98ffe419410f341131526a9fb9560cc9a2c893be02d3bbd733cef8f816dadb24",
+          "neutral": "351104ba1f40985cda08a63721b4fadedf122213c22d919a0422aa412e6f0388",
+          "confused": "f8f11040500ec1c22ad63ba88f7426a82f92aa32f9777a73f7a9ef3013405931"
+        },
+        "sourceImagesHashScope": "published-512x512-transparent-pngs"
+      },
+      "provenance": [
+        {
+          "url": "https://anime.astronerdboy.com/wp-content/uploads/2015/06/x09-Rin-and-Luvia.jpg",
+          "sourcePage": "https://anime.astronerdboy.com/2015/06/fatestay-night-unlimited-blade-works-25.html",
+          "localPath": "C:/FY/型月美化/avatar-fsn-20261021/references/luvia-rin-ubw25.jpg",
+          "role": "UBW25 face, eyes and hair bows; right blonde character only",
+          "confidence": "medium"
+        },
+        {
+          "url": "https://anime.astronerdboy.com/wp-content/uploads/2015/06/x10-Rin-Luvia.jpg",
+          "sourcePage": "https://anime.astronerdboy.com/2015/06/fatestay-night-unlimited-blade-works-25.html",
+          "localPath": "C:/FY/型月美化/avatar-fsn-20261021/references/luvia-rin-ubw25-b.jpg",
+          "role": "UBW25 blue-white formal costume; right blonde character only",
+          "confidence": "medium"
+        }
+      ],
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%",
+          "file": "characters/露维亚瑟琳塔·艾德费尔特-FSN/happy.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%9C%B2%E7%BB%B4%E4%BA%9A%E7%91%9F%E7%90%B3%E5%A1%94%C2%B7%E8%89%BE%E5%BE%B7%E8%B4%B9%E5%B0%94%E7%89%B9-FSN/happy.png"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%",
+          "file": "characters/露维亚瑟琳塔·艾德费尔特-FSN/angry.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%9C%B2%E7%BB%B4%E4%BA%9A%E7%91%9F%E7%90%B3%E5%A1%94%C2%B7%E8%89%BE%E5%BE%B7%E8%B4%B9%E5%B0%94%E7%89%B9-FSN/angry.png"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%",
+          "file": "characters/露维亚瑟琳塔·艾德费尔特-FSN/sad.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%9C%B2%E7%BB%B4%E4%BA%9A%E7%91%9F%E7%90%B3%E5%A1%94%C2%B7%E8%89%BE%E5%BE%B7%E8%B4%B9%E5%B0%94%E7%89%B9-FSN/sad.png"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%",
+          "file": "characters/露维亚瑟琳塔·艾德费尔特-FSN/laugh.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%9C%B2%E7%BB%B4%E4%BA%9A%E7%91%9F%E7%90%B3%E5%A1%94%C2%B7%E8%89%BE%E5%BE%B7%E8%B4%B9%E5%B0%94%E7%89%B9-FSN/laugh.png"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%",
+          "file": "characters/露维亚瑟琳塔·艾德费尔特-FSN/neutral.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%9C%B2%E7%BB%B4%E4%BA%9A%E7%91%9F%E7%90%B3%E5%A1%94%C2%B7%E8%89%BE%E5%BE%B7%E8%B4%B9%E5%B0%94%E7%89%B9-FSN/neutral.png"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%",
+          "file": "characters/露维亚瑟琳塔·艾德费尔特-FSN/confused.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E9%9C%B2%E7%BB%B4%E4%BA%9A%E7%91%9F%E7%90%B3%E5%A1%94%C2%B7%E8%89%BE%E5%BE%B7%E8%B4%B9%E5%B0%94%E7%89%B9-FSN/confused.png"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/露维亚瑟琳塔·艾德费尔特-FSN/happy.png",
+          "sha256": "1f74a6419aa16cf35a7d5606008f86ebc612f6693cf2fb4272d778fb47a1c0a4",
+          "width": 512,
+          "height": 512,
+          "bytes": 339891
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/露维亚瑟琳塔·艾德费尔特-FSN/angry.png",
+          "sha256": "4ca47fead20800f332e4d290171676c72ca5c143358a21b05b737cf949af53ac",
+          "width": 512,
+          "height": 512,
+          "bytes": 338958
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/露维亚瑟琳塔·艾德费尔特-FSN/sad.png",
+          "sha256": "f541cd42c5ccf05b7cc6671cd44f4c0d31c12dcb3290d891baf235bbfa78c91b",
+          "width": 512,
+          "height": 512,
+          "bytes": 338544
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/露维亚瑟琳塔·艾德费尔特-FSN/laugh.png",
+          "sha256": "98ffe419410f341131526a9fb9560cc9a2c893be02d3bbd733cef8f816dadb24",
+          "width": 512,
+          "height": 512,
+          "bytes": 339236
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/露维亚瑟琳塔·艾德费尔特-FSN/neutral.png",
+          "sha256": "351104ba1f40985cda08a63721b4fadedf122213c22d919a0422aa412e6f0388",
+          "width": 512,
+          "height": 512,
+          "bytes": 338957
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/露维亚瑟琳塔·艾德费尔特-FSN/confused.png",
+          "sha256": "f8f11040500ec1c22ad63ba88f7426a82f92aa32f9777a73f7a9ef3013405931",
+          "width": 512,
+          "height": 512,
+          "bytes": 341316
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/露维亚瑟琳塔·艾德费尔特-FSN/avatars.webp",
+          "sha256": "8c0ae9193c38873312c8868eaa4bd91d25752624c2c2ba3b821c7d5feebb28d2",
+          "width": 768,
+          "height": 128,
+          "bytes": 140218
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/露维亚瑟琳塔·艾德费尔特-FSN/portraits.webp",
+          "sha256": "e3c1b3f1904f7b1ef19fbb8607b5990eafef2bc2126acb3a9b76adf1f63789a2",
+          "width": 3072,
+          "height": 384,
+          "bytes": 792418
+        }
+      ]
+    },
+    {
+      "key": "埃尔梅罗Ⅱ世-FSN",
+      "name": "埃尔梅罗Ⅱ世",
+      "work": "FSN",
+      "kind": "six-separate-generated-anime-reference",
+      "sourceWork": "FSN",
+      "appearance": "现代UBW第25集成年埃尔梅罗Ⅱ世：深褐黑中分直长发、额纹、深眼窝、消瘦长脸、黑色高领层叠领部与外层红色披肩/外套领部；不使用FZ少年韦伯形象，去除参考夕阳偏橙光，固定正面大半身。",
+      "assetRef": "d3040a82bbd8372f023be19839573bb1319da82a",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%9F%83%E5%B0%94%E6%A2%85%E7%BD%97%E2%85%A1%E4%B8%96-FSN/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%9F%83%E5%B0%94%E6%A2%85%E7%BD%97%E2%85%A1%E4%B8%96-FSN/portraits.webp",
+      "acceptance": {
+        "status": "self-reviewed-awaiting-user",
+        "date": "2026-10-21",
+        "finalUserOverviewPending": true,
+        "userAccepted": false,
+        "rootAndIndependentReviewPassed": true,
+        "generationMethod": "six-separate-imagegen-calls",
+        "assetSetSHA256": "b6ed10fa9d9e672bc7fd14bf05e6c15fa8117ca5e92c052560b19aee1c5b3a45",
+        "sourceImagesSHA256": {
+          "happy": "0c550ca0f87ef186ef0a343232518f19699b09a9fe2e5c108f088b5616efd704",
+          "angry": "35c61fb28f75ba29ef0a5567aa5cc2e4bea5222b163c3404e2e966860223fb1d",
+          "sad": "b146fba0859fce5a44a922fcccf121ff444f3f467767c3083f5a5f55bf348f0e",
+          "laugh": "fdf261c30778f02cc03809e558d02d91cc636086547159abbe1b11012bd569e2",
+          "neutral": "429f112f1e965a260f78438cd8f1b26ced752650ae52dde77755bdf9886ad428",
+          "confused": "c0de13406091c3483d11eb2ff3080f42e85f0df5978318df8f10f44e11afe640"
+        },
+        "sourceImagesHashScope": "published-512x512-transparent-pngs"
+      },
+      "provenance": [
+        {
+          "url": "https://anime.astronerdboy.com/wp-content/uploads/2015/06/x08-Lord-El-Melloi-II.jpg",
+          "sourcePage": "https://anime.astronerdboy.com/2015/06/fatestay-night-unlimited-blade-works-25.html",
+          "role": "Accepted reference-index UBW25 mature lecturer screenshot; identity, hair, forehead/cheek structure and visible black/red costume; screenshot is third-party hosted",
+          "localPath": "C:/FY/型月美化/avatar-fsn-20261021/references/el-melloi-ubw25.jpg",
+          "confidence": "medium",
+          "limitations": "Strong sunset cast excluded; only visible black throat clothing and red outer collar faithfully carried into bust."
+        }
+      ],
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%",
+          "file": "characters/埃尔梅罗Ⅱ世-FSN/happy.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%9F%83%E5%B0%94%E6%A2%85%E7%BD%97%E2%85%A1%E4%B8%96-FSN/happy.png"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%",
+          "file": "characters/埃尔梅罗Ⅱ世-FSN/angry.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%9F%83%E5%B0%94%E6%A2%85%E7%BD%97%E2%85%A1%E4%B8%96-FSN/angry.png"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%",
+          "file": "characters/埃尔梅罗Ⅱ世-FSN/sad.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%9F%83%E5%B0%94%E6%A2%85%E7%BD%97%E2%85%A1%E4%B8%96-FSN/sad.png"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%",
+          "file": "characters/埃尔梅罗Ⅱ世-FSN/laugh.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%9F%83%E5%B0%94%E6%A2%85%E7%BD%97%E2%85%A1%E4%B8%96-FSN/laugh.png"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%",
+          "file": "characters/埃尔梅罗Ⅱ世-FSN/neutral.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%9F%83%E5%B0%94%E6%A2%85%E7%BD%97%E2%85%A1%E4%B8%96-FSN/neutral.png"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%",
+          "file": "characters/埃尔梅罗Ⅱ世-FSN/confused.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%9F%83%E5%B0%94%E6%A2%85%E7%BD%97%E2%85%A1%E4%B8%96-FSN/confused.png"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/埃尔梅罗Ⅱ世-FSN/happy.png",
+          "sha256": "0c550ca0f87ef186ef0a343232518f19699b09a9fe2e5c108f088b5616efd704",
+          "width": 512,
+          "height": 512,
+          "bytes": 242836
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/埃尔梅罗Ⅱ世-FSN/angry.png",
+          "sha256": "35c61fb28f75ba29ef0a5567aa5cc2e4bea5222b163c3404e2e966860223fb1d",
+          "width": 512,
+          "height": 512,
+          "bytes": 240485
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/埃尔梅罗Ⅱ世-FSN/sad.png",
+          "sha256": "b146fba0859fce5a44a922fcccf121ff444f3f467767c3083f5a5f55bf348f0e",
+          "width": 512,
+          "height": 512,
+          "bytes": 241360
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/埃尔梅罗Ⅱ世-FSN/laugh.png",
+          "sha256": "fdf261c30778f02cc03809e558d02d91cc636086547159abbe1b11012bd569e2",
+          "width": 512,
+          "height": 512,
+          "bytes": 243813
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/埃尔梅罗Ⅱ世-FSN/neutral.png",
+          "sha256": "429f112f1e965a260f78438cd8f1b26ced752650ae52dde77755bdf9886ad428",
+          "width": 512,
+          "height": 512,
+          "bytes": 238093
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/埃尔梅罗Ⅱ世-FSN/confused.png",
+          "sha256": "c0de13406091c3483d11eb2ff3080f42e85f0df5978318df8f10f44e11afe640",
+          "width": 512,
+          "height": 512,
+          "bytes": 241193
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/埃尔梅罗Ⅱ世-FSN/avatars.webp",
+          "sha256": "c110fa1d4fa83b57be57a4c0035195356e68536d07cba04310e59b926f0456ac",
+          "width": 768,
+          "height": 128,
+          "bytes": 103410
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/埃尔梅罗Ⅱ世-FSN/portraits.webp",
+          "sha256": "c33dcd05b8c5097457093217435e7c3885a30f3cfe806ad4cfb87423bbb41e2a",
+          "width": 3072,
+          "height": 384,
+          "bytes": 548418
+        }
+      ]
+    },
+    {
+      "key": "冰室钟-FSN",
+      "name": "冰室钟",
+      "work": "FSN",
+      "kind": "six-separate-generated-anime-reference",
+      "sourceWork": "FSN",
+      "appearance": "UBW现代冰室钟：灰棕长直发齐刘海、橄榄灰眼、细银丝圆眼镜、白衬衫驼色背心与红金领结。固定半身与服装。",
+      "assetRef": "d3040a82bbd8372f023be19839573bb1319da82a",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%86%B0%E5%AE%A4%E9%92%9F-FSN/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%86%B0%E5%AE%A4%E9%92%9F-FSN/portraits.webp",
+      "acceptance": {
+        "status": "self-reviewed-awaiting-user",
+        "date": "2026-10-21",
+        "finalUserOverviewPending": true,
+        "userAccepted": false,
+        "rootAndIndependentReviewPassed": true,
+        "generationMethod": "six-separate-imagegen-calls",
+        "assetSetSHA256": "9cfac00bf447475d92e5f03e68298f96cd71a3d6ce6c5dd49605dcb8f533e5d0",
+        "sourceImagesSHA256": {
+          "happy": "f3348ecd130a0bb1f279f7d119c35eb1df91749228f7f21511a29c411a56bafa",
+          "angry": "7637d70c1a7e2cb2dcfee7a27bc28e3ba81c33264b926bad243c646a42f14bd0",
+          "sad": "a621bf9d7be91f5fa0ef6f691715d048169ab55a3522e3c924c7eb1815be5afa",
+          "laugh": "cab9787349cbefe60970dfbf768b04d4c291e135249de79085300c19ac31b266",
+          "neutral": "cffdeaec1a35bfebd59c9d2f9912440ba89981f24a6d19396669f39c3c0c4562",
+          "confused": "fc1f4369f93e7ad239c8eb09103ad8332069061c0ab61c815160c3bde33003ba"
+        },
+        "sourceImagesHashScope": "published-512x512-transparent-pngs"
+      },
+      "provenance": [
+        "C:/FY/型月美化/avatar-fsn-20261021/references/himuro-ubw-candidate-newton.jpg",
+        "C:/FY/型月美化/avatar-fsn-20261021/references/school-trio-official-icons.jpg"
+      ],
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%",
+          "file": "characters/冰室钟-FSN/happy.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%86%B0%E5%AE%A4%E9%92%9F-FSN/happy.png"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%",
+          "file": "characters/冰室钟-FSN/angry.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%86%B0%E5%AE%A4%E9%92%9F-FSN/angry.png"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%",
+          "file": "characters/冰室钟-FSN/sad.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%86%B0%E5%AE%A4%E9%92%9F-FSN/sad.png"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%",
+          "file": "characters/冰室钟-FSN/laugh.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%86%B0%E5%AE%A4%E9%92%9F-FSN/laugh.png"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%",
+          "file": "characters/冰室钟-FSN/neutral.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%86%B0%E5%AE%A4%E9%92%9F-FSN/neutral.png"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%",
+          "file": "characters/冰室钟-FSN/confused.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%86%B0%E5%AE%A4%E9%92%9F-FSN/confused.png"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/冰室钟-FSN/happy.png",
+          "sha256": "f3348ecd130a0bb1f279f7d119c35eb1df91749228f7f21511a29c411a56bafa",
+          "width": 512,
+          "height": 512,
+          "bytes": 251965
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/冰室钟-FSN/angry.png",
+          "sha256": "7637d70c1a7e2cb2dcfee7a27bc28e3ba81c33264b926bad243c646a42f14bd0",
+          "width": 512,
+          "height": 512,
+          "bytes": 250660
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/冰室钟-FSN/sad.png",
+          "sha256": "a621bf9d7be91f5fa0ef6f691715d048169ab55a3522e3c924c7eb1815be5afa",
+          "width": 512,
+          "height": 512,
+          "bytes": 251283
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/冰室钟-FSN/laugh.png",
+          "sha256": "cab9787349cbefe60970dfbf768b04d4c291e135249de79085300c19ac31b266",
+          "width": 512,
+          "height": 512,
+          "bytes": 250927
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/冰室钟-FSN/neutral.png",
+          "sha256": "cffdeaec1a35bfebd59c9d2f9912440ba89981f24a6d19396669f39c3c0c4562",
+          "width": 512,
+          "height": 512,
+          "bytes": 250676
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/冰室钟-FSN/confused.png",
+          "sha256": "fc1f4369f93e7ad239c8eb09103ad8332069061c0ab61c815160c3bde33003ba",
+          "width": 512,
+          "height": 512,
+          "bytes": 251752
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/冰室钟-FSN/avatars.webp",
+          "sha256": "696169196f4d314e7e45b7b955a5ce75b4989d85db13ae965d1d722f2b875927",
+          "width": 768,
+          "height": 128,
+          "bytes": 117868
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/冰室钟-FSN/portraits.webp",
+          "sha256": "fa8abfaabbc631a475073cc34a76a20ad3fb32b6c8e36f4faece180e2ccb469b",
+          "width": 3072,
+          "height": 384,
+          "bytes": 564562
+        }
+      ]
+    },
+    {
+      "key": "苍崎橙子-FSN",
+      "name": "苍崎橙子",
+      "work": "FSN",
+      "kind": "six-separate-generated-anime-reference",
+      "sourceWork": "FSN",
+      "appearance": "HF客串补参照：采用同制作方空之境界官方成年橙子面相，红色低马尾、细框方眼镜、白色职业衬衣；不是HF正脸截图，也不是魔夜少女橙子。",
+      "assetRef": "d3040a82bbd8372f023be19839573bb1319da82a",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E8%8B%8D%E5%B4%8E%E6%A9%99%E5%AD%90-FSN/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E8%8B%8D%E5%B4%8E%E6%A9%99%E5%AD%90-FSN/portraits.webp",
+      "acceptance": {
+        "status": "self-reviewed-awaiting-user",
+        "date": "2026-10-21",
+        "finalUserOverviewPending": true,
+        "userAccepted": false,
+        "rootAndIndependentReviewPassed": true,
+        "generationMethod": "six-separate-imagegen-calls",
+        "assetSetSHA256": "7450a9aa3ae35d5c0efda65ff7c34fce977c45ff1a29e00d30d4e0de0c200ec2",
+        "sourceImagesSHA256": {
+          "happy": "23cd548eb858eb51a26e843833f0cf929fcd892a383ff753017c5fedd4ac97d7",
+          "angry": "5a5f79cedaabd18fad548d102a6d3b75922ea53e2af077eddd097fd58ed39219",
+          "sad": "79d3391e2dd2813d86c4abc1cf8b1b9e2dfaaea0b748b6968d93faeb0e64fac4",
+          "laugh": "ce917ffca13c2c9118a0fdbcfa892fac455b41c19767fc49aea749502720e168",
+          "neutral": "9865c0d2b9a88023908f29c11198a18047ef5f0ed38729b97fbb595b3949a2b0",
+          "confused": "d69937e15715b3cc270709eb8aa535b1ae142d9928135d391971c0714e675e8c"
+        },
+        "sourceImagesHashScope": "published-512x512-transparent-pngs"
+      },
+      "provenance": [
+        "references/touko-official-asahi.jpg",
+        "references/touko-official-ch5.png"
+      ],
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%",
+          "file": "characters/苍崎橙子-FSN/happy.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E8%8B%8D%E5%B4%8E%E6%A9%99%E5%AD%90-FSN/happy.png"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%",
+          "file": "characters/苍崎橙子-FSN/angry.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E8%8B%8D%E5%B4%8E%E6%A9%99%E5%AD%90-FSN/angry.png"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%",
+          "file": "characters/苍崎橙子-FSN/sad.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E8%8B%8D%E5%B4%8E%E6%A9%99%E5%AD%90-FSN/sad.png"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%",
+          "file": "characters/苍崎橙子-FSN/laugh.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E8%8B%8D%E5%B4%8E%E6%A9%99%E5%AD%90-FSN/laugh.png"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%",
+          "file": "characters/苍崎橙子-FSN/neutral.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E8%8B%8D%E5%B4%8E%E6%A9%99%E5%AD%90-FSN/neutral.png"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%",
+          "file": "characters/苍崎橙子-FSN/confused.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E8%8B%8D%E5%B4%8E%E6%A9%99%E5%AD%90-FSN/confused.png"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/苍崎橙子-FSN/happy.png",
+          "sha256": "23cd548eb858eb51a26e843833f0cf929fcd892a383ff753017c5fedd4ac97d7",
+          "width": 512,
+          "height": 512,
+          "bytes": 210084
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/苍崎橙子-FSN/angry.png",
+          "sha256": "5a5f79cedaabd18fad548d102a6d3b75922ea53e2af077eddd097fd58ed39219",
+          "width": 512,
+          "height": 512,
+          "bytes": 211968
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/苍崎橙子-FSN/sad.png",
+          "sha256": "79d3391e2dd2813d86c4abc1cf8b1b9e2dfaaea0b748b6968d93faeb0e64fac4",
+          "width": 512,
+          "height": 512,
+          "bytes": 211124
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/苍崎橙子-FSN/laugh.png",
+          "sha256": "ce917ffca13c2c9118a0fdbcfa892fac455b41c19767fc49aea749502720e168",
+          "width": 512,
+          "height": 512,
+          "bytes": 210908
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/苍崎橙子-FSN/neutral.png",
+          "sha256": "9865c0d2b9a88023908f29c11198a18047ef5f0ed38729b97fbb595b3949a2b0",
+          "width": 512,
+          "height": 512,
+          "bytes": 211467
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/苍崎橙子-FSN/confused.png",
+          "sha256": "d69937e15715b3cc270709eb8aa535b1ae142d9928135d391971c0714e675e8c",
+          "width": 512,
+          "height": 512,
+          "bytes": 211194
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/苍崎橙子-FSN/avatars.webp",
+          "sha256": "ed06bec489d91abc69b859491b55ac45b9eca7b778261123c13f50fccd366f14",
+          "width": 768,
+          "height": 128,
+          "bytes": 131994
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/苍崎橙子-FSN/portraits.webp",
+          "sha256": "637b4e7e48944b1f0629c78e6a75883049073090bc250b0ede21e8959401d44c",
+          "width": 3072,
+          "height": 384,
+          "bytes": 525458
+        }
+      ]
+    },
+    {
+      "key": "尤斯缇萨·里姿莱希·冯·爱因兹贝伦-FSN",
+      "name": "尤斯缇萨·里姿莱希·冯·爱因兹贝伦",
+      "work": "FSN",
+      "kind": "six-separate-generated-anime-reference",
+      "sourceWork": "FSN",
+      "appearance": "冬之圣女尤斯缇萨；固定白金高礼冠、银白长发红眼、红白金天之服。以原作CG及Apocrypha正式动画形象补足身份与服装，按现代UBW/HF画风重绘；非直接HF电影露脸原图。",
+      "assetRef": "d3040a82bbd8372f023be19839573bb1319da82a",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%B0%A4%E6%96%AF%E7%BC%87%E8%90%A8%C2%B7%E9%87%8C%E5%A7%BF%E8%8E%B1%E5%B8%8C%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6-FSN/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%B0%A4%E6%96%AF%E7%BC%87%E8%90%A8%C2%B7%E9%87%8C%E5%A7%BF%E8%8E%B1%E5%B8%8C%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6-FSN/portraits.webp",
+      "acceptance": {
+        "status": "self-reviewed-awaiting-user",
+        "date": "2026-10-21",
+        "finalUserOverviewPending": true,
+        "userAccepted": false,
+        "rootAndIndependentReviewPassed": true,
+        "generationMethod": "six-separate-imagegen-calls",
+        "assetSetSHA256": "3347f1daaa07d9e3a1cd8f3c9fc63d77e5f991e18a18d0d3f9cbf96a91ba3062",
+        "sourceImagesSHA256": {
+          "happy": "9f04ddff7fd1eed1ffdd466b30d8c61fc1506a8b46d0bfe3ec92d57aa0071b44",
+          "angry": "d16f699b53a262d96861c040696ad538b41a3c1e1b9151da9a8aebf41fe878e6",
+          "sad": "d05ab2fd1c8841be135114c72fa3c581e6e9285df17dc47b07d093990e5ec4df",
+          "laugh": "2689c333797a84025ce8c4eba93d9eee4b8e354f456bc811ae26baf3b07d0917",
+          "neutral": "cede335c973f6e79d7d21c1168213ed3abeff99d3d063ab47d814a25f5c44d0e",
+          "confused": "25611f968aaefada225ea1f68b271f00eafc9a5498cad0c8ed94bb2ff455ca21"
+        },
+        "sourceImagesHashScope": "published-512x512-transparent-pngs"
+      },
+      "provenance": [
+        {
+          "url": "https://static.zerochan.net/Justeaze.Lizrich.von.Einzbern.full.1024451.jpg",
+          "role": "Original Fate/stay night CG costume and identity reference; not a modern HF film face"
+        },
+        {
+          "url": "https://vignette.wikia.nocookie.net/typemoon/images/b/bc/Justeaze_Apocrypha.png/revision/latest?cb=20181110223431&path-prefix=es",
+          "role": "Fate/Apocrypha animated Justeaze face and ceremonial costume supplement, expressly not an HF screenshot"
+        },
+        {
+          "url": "https://www.fate-sn.com/assets_hf3/img/special/kv/kv02.jpg",
+          "role": "Official HF III second visual confirms flashback appearance context and long pale-haired ceremonial silhouette; face is not visible; not supplied to imagegen"
+        }
+      ],
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%",
+          "file": "characters/尤斯缇萨·里姿莱希·冯·爱因兹贝伦-FSN/happy.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%B0%A4%E6%96%AF%E7%BC%87%E8%90%A8%C2%B7%E9%87%8C%E5%A7%BF%E8%8E%B1%E5%B8%8C%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6-FSN/happy.png"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%",
+          "file": "characters/尤斯缇萨·里姿莱希·冯·爱因兹贝伦-FSN/angry.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%B0%A4%E6%96%AF%E7%BC%87%E8%90%A8%C2%B7%E9%87%8C%E5%A7%BF%E8%8E%B1%E5%B8%8C%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6-FSN/angry.png"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%",
+          "file": "characters/尤斯缇萨·里姿莱希·冯·爱因兹贝伦-FSN/sad.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%B0%A4%E6%96%AF%E7%BC%87%E8%90%A8%C2%B7%E9%87%8C%E5%A7%BF%E8%8E%B1%E5%B8%8C%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6-FSN/sad.png"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%",
+          "file": "characters/尤斯缇萨·里姿莱希·冯·爱因兹贝伦-FSN/laugh.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%B0%A4%E6%96%AF%E7%BC%87%E8%90%A8%C2%B7%E9%87%8C%E5%A7%BF%E8%8E%B1%E5%B8%8C%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6-FSN/laugh.png"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%",
+          "file": "characters/尤斯缇萨·里姿莱希·冯·爱因兹贝伦-FSN/neutral.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%B0%A4%E6%96%AF%E7%BC%87%E8%90%A8%C2%B7%E9%87%8C%E5%A7%BF%E8%8E%B1%E5%B8%8C%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6-FSN/neutral.png"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%",
+          "file": "characters/尤斯缇萨·里姿莱希·冯·爱因兹贝伦-FSN/confused.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%B0%A4%E6%96%AF%E7%BC%87%E8%90%A8%C2%B7%E9%87%8C%E5%A7%BF%E8%8E%B1%E5%B8%8C%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6-FSN/confused.png"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/尤斯缇萨·里姿莱希·冯·爱因兹贝伦-FSN/happy.png",
+          "sha256": "9f04ddff7fd1eed1ffdd466b30d8c61fc1506a8b46d0bfe3ec92d57aa0071b44",
+          "width": 512,
+          "height": 512,
+          "bytes": 270756
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/尤斯缇萨·里姿莱希·冯·爱因兹贝伦-FSN/angry.png",
+          "sha256": "d16f699b53a262d96861c040696ad538b41a3c1e1b9151da9a8aebf41fe878e6",
+          "width": 512,
+          "height": 512,
+          "bytes": 273320
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/尤斯缇萨·里姿莱希·冯·爱因兹贝伦-FSN/sad.png",
+          "sha256": "d05ab2fd1c8841be135114c72fa3c581e6e9285df17dc47b07d093990e5ec4df",
+          "width": 512,
+          "height": 512,
+          "bytes": 274018
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/尤斯缇萨·里姿莱希·冯·爱因兹贝伦-FSN/laugh.png",
+          "sha256": "2689c333797a84025ce8c4eba93d9eee4b8e354f456bc811ae26baf3b07d0917",
+          "width": 512,
+          "height": 512,
+          "bytes": 272046
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/尤斯缇萨·里姿莱希·冯·爱因兹贝伦-FSN/neutral.png",
+          "sha256": "cede335c973f6e79d7d21c1168213ed3abeff99d3d063ab47d814a25f5c44d0e",
+          "width": 512,
+          "height": 512,
+          "bytes": 271720
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/尤斯缇萨·里姿莱希·冯·爱因兹贝伦-FSN/confused.png",
+          "sha256": "25611f968aaefada225ea1f68b271f00eafc9a5498cad0c8ed94bb2ff455ca21",
+          "width": 512,
+          "height": 512,
+          "bytes": 272283
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/尤斯缇萨·里姿莱希·冯·爱因兹贝伦-FSN/avatars.webp",
+          "sha256": "18ee5a83d0ce9a43333e44c44e0e5446185cd7d900c3cb440a9ab0e3decc236f",
+          "width": 768,
+          "height": 128,
+          "bytes": 139024
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/尤斯缇萨·里姿莱希·冯·爱因兹贝伦-FSN/portraits.webp",
+          "sha256": "189cfc8578f1c598cc2d09b20d910d02dd45682d3f7f7c3d2dc2594b7a7fb6df",
+          "width": 3072,
+          "height": 384,
+          "bytes": 644916
+        }
+      ]
+    },
+    {
+      "key": "基修亚·泽尔里奇·修拜因奥古-FSN",
+      "name": "基修亚·泽尔里奇·修拜因奥古",
+      "work": "FSN",
+      "kind": "six-separate-generated-anime-reference",
+      "sourceWork": "FSN",
+      "appearance": "参照HF III官方联动徽章的后梳白发、窄红眼、下颌短白须与无须上唇；暗红外衣黑高领。资料对比后逐张重绘，思索为双眉紧皱。",
+      "assetRef": "d3040a82bbd8372f023be19839573bb1319da82a",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%9F%BA%E4%BF%AE%E4%BA%9A%C2%B7%E6%B3%BD%E5%B0%94%E9%87%8C%E5%A5%87%C2%B7%E4%BF%AE%E6%8B%9C%E5%9B%A0%E5%A5%A5%E5%8F%A4-FSN/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%9F%BA%E4%BF%AE%E4%BA%9A%C2%B7%E6%B3%BD%E5%B0%94%E9%87%8C%E5%A5%87%C2%B7%E4%BF%AE%E6%8B%9C%E5%9B%A0%E5%A5%A5%E5%8F%A4-FSN/portraits.webp",
+      "acceptance": {
+        "status": "self-reviewed-awaiting-user",
+        "date": "2026-10-21",
+        "finalUserOverviewPending": true,
+        "userAccepted": false,
+        "rootAndIndependentReviewPassed": true,
+        "generationMethod": "six-separate-imagegen-calls",
+        "assetSetSHA256": "e7c2110fcf238e1e7c55ed152d0e33eda782bca37f662c1b2a404bedb0993795",
+        "sourceImagesSHA256": {
+          "happy": "277036a63cdd025f3b2b0b3b11b1ca21a2144ad3ae6d08f510e07bacb39d6a64",
+          "angry": "e2d16cd57b66d0a7cd48085dd5fb3c9d4a213b823ff935738360a67907bcf135",
+          "sad": "b21cdcc421ba77a0ce1ef2652f4328696904c7b98c4682cc70767bae7eea777f",
+          "laugh": "6e472e609e5c0ad3d6d66f94aecf242af54d3c6afab57571bffb8df61e3cfffd",
+          "neutral": "30c8b2bfa6cf0b8271585a166bcc56559b4a799978bddaf94835351ec28f46aa",
+          "confused": "4191ec8c97f0f8aa22dc1de0e2c7575a14c25db7bff47c7efcbb9bbb9da9b00d"
+        },
+        "sourceImagesHashScope": "published-512x512-transparent-pngs"
+      },
+      "provenance": [
+        {
+          "url": "https://www.suruga-ya.jp/product/detail/871761400",
+          "role": "HF III ufotable授权周边商品实拍：脸部、发型、胡须、衣领主参考；非制作方原始PNG"
+        },
+        {
+          "url": "https://www.bilibili.com/video/BV1pf4y1W7P1/",
+          "role": "高可信HF场景参考：正面与暗红衣装；未核对正片时间码"
+        },
+        {
+          "url": "https://www.zerochan.net/1090232",
+          "role": "传统TYPE-MOON人物插图转载，仅身份辅助，不采用其绿色衣装；未确认原出版页码"
+        }
+      ],
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%",
+          "file": "characters/基修亚·泽尔里奇·修拜因奥古-FSN/happy.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%9F%BA%E4%BF%AE%E4%BA%9A%C2%B7%E6%B3%BD%E5%B0%94%E9%87%8C%E5%A5%87%C2%B7%E4%BF%AE%E6%8B%9C%E5%9B%A0%E5%A5%A5%E5%8F%A4-FSN/happy.png"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%",
+          "file": "characters/基修亚·泽尔里奇·修拜因奥古-FSN/angry.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%9F%BA%E4%BF%AE%E4%BA%9A%C2%B7%E6%B3%BD%E5%B0%94%E9%87%8C%E5%A5%87%C2%B7%E4%BF%AE%E6%8B%9C%E5%9B%A0%E5%A5%A5%E5%8F%A4-FSN/angry.png"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%",
+          "file": "characters/基修亚·泽尔里奇·修拜因奥古-FSN/sad.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%9F%BA%E4%BF%AE%E4%BA%9A%C2%B7%E6%B3%BD%E5%B0%94%E9%87%8C%E5%A5%87%C2%B7%E4%BF%AE%E6%8B%9C%E5%9B%A0%E5%A5%A5%E5%8F%A4-FSN/sad.png"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%",
+          "file": "characters/基修亚·泽尔里奇·修拜因奥古-FSN/laugh.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%9F%BA%E4%BF%AE%E4%BA%9A%C2%B7%E6%B3%BD%E5%B0%94%E9%87%8C%E5%A5%87%C2%B7%E4%BF%AE%E6%8B%9C%E5%9B%A0%E5%A5%A5%E5%8F%A4-FSN/laugh.png"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%",
+          "file": "characters/基修亚·泽尔里奇·修拜因奥古-FSN/neutral.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%9F%BA%E4%BF%AE%E4%BA%9A%C2%B7%E6%B3%BD%E5%B0%94%E9%87%8C%E5%A5%87%C2%B7%E4%BF%AE%E6%8B%9C%E5%9B%A0%E5%A5%A5%E5%8F%A4-FSN/neutral.png"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%",
+          "file": "characters/基修亚·泽尔里奇·修拜因奥古-FSN/confused.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/d3040a82bbd8372f023be19839573bb1319da82a/dialogue-avatars/v2/characters/%E5%9F%BA%E4%BF%AE%E4%BA%9A%C2%B7%E6%B3%BD%E5%B0%94%E9%87%8C%E5%A5%87%C2%B7%E4%BF%AE%E6%8B%9C%E5%9B%A0%E5%A5%A5%E5%8F%A4-FSN/confused.png"
+        }
+      ],
+      "files": [
+        {
+          "path": "dialogue-avatars/v2/characters/基修亚·泽尔里奇·修拜因奥古-FSN/happy.png",
+          "sha256": "277036a63cdd025f3b2b0b3b11b1ca21a2144ad3ae6d08f510e07bacb39d6a64",
+          "width": 512,
+          "height": 512,
+          "bytes": 247350
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/基修亚·泽尔里奇·修拜因奥古-FSN/angry.png",
+          "sha256": "e2d16cd57b66d0a7cd48085dd5fb3c9d4a213b823ff935738360a67907bcf135",
+          "width": 512,
+          "height": 512,
+          "bytes": 244367
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/基修亚·泽尔里奇·修拜因奥古-FSN/sad.png",
+          "sha256": "b21cdcc421ba77a0ce1ef2652f4328696904c7b98c4682cc70767bae7eea777f",
+          "width": 512,
+          "height": 512,
+          "bytes": 243929
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/基修亚·泽尔里奇·修拜因奥古-FSN/laugh.png",
+          "sha256": "6e472e609e5c0ad3d6d66f94aecf242af54d3c6afab57571bffb8df61e3cfffd",
+          "width": 512,
+          "height": 512,
+          "bytes": 249046
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/基修亚·泽尔里奇·修拜因奥古-FSN/neutral.png",
+          "sha256": "30c8b2bfa6cf0b8271585a166bcc56559b4a799978bddaf94835351ec28f46aa",
+          "width": 512,
+          "height": 512,
+          "bytes": 244220
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/基修亚·泽尔里奇·修拜因奥古-FSN/confused.png",
+          "sha256": "4191ec8c97f0f8aa22dc1de0e2c7575a14c25db7bff47c7efcbb9bbb9da9b00d",
+          "width": 512,
+          "height": 512,
+          "bytes": 250253
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/基修亚·泽尔里奇·修拜因奥古-FSN/avatars.webp",
+          "sha256": "35aa0ef5d3869e5ddb5a8af11d1199a1bfb535699f221d5529b9ab79f37c17a7",
+          "width": 768,
+          "height": 128,
+          "bytes": 131046
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/基修亚·泽尔里奇·修拜因奥古-FSN/portraits.webp",
+          "sha256": "bd45f22c59fb3231f13353a238c3f4302c8303ca2dc72cd51b38fdb1014a9db0",
+          "width": 3072,
+          "height": 384,
+          "bytes": 579570
+        }
+      ]
+    },
+    {
+      "key": "爱丽丝菲尔·冯·爱因兹贝伦-FSN",
+      "name": "爱丽丝菲尔·冯·爱因兹贝伦",
+      "work": "FSN",
+      "kind": "reuse-existing-fz-assets",
+      "sourceWork": "FZ",
+      "reusedFrom": "爱丽丝菲尔·冯·爱因兹贝伦-FZ",
+      "assetFolderKey": "爱丽丝菲尔·冯·爱因兹贝伦-FZ",
+      "assetRef": "0e28a7f27af7706acaeda4875ecc94895ca1be1e",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E7%88%B1%E4%B8%BD%E4%B8%9D%E8%8F%B2%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E7%88%B1%E4%B8%BD%E4%B8%9D%E8%8F%B2%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6-FZ/portraits.webp",
+      "appearance": "复用同年代 FZ 已有形象；不另制图、不改变服装或年龄",
+      "reuseApprovedByUser": true,
+      "acceptance": {
+        "status": "reused-source-awaiting-fsn-user-overview",
+        "date": "2026-10-21",
+        "userAccepted": false,
+        "finalUserOverviewPending": true,
+        "reuseApprovedByUser": true,
+        "sourceAcceptance": {
+          "status": "accepted-under-user-delegated-review",
+          "date": "2026-10-21",
+          "sourceSheetSHA256": "c0e52312bd6c4cee39637ced73a108209f22f0874a3d71eafcf4c0c23a4522f2",
+          "finalUserOverviewPending": true,
+          "rootAndIndependentReviewPassed": true
+        },
+        "note": "用户同意复用已有素材；源作品验收信息完整保留，FSN登记仍待最终总览验收，不新增用户明确通过计数。"
+      },
+      "provenance": {
+        "reuseMode": "immutable-url-alias-no-copy",
+        "sourceKey": "爱丽丝菲尔·冯·爱因兹贝伦-FZ",
+        "sourceWork": "FZ",
+        "originalProvenance": null
+      },
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%",
+          "file": "characters/爱丽丝菲尔·冯·爱因兹贝伦-FZ/happy.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E7%88%B1%E4%B8%BD%E4%B8%9D%E8%8F%B2%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6-FZ/happy.png"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%",
+          "file": "characters/爱丽丝菲尔·冯·爱因兹贝伦-FZ/angry.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E7%88%B1%E4%B8%BD%E4%B8%9D%E8%8F%B2%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6-FZ/angry.png"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%",
+          "file": "characters/爱丽丝菲尔·冯·爱因兹贝伦-FZ/sad.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E7%88%B1%E4%B8%BD%E4%B8%9D%E8%8F%B2%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6-FZ/sad.png"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%",
+          "file": "characters/爱丽丝菲尔·冯·爱因兹贝伦-FZ/laugh.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E7%88%B1%E4%B8%BD%E4%B8%9D%E8%8F%B2%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6-FZ/laugh.png"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%",
+          "file": "characters/爱丽丝菲尔·冯·爱因兹贝伦-FZ/neutral.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E7%88%B1%E4%B8%BD%E4%B8%9D%E8%8F%B2%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6-FZ/neutral.png"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%",
+          "file": "characters/爱丽丝菲尔·冯·爱因兹贝伦-FZ/confused.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E7%88%B1%E4%B8%BD%E4%B8%9D%E8%8F%B2%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6-FZ/confused.png"
+        }
+      ],
+      "files": [],
+      "sourceFiles": [
+        {
+          "path": "dialogue-avatars/v2/characters/爱丽丝菲尔·冯·爱因兹贝伦-FZ/avatars.webp",
+          "sha256": "4b6169bded66afd98a07999221122d4483714ed515c923c08469662720c09bc4",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/爱丽丝菲尔·冯·爱因兹贝伦-FZ/portraits.webp",
+          "sha256": "a17084c0e98716aa44c534eb02834bb03b1157985a702e893adca377f6df5ab3",
+          "width": 3072,
+          "height": 384
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/爱丽丝菲尔·冯·爱因兹贝伦-FZ/happy.png",
+          "sha256": "67850968b46e4f54b9bc7df2f5b9981dbac148a6044862a52056bd61ecce85b8",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/爱丽丝菲尔·冯·爱因兹贝伦-FZ/angry.png",
+          "sha256": "d6253ece315b9ec1fe71b93535a73abbeec762f7ded2f57dd79f302db558b2d2",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/爱丽丝菲尔·冯·爱因兹贝伦-FZ/sad.png",
+          "sha256": "13c1e4f4e23d5fba44cbf3c4ee2b648bcf16137f51e694f8d083d302c71615d5",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/爱丽丝菲尔·冯·爱因兹贝伦-FZ/laugh.png",
+          "sha256": "0ae2df8749e553f27ea36b27432f29aa1e7940b4af26c057d21e2a4665d52470",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/爱丽丝菲尔·冯·爱因兹贝伦-FZ/neutral.png",
+          "sha256": "829bca562373276d751d8f85caed1edd93bbb18ff160927d1dc360edd804e664",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/爱丽丝菲尔·冯·爱因兹贝伦-FZ/confused.png",
+          "sha256": "b112dc81fc11e698aa18adb98f280e25444c5b8de53c1fe36c354e148772640a",
+          "width": 512,
+          "height": 512
+        }
+      ]
+    },
+    {
+      "key": "远坂时臣-FSN",
+      "name": "远坂时臣",
+      "work": "FSN",
+      "kind": "reuse-existing-fz-assets",
+      "sourceWork": "FZ",
+      "reusedFrom": "远坂时臣-FZ",
+      "assetFolderKey": "远坂时臣-FZ",
+      "assetRef": "0e28a7f27af7706acaeda4875ecc94895ca1be1e",
+      "avatarURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E8%BF%9C%E5%9D%82%E6%97%B6%E8%87%A3-FZ/avatars.webp",
+      "portraitURL": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E8%BF%9C%E5%9D%82%E6%97%B6%E8%87%A3-FZ/portraits.webp",
+      "appearance": "复用同年代 FZ 已有形象；不另制图、不改变服装或年龄",
+      "reuseApprovedByUser": true,
+      "acceptance": {
+        "status": "reused-source-awaiting-fsn-user-overview",
+        "date": "2026-10-21",
+        "userAccepted": false,
+        "finalUserOverviewPending": true,
+        "reuseApprovedByUser": true,
+        "sourceAcceptance": {
+          "status": "explicitly-accepted-by-user",
+          "date": "2026-10-20",
+          "sourceSheetSHA256": "d3ab778cc5558811d1148c89bbc46d802f50c1cd35e3f040636d2392d0ec1825"
+        },
+        "note": "用户同意复用已有素材；源作品验收信息完整保留，FSN登记仍待最终总览验收，不新增用户明确通过计数。"
+      },
+      "provenance": {
+        "reuseMode": "immutable-url-alias-no-copy",
+        "sourceKey": "远坂时臣-FZ",
+        "sourceWork": "FZ",
+        "originalProvenance": null
+      },
+      "expressions": [
+        {
+          "name": "happy",
+          "frame": 0,
+          "position": "0%",
+          "file": "characters/远坂时臣-FZ/happy.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E8%BF%9C%E5%9D%82%E6%97%B6%E8%87%A3-FZ/happy.png"
+        },
+        {
+          "name": "angry",
+          "frame": 1,
+          "position": "20%",
+          "file": "characters/远坂时臣-FZ/angry.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E8%BF%9C%E5%9D%82%E6%97%B6%E8%87%A3-FZ/angry.png"
+        },
+        {
+          "name": "sad",
+          "frame": 2,
+          "position": "40%",
+          "file": "characters/远坂时臣-FZ/sad.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E8%BF%9C%E5%9D%82%E6%97%B6%E8%87%A3-FZ/sad.png"
+        },
+        {
+          "name": "laugh",
+          "frame": 3,
+          "position": "60%",
+          "file": "characters/远坂时臣-FZ/laugh.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E8%BF%9C%E5%9D%82%E6%97%B6%E8%87%A3-FZ/laugh.png"
+        },
+        {
+          "name": "neutral",
+          "frame": 4,
+          "position": "80%",
+          "file": "characters/远坂时臣-FZ/neutral.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E8%BF%9C%E5%9D%82%E6%97%B6%E8%87%A3-FZ/neutral.png"
+        },
+        {
+          "name": "confused",
+          "frame": 5,
+          "position": "100%",
+          "file": "characters/远坂时臣-FZ/confused.png",
+          "url": "https://raw.githubusercontent.com/lix14031-arch/TypeMoon/0e28a7f27af7706acaeda4875ecc94895ca1be1e/dialogue-avatars/v2/characters/%E8%BF%9C%E5%9D%82%E6%97%B6%E8%87%A3-FZ/confused.png"
+        }
+      ],
+      "files": [],
+      "sourceFiles": [
+        {
+          "path": "dialogue-avatars/v2/characters/远坂时臣-FZ/avatars.webp",
+          "sha256": "7c1d8bbb92660f5817621db2210d04386760bf0887e7f126c56c2c2ed6dd0ad2",
+          "width": 768,
+          "height": 128
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/远坂时臣-FZ/portraits.webp",
+          "sha256": "2818cd1521fc5a7fe5c4d32b6d8239912a4c954fa63025b138b58828bfc00123",
+          "width": 3072,
+          "height": 384
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/远坂时臣-FZ/happy.png",
+          "sha256": "434dddd3972bdf233c22918d437d4a3569536cb717cfce861dbfcd8792673eb5",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/远坂时臣-FZ/angry.png",
+          "sha256": "0f9b2d35cdb68d6e5e8c17641a928da5686408ca605a3613a52153e540dd01db",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/远坂时臣-FZ/sad.png",
+          "sha256": "871a1183cbe6b395c4af5303b28b9dd61070104ef7f1cfda125c274e0d84c803",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/远坂时臣-FZ/laugh.png",
+          "sha256": "ab0bd6466ffab9d39d249819d14a888b7e77de934ea1b67bbe301723c7dd9d88",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/远坂时臣-FZ/neutral.png",
+          "sha256": "b19abea6e1f08c2fb2e475179711d0c8c29cd61dcc1765c24f764bcf8f7b6fdf",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "dialogue-avatars/v2/characters/远坂时臣-FZ/confused.png",
+          "sha256": "625387350da40fcb03938b5a03c38c4a89de31baa82c47e420fcbc9e98885b22",
+          "width": 512,
+          "height": 512
+        }
+      ]
     }
-  ]
+  ],
+  "workPhaseStatus": {
+    "FSN": {
+      "status": "completed-awaiting-user",
+      "phase": "selected-scope-complete",
+      "completedAt": "2026-10-21T10:10:38.565Z",
+      "selectedKeys": [
+        "卫宫士郎-FSN",
+        "阿尔托莉雅·潘德拉贡-FSN",
+        "远坂凛-FSN",
+        "间桐樱-FSN",
+        "卫宫（弓兵）-FSN",
+        "库·丘林-FSN",
+        "美杜莎-FSN",
+        "伊莉雅丝菲尔·冯·爱因兹贝伦-FSN",
+        "赫拉克勒斯-FSN",
+        "美狄亚-FSN",
+        "葛木宗一郎-FSN",
+        "佐佐木小次郎-FSN",
+        "咒腕哈桑-FSN",
+        "吉尔伽美什-FSN",
+        "言峰绮礼-FSN",
+        "间桐慎二-FSN",
+        "间桐脏砚-FSN",
+        "藤村大河-FSN",
+        "柳洞一成-FSN",
+        "美缀绫子-FSN",
+        "塞拉-FSN",
+        "莉洁莉特-FSN",
+        "卫宫切嗣-FSN",
+        "冰室钟-FSN",
+        "阿特拉姆·加里阿斯塔-FSN",
+        "露维亚瑟琳塔·艾德费尔特-FSN",
+        "埃尔梅罗Ⅱ世-FSN",
+        "尤斯缇萨·里姿莱希·冯·爱因兹贝伦-FSN",
+        "基修亚·泽尔里奇·修拜因奥古-FSN",
+        "苍崎橙子-FSN",
+        "爱丽丝菲尔·冯·爱因兹贝伦-FSN",
+        "远坂时臣-FSN"
+      ],
+      "deferredKeys": [
+        "莳寺枫-FSN",
+        "三枝由纪香-FSN",
+        "后藤劾以-FSN",
+        "高桥和梦-FSN",
+        "远坂永人-FSN",
+        "克劳蒂亚·奥尔黛西亚-FSN",
+        "贝狄威尔-FSN",
+        "莫德雷德-FSN",
+        "萤塚音子-FSN",
+        "柳洞零观-FSN",
+        "美缀实典-FSN",
+        "梅林-FSN",
+        "藤村雷画-FSN"
+      ],
+      "uniqueSets": 30,
+      "reusedSets": 2,
+      "registeredSets": 32,
+      "ordinaryExpressionSlots": 192,
+      "uniqueOrdinaryExpressionAssets": 180,
+      "reusedExpressionSlots": 12,
+      "additionalStateCount": 1,
+      "finalUserOverviewPending": true,
+      "userAccepted": false,
+      "automaticProductionStopped": true,
+      "fullRosterCoverageClaimed": false,
+      "deferredReason": "用户指定本阶段收尾范围，名录其余13人暂缓；不会自动继续制作。",
+      "reusePairs": [
+        {
+          "key": "爱丽丝菲尔·冯·爱因兹贝伦-FSN",
+          "reusedFrom": "爱丽丝菲尔·冯·爱因兹贝伦-FZ",
+          "reuseApprovedByUser": true
+        },
+        {
+          "key": "远坂时臣-FSN",
+          "reusedFrom": "远坂时臣-FZ",
+          "reuseApprovedByUser": true
+        }
+      ]
+    }
+  }
 }
