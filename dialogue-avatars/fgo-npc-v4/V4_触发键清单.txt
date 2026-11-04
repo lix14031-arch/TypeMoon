@@ -1,0 +1,404 @@
+V4 新增外观组：131；新增组键：608；已有图鉴复用新增键：12
+每组2–6键。英文大小写自动兼容，不作额外枚举。独立形态不占用本体通用键。
+
+贝里尔·伽特（六情绪槽，6张独立原图）
+贝里尔·伽特-FGO ｜ 贝里尔-FGO ｜ 贝里尔・伽特-FGO ｜ 贝里尔-伽特-FGO
+
+迦勒底之人（六情绪槽，6张独立原图）
+迦勒底之人-FGO ｜ 迦勒底的人-FGO ｜ 迦勒底人-FGO ｜ 迦勒底之人-罗曼-FGO
+
+戴比特·泽姆·沃伊德（六情绪槽，6张独立原图）
+戴比特·泽姆·沃伊德-FGO ｜ 戴比特-FGO ｜ 戴比特·沃伊德-FGO ｜ 戴比特・泽姆・沃伊德-FGO
+
+达斯顿（六情绪槽，4张独立原图）
+达斯顿-FGO ｜ 达斯汀-FGO ｜ 迦勒底职员达斯顿-FGO
+
+戈尔德鲁夫·穆吉克（六情绪槽，6张独立原图）
+戈尔德鲁夫·穆吉克-FGO ｜ 戈尔德鲁夫-FGO ｜ 新所长-FGO ｜ 胖所长-FGO ｜ 戈尔德鲁夫·穆吉克-所长-FGO ｜ 戈尔德鲁夫・穆吉克-FGO
+
+卡多克·泽姆露普斯（六情绪槽，6张独立原图）
+卡多克·泽姆露普斯-FGO ｜ 卡多克-FGO ｜ 卡多克·泽姆卢普斯-FGO ｜ 卡多克・泽姆露普斯-FGO
+
+基尔什塔利亚·沃戴姆（六情绪槽，6张独立原图）
+基尔什塔利亚·沃戴姆-FGO ｜ 基尔什塔利亚-FGO ｜ 沃戴姆-FGO ｜ 队长-FGO ｜ 基尔什塔利亚・沃戴姆-FGO ｜ 基尔什塔利亚·沃达姆-FGO
+
+金格尔·阿贝尔·穆尼尔（六情绪槽，6张独立原图）
+金格尔·阿贝尔·穆尼尔-FGO ｜ 穆尼尔-FGO ｜ 穆尼埃尔-FGO ｜ 穆尼耶尔-FGO ｜ 金格尔·阿贝尔·穆尼埃尔-FGO ｜ 穆尼尔-迦勒底职员-FGO
+
+尼莫烘焙坊（六情绪槽，6张独立原图）
+尼莫烘焙坊-FGO ｜ 尼莫面包师-FGO ｜ 尼莫烘焙师-FGO ｜ 尼莫-烘焙坊-FGO ｜ 尼莫烘焙坊-Rider-FGO ｜ 尼莫-Rider-烘焙坊-FGO
+
+尼莫引擎（六情绪槽，6张独立原图）
+尼莫引擎-FGO ｜ 尼莫轮机长-FGO ｜ 尼莫工程师-FGO ｜ 尼莫-引擎-FGO ｜ 尼莫引擎-Rider-FGO ｜ 尼莫-Rider-引擎-FGO
+
+尼莫水兵（六情绪槽，6张独立原图）
+尼莫水兵-FGO ｜ 尼莫水手-FGO ｜ 尼莫海兵-FGO ｜ 尼莫-水兵-FGO ｜ 尼莫水兵-Rider-FGO ｜ 尼莫-Rider-水兵-FGO
+
+尼莫护士（六情绪槽，6张独立原图）
+尼莫护士-FGO ｜ 尼莫护理-FGO ｜ 尼莫-护士-FGO ｜ 尼莫护士-Rider-FGO ｜ 尼莫-Rider-护士-FGO
+
+尼莫教授（六情绪槽，6张独立原图）
+尼莫教授-FGO ｜ 尼莫博士-FGO ｜ 尼莫-教授-FGO ｜ 尼莫教授-Rider-FGO ｜ 尼莫-Rider-教授-FGO
+
+奥菲莉娅·法姆索罗涅（六情绪槽，6张独立原图）
+奥菲莉娅·法姆索罗涅-FGO ｜ 奥菲莉娅-FGO ｜ 奥菲莉亚-FGO ｜ 奥菲莉亚·法姆索罗涅-FGO ｜ 奥菲莉娅・法姆索罗涅-FGO
+
+斯堪的纳维亚·佩佩隆奇诺（六情绪槽，6张独立原图）
+斯堪的纳维亚·佩佩隆奇诺-FGO ｜ 佩佩隆奇诺-FGO ｜ 佩佩-FGO ｜ 佩佩隆奇诺-隐匿者-FGO ｜ 斯堪的纳维亚・佩佩隆奇诺-FGO
+
+异星巫女（六情绪槽，6张独立原图）
+异星巫女-FGO ｜ 异星的巫女-FGO ｜ 异星神巫女-FGO ｜ 巫女-FGO
+
+希翁·艾尔特纳姆·索卡里斯（六情绪槽，6张独立原图）
+希翁·艾尔特纳姆·索卡里斯-FGO ｜ 希翁-FGO ｜ 希翁·艾尔特纳姆-FGO ｜ 紫苑·艾尔特纳姆·索卡里斯-FGO ｜ 紫苑-FGO ｜ 希翁・艾尔特纳姆・索卡里斯-FGO
+
+西尔维亚（六情绪槽，4张独立原图）
+西尔维亚-FGO ｜ 西尔薇娅-FGO ｜ 希尔维亚-FGO ｜ 迦勒底职员西尔维亚-FGO
+
+阿黛勒（六情绪槽，6张独立原图）
+阿黛勒-FGO ｜ 阿黛尔-FGO ｜ 阿黛蕾-FGO
+
+阿贾伊（六情绪槽，5张独立原图）
+阿贾伊-FGO ｜ 阿杰-FGO ｜ 阿贾依-FGO
+
+阿佛洛狄忒（六情绪槽，6张独立原图）
+阿佛洛狄忒-FGO ｜ 阿芙洛狄忒-FGO ｜ 阿佛洛狄忒-Assassin-FGO ｜ 阿芙洛狄忒-Assassin-FGO ｜ 爱神阿佛洛狄忒-FGO ｜ 阿佛洛狄忒-人形-FGO
+
+机神阿佛洛狄忒（单图）
+机神阿佛洛狄忒-FGO ｜ 机神阿芙洛狄忒-FGO ｜ 机神阿佛洛狄忒-Assassin-FGO ｜ 机神阿芙洛狄忒-Assassin-FGO ｜ 阿佛洛狄忒-Assassin-机神-FGO ｜ 阿佛洛狄忒-机神-FGO
+
+阿波罗（单图）
+阿波罗-FGO ｜ 阿波罗-羊-FGO ｜ 阿波罗-绵羊-FGO ｜ 羊阿波罗-FGO
+
+机神阿瑞斯（单图）
+机神阿瑞斯-FGO ｜ 阿瑞斯-FGO ｜ 战神阿瑞斯-FGO ｜ 阿瑞斯-机神-FGO
+
+机神阿尔忒弥斯（单图）
+机神阿尔忒弥斯-FGO ｜ 机神阿耳忒弥斯-FGO ｜ 机神阿尔忒弥斯-Archer-FGO ｜ 阿尔忒弥斯-Archer-机神-FGO ｜ 阿尔忒弥斯-机神-FGO ｜ 阿耳忒弥斯-机神-FGO
+
+阿尔忒弥斯-投影（六情绪槽，2张独立原图）
+阿尔忒弥斯-投影-FGO ｜ 阿尔忒弥斯-Archer-投影-FGO ｜ 阿尔忒弥斯-人形-FGO ｜ 阿尔忒弥斯-Archer-人形终端-FGO ｜ 阿耳忒弥斯-投影-FGO ｜ 阿尔忒弥斯-遮眼投影-FGO
+
+阿莎（六情绪槽，6张独立原图）
+阿莎-FGO ｜ 阿夏-FGO ｜ 阿舍-FGO
+
+村中少年（六情绪槽，6张独立原图）
+村中少年-FGO ｜ 秦之少年-FGO ｜ 少年-秦-FGO ｜ 村中少年-秦-FGO
+
+卡俄斯（单图）
+卡俄斯-FGO ｜ 卡奥斯-FGO ｜ 混沌之神卡俄斯-FGO ｜ 卡俄斯-机神-FGO
+
+机神德墨忒尔（单图）
+机神德墨忒尔-FGO ｜ 德墨忒尔-机神-FGO ｜ 机神德墨忒尔-Caster-FGO ｜ 德墨忒尔-Caster-机神-FGO ｜ 机神得墨忒耳-FGO ｜ 得墨忒耳-机神-FGO
+
+农场监工（六情绪槽，4张独立原图）
+农场监工-FGO ｜ 农场管理者-FGO ｜ 监工-农场-FGO
+
+格尔达（六情绪槽，6张独立原图）
+格尔达-FGO ｜ 格尔妲-FGO ｜ 格尔达-第23村落-FGO
+
+韩信（六情绪槽，6张独立原图）
+韩信-FGO ｜ 韩信-军师-FGO ｜ 韩信-秦-FGO
+
+赫淮斯托斯（单图）
+赫淮斯托斯-FGO ｜ 赫菲斯托斯-FGO ｜ 赫淮斯托斯-机神-FGO ｜ 赫菲斯托斯-机神-FGO ｜ 锻造之神赫淮斯托斯-FGO
+
+马卡里俄斯（六情绪槽，6张独立原图）
+马卡里俄斯-FGO ｜ 马卡里奥斯-FGO ｜ 玛卡里俄斯-FGO ｜ 马卡里欧斯-FGO
+
+藤原道长（六情绪槽，6张独立原图）
+藤原道长-FGO ｜ 道长-FGO ｜ 藤原道长-平安京-FGO
+
+密涅瓦（单图）
+密涅瓦-FGO ｜ 米涅瓦-FGO ｜ 弥涅瓦-FGO
+
+弥诺陶洛斯-Berserker（六情绪槽，5张独立原图）
+弥诺陶洛斯-Berserker-FGO ｜ 弥诺陶洛斯-FGO ｜ 米诺陶洛斯-Berserker-FGO ｜ 米诺陶洛斯-FGO ｜ 弥诺陶洛斯（Berserker）-FGO ｜ 弥诺陶洛斯-Berserker-异闻带-FGO
+
+哪吒-Berserker（六情绪槽，5张独立原图）
+哪吒-Berserker-FGO ｜ 哪吒-Berserker-神将-FGO ｜ 神将哪吒-Berserker-FGO ｜ 神将哪吒-FGO ｜ 哪吒-Berserker-异闻带-FGO ｜ 哪吒（Berserker）-FGO
+
+异闻带奥德修斯-Rider（单图）
+异闻带奥德修斯-Rider-FGO ｜ 异闻带奥德修斯-FGO ｜ 奥德修斯-Rider-异闻带-FGO ｜ 奥德修斯-异闻带-FGO ｜ 异闻带奥德修斯（Rider）-FGO ｜ 奥德修斯-Rider-面甲-FGO
+
+帕茨西（六情绪槽，5张独立原图）
+帕茨西-FGO ｜ 帕兹西-FGO ｜ 帕茨希-FGO ｜ 帕茨西-雅嘎-FGO
+
+波塞冬（单图）
+波塞冬-FGO ｜ 机神波塞冬-FGO ｜ 波塞冬-核心-FGO ｜ 波塞冬-机神-FGO ｜ 海神波塞冬-FGO
+
+Prakash（六情绪槽，5张独立原图）
+Prakash-FGO ｜ 镇长-由伽·刹多罗-FGO ｜ 普拉卡什-FGO ｜ 镇长-印度异闻带-FGO
+
+普罗米修斯·赫菲斯托斯（单图）
+普罗米修斯·赫菲斯托斯-FGO ｜ 普罗米修斯·赫淮斯托斯-FGO ｜ 普罗米修斯-赫菲斯托斯-FGO ｜ 普罗米修斯·赫菲斯托斯-机神-FGO
+
+机械始皇帝（单图）
+机械始皇帝-FGO ｜ 始皇帝-机械-FGO ｜ 始皇帝-Ruler-机械-FGO ｜ 机械始皇帝-Ruler-FGO ｜ 始皇帝-圣躯-FGO ｜ 始皇帝-Ruler-圣躯-FGO
+
+超级迦尔纳-Lancer（六情绪槽，6张独立原图）
+超级迦尔纳-Lancer-FGO ｜ 超级迦尔纳-FGO ｜ 超迦尔纳-Lancer-FGO ｜ 超迦尔纳-FGO ｜ 迦尔纳-Lancer-超级-FGO ｜ 迦尔纳-超级-FGO
+
+苏鲁特（单图）
+苏鲁特-FGO ｜ 苏尔特-FGO ｜ 苏鲁特-巨人-FGO ｜ 苏鲁特-Saber-巨人-FGO ｜ 巨人苏鲁特-FGO ｜ 苏鲁特-Saber-FGO
+
+苏鲁特-Saber-齐格鲁德（单图）
+苏鲁特-Saber-齐格鲁德-FGO ｜ 苏鲁特-齐格鲁德-FGO ｜ 齐格鲁德-Saber-苏鲁特-FGO ｜ 苏鲁特-附身齐格鲁德-FGO ｜ 苏鲁特（附身齐格鲁德）-Saber-FGO ｜ 苏鲁特-Saber-附身齐格鲁德-FGO
+
+蒂米（六情绪槽，5张独立原图）
+蒂米-FGO ｜ 提米-FGO ｜ 提米-亚特兰蒂斯-FGO
+
+维哈（单图）
+维哈-FGO ｜ 维汉-FGO ｜ 维哈-由伽·刹多罗-FGO
+
+宙斯（六情绪槽，5张独立原图）
+宙斯-FGO ｜ 宙斯-Ruler-FGO ｜ 全能神宙斯-FGO ｜ 全能神王宙斯-FGO ｜ 宙斯（Ruler）-FGO ｜ 宙斯-人形-FGO
+
+机神宙斯（单图）
+机神宙斯-FGO ｜ 机神宙斯-Ruler-FGO ｜ 宙斯-机神-FGO ｜ 宙斯-Ruler-机神-FGO ｜ 机神宙斯（Ruler）-FGO ｜ 宙斯-真体-FGO
+
+阿布萨隆·维特利（单图）
+阿布萨隆·维特利-FGO ｜ 阿布萨隆-FGO ｜ 阿布萨隆·惠特利-FGO ｜ 阿比盖尔的父亲-FGO
+
+阿尔托莉雅〔Alter〕-Saber-新宿（六情绪槽，5张独立原图）
+阿尔托莉雅〔Alter〕-Saber-新宿-FGO ｜ 阿尔托莉雅Alter-Saber-新宿-FGO ｜ 阿尔托莉雅-Saber-新宿便服-FGO ｜ 黑呆-Saber-新宿-FGO ｜ 黑呆-新宿-FGO ｜ 阿尔托莉雅〔Alter〕-Saber-新宿便服-FGO
+
+天草四郎-Avenger（六情绪槽，5张独立原图）
+天草四郎-Avenger-FGO ｜ 妖术师天草四郎-Avenger-FGO ｜ 妖术师天草四郎-FGO ｜ 天草四郎（Avenger）-FGO ｜ 天草四郎时贞-Avenger-FGO ｜ 天草四郎-Avenger-妖术师-FGO
+
+阿诺尔德·贝克曼（六情绪槽，2张独立原图）
+阿诺尔德·贝克曼-FGO ｜ 阿诺尔德-FGO ｜ 阿诺德·贝克曼-FGO ｜ 阿诺德-FGO
+
+巴力（单图）
+巴力-FGO ｜ 魔神巴力-FGO ｜ 魔神柱巴力-FGO ｜ 巴力-魔神柱-FGO ｜ 巴力-Avenger-FGO ｜ 巴尔-FGO
+
+伦道夫·卡特（六情绪槽，3张独立原图）
+伦道夫·卡特-FGO ｜ 伦道夫-FGO ｜ 卡特-FGO ｜ 伦道夫・卡特-FGO
+
+卡瓦斯二世（六情绪槽，2张独立原图）
+卡瓦斯二世-FGO ｜ 卡瓦斯Ⅱ-FGO ｜ 卡瓦斯II-FGO ｜ 卡瓦斯-FGO
+
+达尤-Rider（六情绪槽，6张独立原图）
+达尤-Rider-FGO ｜ 达尤-FGO ｜ 海盗公女达尤-FGO ｜ 海盗公女达尤-Rider-FGO ｜ 达尤（Rider）-FGO ｜ 德雷克-Rider-达尤-FGO
+
+眼带（单图）
+眼带-FGO ｜ 眼带男-FGO ｜ 眼罩海盗-FGO ｜ 海盗眼带-FGO
+
+少年弗格斯-Saber（六情绪槽，6张独立原图）
+少年弗格斯-Saber-FGO ｜ 少年弗格斯-FGO ｜ 弗格斯-Saber-少年-FGO ｜ 弗格斯-少年-FGO ｜ 弗格斯·马克·罗伊-Saber-少年-FGO ｜ 小弗格斯-Saber-FGO
+
+吉尔斯（单图）
+吉尔斯-FGO ｜ 老吉尔斯-FGO ｜ 老皮克曼-FGO ｜ 吉尔斯·科里-FGO ｜ 皮克曼老人-FGO
+
+约翰·霍桑（单图）
+约翰·霍桑-FGO ｜ 霍桑-FGO ｜ 约翰·哈桑-FGO ｜ 霍桑法官-FGO
+
+玛窦·霍普金斯（单图）
+玛窦·霍普金斯-FGO ｜ 霍普金斯-FGO ｜ 马修·霍普金斯-FGO ｜ 猎巫将军霍普金斯-FGO
+
+贞德〔Alter〕-Avenger-新宿礼服（六情绪槽，5张独立原图）
+贞德〔Alter〕-Avenger-新宿礼服-FGO ｜ 贞德Alter-Avenger-新宿礼服-FGO ｜ 黑贞-Avenger-礼服-FGO ｜ 黑贞-新宿礼服-FGO ｜ 贞德〔Alter〕-Avenger-舞会礼服-FGO ｜ 贞德Alter-Avenger-礼服-FGO
+
+镝木（六情绪槽，2张独立原图）
+镝木-FGO ｜ 镝木先生-FGO ｜ 镝木-新宿-FGO
+
+春日局（六情绪槽，6张独立原图）
+春日局-FGO ｜ 阿福-FGO ｜ 春日局-大奥-FGO ｜ 阿福-大奥-FGO
+
+清姬-下总国（六情绪槽，6张独立原图）
+清姬-下总国-FGO ｜ 清姬-城主之女-FGO ｜ 下总国清姬-FGO ｜ 城主之女清姬-FGO ｜ 清姬-下总-FGO ｜ 清姬-下总国城主之女-FGO
+
+拉维尼娅·维特利（六情绪槽，6张独立原图）
+拉维尼娅·维特利-FGO ｜ 拉维尼娅-FGO ｜ 拉薇妮娅-FGO ｜ 拉维尼亚·维特利-FGO ｜ 拉维尼亚-FGO ｜ 拉维尼娅·惠特利-FGO
+
+玛布尔·玛金托修（六情绪槽，2张独立原图）
+玛布尔·玛金托修-FGO ｜ 玛布尔-FGO ｜ 玛布尔·麦金托什-FGO ｜ 马布尔-FGO
+
+梅加洛斯-Berserker（六情绪槽，2张独立原图）
+梅加洛斯-Berserker-FGO ｜ 梅加洛斯-FGO ｜ 巨英雄梅加洛斯-FGO ｜ 巨英雄梅加洛斯-Berserker-FGO ｜ 梅加洛斯（Berserker）-FGO ｜ 赫拉克勒斯-Berserker-梅加洛斯-FGO
+
+皮克曼夫人（单图）
+皮克曼夫人-FGO ｜ 匹克曼夫人-FGO ｜ 皮克曼太太-FGO
+
+松平信纲（六情绪槽，6张独立原图）
+松平信纲-FGO ｜ 松平信綱-FGO ｜ 信纲-FGO ｜ 松平信纲-大奥-FGO
+
+阿缝（六情绪槽，6张独立原图）
+阿缝-FGO ｜ 田助-FGO ｜ 阿缝与田助-FGO ｜ 阿缝和田助-FGO ｜ 阿缝、田助-FGO
+
+比尔·奥斯本（单图）
+比尔·奥斯本-FGO ｜ 奥斯本-FGO ｜ 比尔·奥斯朋-FGO ｜ 比尔-FGO
+
+认真严肃的绅士（单图）
+认真严肃的绅士-FGO ｜ 严肃的绅士-FGO ｜ 绅士-幻灵-FGO ｜ 认真严肃的绅士-新宿-FGO
+
+圆脸的神父（单图）
+圆脸的神父-FGO ｜ 圆脸神父-FGO ｜ 神父-幻灵-FGO ｜ 圆脸的神父-新宿-FGO
+
+鸟窝头的博士（单图）
+鸟窝头的博士-FGO ｜ 鸟窝头博士-FGO ｜ 博士-幻灵-FGO ｜ 鸟窝头的博士-新宿-FGO
+
+玩绳结的老人（单图）
+玩绳结的老人-FGO ｜ 玩绳结老人-FGO ｜ 老人-幻灵-FGO ｜ 玩绳结的老人-新宿-FGO
+
+菲尼克斯（单图）
+菲尼克斯-FGO ｜ 魔神菲尼克斯-FGO ｜ 魔神柱菲尼克斯-FGO ｜ 菲尼克斯-Ruler-FGO ｜ 菲尼克斯-魔神柱-FGO ｜ 菲尼克斯（Ruler）-FGO
+
+劳姆（单图）
+劳姆-FGO ｜ 魔神劳姆-FGO ｜ 魔神柱劳姆-FGO ｜ 劳姆-魔神柱-FGO ｜ 劳姆-Caster-FGO ｜ 劳姆（Caster）-FGO
+
+蕾贝卡·诺斯（单图）
+蕾贝卡·诺斯-FGO ｜ 蕾贝卡-FGO ｜ 丽贝卡·诺斯-FGO ｜ 丽贝卡-FGO ｜ 蕾贝卡·纳斯-FGO
+
+左近（六情绪槽，2张独立原图）
+左近-FGO ｜ 左近-新宿-FGO ｜ 左近先生-FGO
+
+提图芭-Caster（六情绪槽，6张独立原图）
+提图芭-Caster-FGO ｜ 提图芭-FGO ｜ 提图巴-Caster-FGO ｜ 提图巴-FGO ｜ 提图芭（Caster）-FGO ｜ 示巴女王-Caster-提图芭-FGO
+
+白旗（单图）
+白旗-FGO ｜ 锚番-FGO ｜ 白旗与锚番-FGO ｜ 白旗和锚番-FGO ｜ 白旗、锚番-FGO
+
+桀派（单图）
+桀派-FGO ｜ 魔神桀派-FGO ｜ 魔神柱桀派-FGO ｜ 桀派-魔神柱-FGO ｜ 泽帕尔-FGO ｜ 魔神泽帕尔-FGO
+
+巡礼梣-Caster（六情绪槽，6张独立原图）
+巡礼梣-Caster-FGO ｜ 巡礼梣-FGO ｜ 梣-Caster-巡礼-FGO ｜ 梣-巡礼-FGO ｜ 托内莉可-Caster-巡礼-FGO ｜ 托内莉可-巡礼-FGO
+
+欧若拉（六情绪槽，6张独立原图）
+欧若拉-FGO ｜ 欧罗拉-FGO ｜ 奥罗拉-FGO ｜ 欧若拉-妖精-FGO
+
+红阎魔Alter-Saber（六情绪槽，6张独立原图）
+红阎魔Alter-Saber-FGO ｜ 红阎魔Alter-FGO ｜ 红阎魔〔Alter〕-Saber-FGO ｜ 红阎魔-Saber-Alter-FGO ｜ 红阎魔-Alter-FGO ｜ 红阎魔Alter（Saber）-FGO
+
+布兰卡（单图）
+布兰卡-FGO ｜ 布兰卡-白蛾-FGO ｜ 白蛾布兰卡-FGO ｜ 布兰卡-妖精-FGO
+
+博格特（六情绪槽，6张独立原图）
+博格特-FGO ｜ 博格特-谢菲尔德领主-FGO ｜ 博格特-妖精-FGO
+
+卡玛佐茨（六情绪槽，6张独立原图）
+卡玛佐茨-FGO ｜ 卡马佐茨-FGO ｜ 卡玛佐兹-FGO ｜ 卡玛佐茨-Beast-FGO ｜ 蝙蝠神卡玛佐茨-FGO ｜ 卡玛佐茨-BeastI-FGO
+
+科尔努诺斯（单图）
+科尔努诺斯-FGO ｜ 刻耳努诺斯-FGO ｜ 角神-FGO ｜ 科尔努诺斯-Berserker-FGO ｜ 刻耳努诺斯-Berserker-FGO ｜ 角神科尔努诺斯-FGO
+
+科拉尔（六情绪槽，6张独立原图）
+科拉尔-FGO ｜ 珂拉尔-FGO ｜ 科拉尔-妖精-FGO
+
+夸乌特莫克（单图）
+夸乌特莫克-FGO ｜ 库奥特莫克-FGO ｜ 夸乌特莫克-奥赛罗特尔-FGO
+
+恐龙王（六情绪槽，6张独立原图）
+恐龙王-FGO ｜ 恐龙王-特斯卡特利波卡-FGO ｜ 特斯卡特利波卡-恐龙王-FGO ｜ 特斯卡特利波卡-Assassin-恐龙王-FGO ｜ 蓝色特斯卡特利波卡-FGO ｜ 特斯卡特利波卡-蓝色-FGO
+
+多加（六情绪槽，5张独立原图）
+多加-FGO ｜ 多加-妖精-FGO ｜ 妖精多加-FGO
+
+埃克特（六情绪槽，5张独立原图）
+埃克特-FGO ｜ 艾克托-FGO ｜ 埃克托-FGO ｜ 铁匠埃克特-FGO
+
+埃列什基伽勒Alter-Lancer（六情绪槽，6张独立原图）
+埃列什基伽勒Alter-Lancer-FGO ｜ 埃列什基伽勒Alter-FGO ｜ 埃列什基伽勒〔Alter〕-Lancer-FGO ｜ 埃列什基伽勒-Lancer-Alter-FGO ｜ 艾蕾Alter-Lancer-FGO ｜ 艾蕾Alter-FGO
+
+法布罗·罗温（六情绪槽，3张独立原图）
+法布罗·罗温-FGO ｜ 法布罗-FGO ｜ 法布罗·罗威恩-FGO ｜ 法布罗・罗温-FGO
+
+格里姆-Caster（六情绪槽，3张独立原图）
+格里姆-Caster-FGO ｜ 贤者格里姆-Caster-FGO ｜ 格里姆-FGO ｜ 贤者格里姆-FGO ｜ 库·丘林-Caster-格里姆-FGO ｜ 格里姆（Caster）-FGO
+
+哈罗巴洛米亚（六情绪槽，5张独立原图）
+哈罗巴洛米亚-FGO ｜ 哈洛巴罗米亚-FGO ｜ 哈罗巴洛米亚-妖精-FGO
+
+霍普（六情绪槽，5张独立原图）
+霍普-FGO ｜ Hope-FGO ｜ 霍普-妖精-FGO ｜ 妖精霍普-FGO
+
+伊斯卡利（六情绪槽，6张独立原图）
+伊斯卡利-FGO ｜ 伊兹卡利-FGO ｜ 伊斯卡利-Avenger-FGO ｜ 伊兹卡利-Avenger-FGO
+
+帝王花Alter-AlterEgo（六情绪槽，6张独立原图）
+帝王花Alter-AlterEgo-FGO ｜ 帝王花Alter-FGO ｜ 帝王花〔Alter〕-AlterEgo-FGO ｜ 帝王花-AlterEgo-Alter-FGO ｜ KingproteaAlter-AlterEgo-FGO ｜ 帝王花-Alter-FGO
+
+诺克娜蕾-妖精国（六情绪槽，6张独立原图）
+诺克娜蕾-妖精国-FGO ｜ 妖精国诺克娜蕾-FGO ｜ 诺克娜蕾-女王-FGO ｜ 妖精女王诺克娜蕾-FGO ｜ 诺克娜蕾-不列颠-FGO ｜ 诺克娜蕾-北方女王-FGO
+
+迈克（六情绪槽，6张独立原图）
+迈克-FGO ｜ 迈克-妖精-FGO ｜ 迈克-旅店老板-FGO
+
+缪瑞恩（六情绪槽，6张独立原图）
+缪瑞恩-FGO ｜ 缪莉安-FGO ｜ 穆里安-FGO ｜ 缪瑞恩-妖精-FGO ｜ 缪瑞恩-格洛斯特领主-FGO
+
+翁法姆（六情绪槽，5张独立原图）
+翁法姆-FGO ｜ 翁法姆-妖精-FGO ｜ 妖精翁法姆-FGO
+
+ORT（单图）
+ORT-FGO ｜ 奥尔特-FGO ｜ ORT-原始形态-FGO ｜ 奥尔特-原始形态-FGO
+
+PB（单图）
+PB-FGO ｜ P.B.-FGO ｜ PB-通古斯卡-FGO
+
+异闻带珀西瓦尔（六情绪槽，6张独立原图）
+异闻带珀西瓦尔-FGO ｜ 珀西瓦尔-异闻带-FGO ｜ 异闻带珀西瓦尔-Lancer-FGO ｜ 珀西瓦尔-Lancer-异闻带-FGO ｜ 珀西瓦尔-妖精国-FGO ｜ 珀西瓦尔-圆桌军-FGO
+
+罗布（六情绪槽，6张独立原图）
+罗布-FGO ｜ 罗布-妖精-FGO ｜ 罗布-北方妖精-FGO
+
+桑丘·潘沙（六情绪槽，5张独立原图）
+桑丘·潘沙-FGO ｜ 桑丘-FGO ｜ 桑丘·潘萨-FGO ｜ 桑丘-Rider-FGO ｜ 桑丘·潘沙-Rider-FGO ｜ 桑丘·潘莎-FGO
+
+斯普里根（六情绪槽，5张独立原图）
+斯普里根-FGO ｜ 斯普利根-FGO ｜ 斯普里根-诺里奇领主-FGO ｜ 斯普里根-妖精-FGO
+
+特佩乌（六情绪槽，6张独立原图）
+特佩乌-FGO ｜ 特佩尤-FGO ｜ 特佩乌-迪诺斯-FGO ｜ 迪诺斯特佩乌-FGO
+
+希腊的Archer（单图）
+希腊的Archer-FGO ｜ 希腊的Archer-Archer-FGO ｜ 希腊弓兵-Archer-FGO ｜ 希腊的弓兵-FGO ｜ 希腊弓兵-FGO
+
+诸多经历的Assassin（单图）
+诸多经历的Assassin-FGO ｜ 诸多经历的Assassin-Assassin-FGO ｜ 经历丰富的Assassin-FGO ｜ 经历丰富的Assassin-Assassin-FGO ｜ 诸多经历的暗杀者-FGO
+
+未能成为山中老人的Assassin（单图）
+未能成为山中老人的Assassin-FGO ｜ 未能成为山中老人的Assassin-Assassin-FGO ｜ 未能成为山中老人的暗杀者-FGO ｜ 未能成为山中老人者-Assassin-FGO ｜ 无名暗杀者-Assassin-死想显现界域-FGO
+
+欧洲的Berserker（六情绪槽，3张独立原图）
+欧洲的Berserker-FGO ｜ 欧洲的Berserker-Berserker-FGO ｜ 欧洲狂战士-Berserker-FGO ｜ 欧洲的狂战士-FGO ｜ 欧洲狂战士-FGO
+
+炼金术师的Caster（单图）
+炼金术师的Caster-FGO ｜ 炼金术师的Caster-Caster-FGO ｜ 炼金术师-Caster-FGO ｜ 炼金术师的魔术师-FGO ｜ 炼金术师-Caster-死想显现界域-FGO
+
+骑士团的Lancer（单图）
+骑士团的Lancer-FGO ｜ 骑士团的Lancer-Lancer-FGO ｜ 骑士团枪兵-Lancer-FGO ｜ 骑士团的枪兵-FGO ｜ 骑士团枪兵-FGO
+
+西西里的Rider（单图）
+西西里的Rider-FGO ｜ 西西里的Rider-Rider-FGO ｜ 西西里骑兵-Rider-FGO ｜ 西西里的骑兵-FGO ｜ 西西里骑兵-FGO
+
+未能自我介绍的Saber（单图）
+未能自我介绍的Saber-FGO ｜ 未能自我介绍的Saber-Saber-FGO ｜ 无名剑士-Saber-死想显现界域-FGO ｜ 未能自我介绍的剑士-FGO ｜ 未能自我介绍的剑士-Saber-FGO
+
+乌库伯（六情绪槽，5张独立原图）
+乌库伯-FGO ｜ 武库布-FGO ｜ 乌库布-FGO ｜ 乌库伯-迪诺斯-FGO
+
+瓦格（六情绪槽，6张独立原图）
+瓦格-FGO ｜ 瓦格-妖精-FGO ｜ 瓦格-北方妖精-FGO
+
+瓦克昌（六情绪槽，6张独立原图）
+瓦克昌-FGO ｜ 瓦克·昌-FGO ｜ 瓦克钱-FGO ｜ 瓦克昌-迪诺斯-FGO
+
+温基（六情绪槽，6张独立原图）
+温基-FGO ｜ 温奇-FGO ｜ 温基-妖精-FGO ｜ 温基-北方妖精-FGO
+
+伍德沃斯（六情绪槽，6张独立原图）
+伍德沃斯-FGO ｜ 伍德沃兹-FGO ｜ 伍德沃斯-妖精-FGO ｜ 伍德沃斯-牛津领主-FGO
+
+希基克（六情绪槽，6张独立原图）
+希基克-FGO ｜ 希奎克-FGO ｜ 希基克-迪诺斯-FGO
+
+复用现有图鉴资源：
+common-hinako: 芥雏子-FGO；新增：无，直接复用已有键
+common-koyanskaya-nff: 暗之高扬斯卡娅-Foreigner-FGO；新增：高扬斯卡娅-NFF-FGO ｜ NFF高扬斯卡娅-FGO ｜ 高扬斯卡娅-Foreigner-NFF-FGO
+early-captain-guard: 李书文-Assassin-FGO；新增：卫士长-FGO ｜ 李书文-卫士长-FGO
+eor-jeanne-shinjuku: 贞德〔Alter〕-Avenger-FGO；新增：无，直接复用已有键
+eor-kojiro-saber: 佐佐木小次郎-Assassin-FGO；新增：佐佐木小次郎-Saber-FGO ｜ 佐佐木小次郎（Saber）-FGO
+eor-otama: 玉藻前-Caster-FGO；新增：小玉-FGO ｜ 小玉-下总国-FGO
+late-totorot: 哈贝特洛特-Rider-FGO；新增：特特洛特-FGO ｜ 特特洛特-Rider-FGO ｜ 哈呗喵-Rider-FGO
